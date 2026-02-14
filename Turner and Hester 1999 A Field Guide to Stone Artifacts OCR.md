@@ -1,4 +1,4 @@
-�
+�
 
 2. THE MANUFACTURE
 
@@ -35,7 +35,7 @@ experimentation.
 
 11
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Making Chipped  Stone Tools
 
@@ -60,7 +60,7 @@ cussion, using an antler hammer.
 
 12
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 3
 
@@ -68,7 +68,7 @@ cussion, using an antler hammer.
 
 13
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 (1985,  1991a)  have  documented  obsidian  from  Mexico,  New
 Mexico,  Idaho, and \Vyoming at Texas sites, utilizing techniques
@@ -115,7 +115,7 @@ Texas,  where  they  cap  the  hills  and  high  terraces  (Hester
 
 14
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 Figure 2-2. Lithic Resources in  Texas.  Approximate locations of selected major lithic
 resources are shmvn. Detailed information can be found in Banks (1990).  Kry: A,
@@ -137,7 +137,7 @@ of  San  Antonio,  there  are  extensive  exposures  of  Edwards
 
 15
 
-· Stone Artifacts of Texas Indians
+· Stone Artifacts of Texas Indians
 
 cherts,  often a f ine-grained grey  to brown material,  and  there
 are  many  quarry  locales  where  these  were  procured  by  the
@@ -185,7 +185,7 @@ gray  cherts.  These  occur  in  lenses  and  nodules  in  that  area
 
 16
 
-1he Manufacture and Use of Stone Tools
+1he Manufacture and Use of Stone Tools
 
 A sampling of other  Texas  lithic  resources,  studied in detail
 by Banks ( 1990), include  Manning  Fused Glass (formed by the
@@ -205,7 +205,7 @@ Figure  2-3.  A  Biface  of Petrified  Wood from East  Texas.
 
 17
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 chert  and  quartzite  gravels  in  the  San  Angelo  area  (Banks
 1990).
@@ -224,7 +224,7 @@ versity of Texas at San Antonio.
 
 18
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 it  produces  a  pink  to  purple  discoloration  of the  chert,  along
 with a vitreous "greasy"  appearance (Hester and Collins  19 7 4 ).
@@ -242,7 +242,7 @@ versity of Texas  at  San Antonio.
 
 19
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Figure  2-6. Hammers/ones.  These  specimens  are  on  quartzite  pebbles  from  south
 Texas. The ends are  battered and sometimes have been split or flaked by the impact
@@ -263,7 +263,7 @@ a nodule and core.
 
 20
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 in the manufacture of a bijace (especially a dart point),  a core was
 formed by strikingflakes off a cobble using a hammerstone percussion
@@ -298,7 +298,7 @@ Figure  2 7  continued.
 
 21
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 �
 
@@ -326,7 +326,7 @@ to final shape.
 
 22
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 e
 
@@ -335,7 +335,7 @@ e,  biface thinning flake (Dorsal and ventral faces  shown).  (See also  fig.  1
 
 23
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 in  archaeological  sites  and  represent  "fossilized"  stages in  bifa­
 cial  reduction.  Archaeologists  once  simply  described  these  as
@@ -360,14 +360,14 @@ form.
 
 24
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 Figure  2- 1 1 .  Cache Bifacefrom /rdi  Fairvie-dJ Park  Cache (41 TV9). Courtesy, Texas Arche­
 ological  Research Laboratory, The University of Texas  at Austin.
 
 25
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ing sites  found  at  raw  material  outcrops.  Sometimes,  the  thin­
 ner, better made blanks were collected and buried in "caches"-­
@@ -413,7 +413,7 @@ forms  have  to  be  examined  for  evidence  as  to  why  they  were
 
 26
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 Figure  2- 1 2. A  "Trade Blank"Jrom  Central  Texas.  Large, relatively thin blanks of this
 sort are  sometimes found either singly or in caches in central Texas and surrounding
@@ -421,7 +421,7 @@ areas. They were  apparently made for, or  used  in,  exchange  and  trade.
 
 27
 
-The Manufacture and I.IN af SIDne Tools
+The Manufacture and I.IN af SIDne Tools
 
 '
 
@@ -492,7 +492,7 @@ Figure  2- 1 3.  Overs/wt Flaks.
 
 28
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 abandoned  (flaws;  short  "hinge"  f akes;  lumps  or  knots  on  the
 biface  that  could not be  removed or the detachment of "over­
@@ -548,7 +548,7 @@ m1ss10n.
 
 29
 
-A f"ield Guide to Stone Artifacts, Second Edition
+A f"ield Guide to Stone Artifacts, Second Edition
 
 flakes known as blades (figs.  2-9  and  2- 1 4), yet some go  through
 a  preform  phase.  And,  if  the  point  is  never  completed,  the
@@ -581,7 +581,7 @@ Research,  The University of Texas at San  Antonio.  Actual size.
 
 30
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 The  finished artifact, be it point or scraper,  has  a  "life  span"
 during which it may undergo modifications that will significantly
@@ -628,7 +628,7 @@ concept  that  we  discussed  earlier  in  terms  of our  typological
 
 31
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 approach).  Of course, in  the  analysis of hundreds of points from
 a  site, there are always a  number whose stems or other attrib­
@@ -648,7 +648,7 @@ Antonio.
 
 32
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 The  completed  artifact  was  often  hafted  for  use.  This  is
 obvious with the projectile points; the shape of their stem often
@@ -693,12 +693,12 @@ flake  set  in  a  "handle"  or  sheath  made  of woven  basketry
 
 33
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Figure  2-1 7. Hefted Knife .from Cueva de la Candelaria,  Coahuila, Mexico. Drawn at one­
 half scale. From Aveleyra Arroyo de Anda et al.  (1 956).
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 ½  actual  size
 
@@ -706,7 +706,7 @@ Figure  2-18. Hqfted  Unifacefrom Southwest Coahuila, Mexico.  Cross-section is 
 to show how the uniface is inserted into the haft, held in place with resin. See Hes­
 ter (1971).
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 parts of Texas, where preservation  is  usually poor,  we  have  to
 keep  in mind that  tools were  probably hafted in a variety of ways
@@ -742,7 +742,7 @@ tesy  of Elizabeth Craig and Joseph  Labadie.  (See  also  Shafer  1986: 1 1 1 .
 
 36
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 Figure  2-20. Late  Prehistoric Blades  and B/,ade  Cores.  Upper,  blade  core  and  utilized
 blades, 4 1  NU ! I ;  lower, unfinished Perdiz point on blade and blade core, 4 1  SS20.
@@ -750,7 +750,7 @@ Illustrated  actual size.
 
 :37
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Collins ( 1 989) describe a cache of Clovis blades found  near the
 Trinity River  in  Navarro  County  (fig.  2-2 1 ).  The  specialized
@@ -773,7 +773,7 @@ Figure  2-2 1 .  Buides  ef Clovis  Age from Navarro  County.  From  a  cache  f
 
 38
 
-½ actual size
+½ actual size
 
 Figure  2-22.  Clovis  Bl.ade  Core.  This  specimen  was  found  in  1 991  excavations  at
 41 BL323 by T.  R.  Hester and M.  B.  Collins.  The  side  view indicates  the  nature
@@ -783,7 +783,7 @@ of specimen,  1 2 .  7  cm.)
 
 39
 
-stone Artifacts of Texas Indians
+stone Artifacts of Texas Indians
 
 Determining the  Function of Stone  Tools
 
@@ -829,7 +829,7 @@ analysis. Shafer and Holloway  (1 979) have applied this technique
 
 40
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 to  flake  tools  from  Hinds  Cave  in  Val  Verde  County,  Texas.
 Using analyses  of organic residues  still adhering to chert  flakes
@@ -875,7 +875,7 @@ lished,  we still  do not know how  they were used.  Similarly,  the
 
 41
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 0
 I  CM
@@ -946,7 +946,7 @@ Archaeological  Research, The University  of Texas at San Antonio.
 
 42
 
-The Manufacture and Use of Stone Tools
+The Manufacture and Use of Stone Tools
 
 ible polish on the tips; it might result from cutting meat or slic­
 ing up soft plants, but no detailed wear research has been done
@@ -967,7 +967,7 @@ removed spalls and created the burin); c,  burin spall. From Sorrow, Shafer and 
 
 43
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 shall be  forced to  make inferences, based on limited studies and
 guesswork, about the role of these tools in ancient lifeways until
@@ -1004,7 +1004,7 @@ research.
 
 44
 
-�
+�
 
 3.  CONTEXT AND CHRONOLOGY  �  I
 
@@ -1038,7 +1038,7 @@ scape that has been  modified by humans.  Common among these
 
 45
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 are campsites,  where d aily life  took place;  quarries or lithic processing
 areas,  the locales of stone•chipping;  temporary campsites,  representing
@@ -1085,7 +1085,7 @@ finished  tools  found,  since this  is a locality where the  basic  lev -
 
 46
 
-Context and Chronology
+Context and Chronology
 
 els  of stone-working took place-securing good chipping mate­
 rials, removing cortex flakes from  the cobbles and roughing-out
@@ -1131,7 +1131,7 @@ are even more crucial. Casual collecting and indiscriminate dig-
 
 47
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ging destroy these vital links. Thus, a cigarbox of points dug out
 of a  site by  an  untrained  person  may make  an  interesting  col­
@@ -1176,7 +1176,7 @@ charging  around  $200  per  sample.  Samples  of  ideal  size  are
 
 48
 
-Context and Chronologr
+Context and Chronologr
 
 around  I O  grams  or more  of charcoal; even then,  the  resulting
 date is expressed with a possible  range of error, perhaps 50- 100
@@ -1223,7 +1223,7 @@ of stratified sites continues in  central  Texas,  and  as  some  cul-
 
 49
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 tural  patterns  and  their  diagnostic  artifacts  are  radiocarbon
 dated,  it  is  then  possible  to  cross-date  artifacts  of known  date
@@ -1268,7 +1268,7 @@ the Trans-Pecos; Story et al.  ( 1 990) summarizes East Texas, and
 
 50
 
-Context and Chronology
+Context and Chronology
 
 Hester et al.  ( 1 989) provide  overviews of the  archaeology  of south,
 central  and lower Pecos  Texas.
@@ -1324,7 +1324,7 @@ distinguished by Folsom  fluted  points  and  is known from  sites
 
 51
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 STAGE
 
@@ -1401,7 +1401,7 @@ From  Prewitt  1 98 1 a:  fig.  4. By permission of the Texas Archeological Soci
 
 52
 
-Context and Chronology
+Context and Chronology
 
 SITES
 
@@ -1538,7 +1538,7 @@ courtesy of the Department of Anthropology, The University of Texas at Austin).
 
 53
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 where  now-extinct  forms  of bison  were  killed  and  butchered
 (Bonfire) or from campsites (Adair-Steadman) where the points
@@ -1689,7 +1689,7 @@ Austin.
 
 54
 
-Context and Chronology
+Context and Chronology
 
 this period. Although flu ting ceases to be  an  important trait  of
 Paleo-Indian  points  after  Clovis  and Folsom,  later Paleo-Indian
@@ -1734,7 +1734,7 @@ such  as  Martindale,  Uvalde,  Ear!J  Triangular  and  Bell  (McKinney
 
 55
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Late
 Prehistoric II
@@ -1772,7 +1772,7 @@ Figure  3-4.  Proposed  Projectile  Point  Sequence
 
 56
 
-Context and Chronology
+Context and Chronology
 
 1 98 1  ).  The  Middle  Archaic  (2500 B.C.- 1 000 B.C.)  marks  a  time ,
 throughout the state, o f  significant population increase, large num­
@@ -1821,7 +1821,7 @@ bow  and  arrow is  introduced, along with  other distinctive types
 
 57
 
-b
+b
 l
 u
 B
@@ -2318,7 +2318,7 @@ C
 C
 I
 
-,
+,
 e
 d
 r
@@ -2746,7 +2746,7 @@ N
 A
 I
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Period
 
@@ -2866,7 +2866,7 @@ cal Research Laboratory at Texas A & M University.
 
 60
 
-Context and Chronology
+Context and Chronology
 
 of stone tools.  Pottery  is  also present,  even  among hunters and
 gatherers  in  central,  south  and  coastal  Texas.  Bison  hunting
@@ -2911,7 +2911,7 @@ stone,  ending  an  1 1 ,000-year  tradition.
 
 61
 
-l
+l
 
 a
 m
@@ -3630,7 +3630,7 @@ M
 C
 I
 
-s
+s
 a
 x
 e
@@ -4242,7 +4242,7 @@ G
 -
 -
 
-�
+�
 
 4 .   PROJECTILE  POINTS :  �
 
@@ -4277,7 +4277,7 @@ tion,  it is  important  that readers  and  authors  attach the  same
 
 64
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 meaning  to  the  terminology  u sed  in  the  type  descriptions.
 Figure  20 graphically describes the nomenclature u sed in this
@@ -4314,7 +4314,7 @@ on  an  index map  of Texas.
 
 65
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 TERMINOLOGY  USED  IN  ARTIFACT DESCRIPTIONS
 
@@ -4381,7 +4381,7 @@ Figure  4 1 .  Terminology  Used in Artifact Descriptions.
 
 66
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 Panhandle
 
@@ -4451,7 +4451,7 @@ cal areas referred  to in this  book.
 
 67
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Dart  Points
 
@@ -4474,7 +4474,7 @@ Weir  1 956;  MacNeish  1 958;  Suhm  and Jelks  1 962
 
 68
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 ALMAGRE
 
@@ -4490,7 +4490,7 @@ Coontail  Spin;  Pan ther  Springs
 
 69
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 AlMAGRE
 
@@ -4499,7 +4499,7 @@ ley  and Duffield  1 964;  Suhm  and Jelks  1 962;  Townsend  1 990
 
 70
 
-Pro;ec:tile Points: Type  Descriptions
+Pro;ec:tile Points: Type  Descriptions
 
 ANDICE
 
@@ -4518,7 +4518,7 @@ Collins;  Coleto  C reek;  C uero  I  Reservoir
 
 71
 
-Stone Artifac:ts of Texas Indians
+Stone Artifac:ts of Texas Indians
 
 ANDICE
 
@@ -4527,7 +4527,7 @@ Weber  and Patterson  1 985,  1 986;  Moore  l 989
 
 72
 
-Projectile  Points: Type Descriptions
+Projectile  Points: Type Descriptions
 
 ANGOSTURA
 This long,  slender,  leaf-shaped  point  has  oblique  parallel-f aking,
@@ -4549,7 +4549,7 @@ Creek;  Levi ;  La P erdida;  4 I BX83 1  4 I B P l 9;  Baker Cave
 
 73
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ANGOSTIJRA
 
@@ -4561,7 +4561,7 @@ et al.  1 989; Thoms  1 992; Nightengale  et al.  1 985
 
 74
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 AXTELL
 
@@ -4582,7 +4582,7 @@ Charles  C ox;  White  Oak Bayou ( 4 1  HR269)
 
 75
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 AXTELL
 
@@ -4591,7 +4591,7 @@ dler,  1 992; Fields et al.  1 99 1 ,   I 990a,  1 990b
 
 76
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 BAKER
 The body of this  point is thick in cross-section,  and it has straight
@@ -4610,7 +4610,7 @@ l 984;  Shafer  and  Bryant  1 9 7 7
 
 77
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 BANDY
 The lateral edges  on this point vary  from  gently convex to slightly
@@ -4633,7 +4633,7 @@ and  Bryant  1 97 7 ;  Weir  1 984
 
 78
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 BARBER
 A  long,  thick,  parallel-flaked,  lanceolate  point  that  expands  near
@@ -4654,7 +4654,7 @@ References:  Weir  1 984;  Kelly  1 982,  1 983b
 
 79
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 BELL The distinctive  attributes  of  this point are its  wide,  thin,  triangu­
 lar body and  long narrow barbs formed by basal-notching.  It is sim­
@@ -4675,7 +4675,7 @@ terson  1 985,  1 98 6
 
 80
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 BIG SANDY
 
@@ -4706,7 +4706,7 @@ References:  Perino  1 985; Justice  1 98 7 ;  Long  l 9 7 7 ;  Gerstle,  Kelly 
 
 81
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 BULVERDE
 
@@ -4721,14 +4721,14 @@ Greenhaw;  Smith Rockshelter; Wunderlich;  4 I BN I 08
 
 82
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References: Sorrow, Shafer and Ross 1 967; Weir 1 979; Suhm 1 957; Johnson
 1 962a;  Suhm and Jelks  1 962
 
 83
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CARRIZO
 
@@ -4746,7 +4746,7 @@ References: House  and Hester  1 963,  1 967; Hester  1 968; Black and McGraw
 
 84
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 CARROLLTON
 
@@ -4763,7 +4763,7 @@ Suhm and Jelks 1962
 
 85
 
-Stone Artifacts of TeX11$ Indians
+Stone Artifacts of TeX11$ Indians
 
 CASTROVILLE
 
@@ -4782,11 +4782,11 @@ Jetta Court;  Scorpion  Cave;  Piedra  de!  Diablo;
 
 86
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 87
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CASTROVILLE
 
@@ -4796,7 +4796,7 @@ Tunnell  and  Hughes  1 9 55;  Story  et al.  1 990;  Mueggenborg  1 99 1
 
 88
 
-Prolectlle Points: Type Descriptions
+Prolectlle Points: Type Descriptions
 
 CATAN
 
@@ -4819,7 +4819,7 @@ and Jelks  1 962
 
 89
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CHARCOS
 
@@ -4840,7 +4840,7 @@ bell (personal  communication);  Campbell  1 96 7 ;   Utberg  1 969
 
 90
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 CLOVIS
 
@@ -4864,7 +4864,7 @@ C lovis (NM);  4 l BL323;  4 IJF50;  4 I D N 4 7 9 ;  4 1 TV l 364
 
 91
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CLOVIS
 
@@ -4877,7 +4877,7 @@ Collins  et  al.  1 990;  Collins  1 9 90;  Ferring  1 990;  Meltzer  1 987;  C 
 
 92
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 a
 
@@ -4902,7 +4902,7 @@ Courtesy  of Current Research  in  the  Pleistocene.
 
 93
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CLOVIS
 
@@ -4915,7 +4915,7 @@ Pleistocene.
 
 94
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 d
 
@@ -4933,7 +4933,7 @@ I
 
 95
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CONEJO
 
@@ -4951,7 +4951,7 @@ References: Marmaduke 1978; Johnson 1 964; Graham and Davis 1 958; Greer
 
 96
 
-Projectile Points: Type Descnpaon,.
+Projectile Points: Type Descnpaon,.
 
 COSSATOT
 
@@ -4977,7 +4977,7 @@ References: Perino  1 985; Story el al.  1 990; Wood  1 9 62;  Perino and  Benne
 
 97
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 DALLAS
 
@@ -4996,7 +4996,7 @@ References:  Crook and Harris  1 954a;  Bell  1 960;  Prikryl  1 990
 
 98
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 DALTON
 
@@ -5019,7 +5019,7 @@ Medicine Creek sites (NE)
 
 99
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 DALTON
 
@@ -5029,7 +5029,7 @@ Wormington  1 95 7 ; Johnson  1 989b;  Story  1 990  et  al.;  Myers and Lambert
 
 100
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 DARL
 
@@ -5064,7 +5064,7 @@ Shafe r  and  Ross  1 96 7 ;   Suhm  and J elks  1 962;  Kotter  et al.  1 985
 
 101
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 DAWSON
 
@@ -5084,7 +5084,7 @@ son  1 990a,  1 990b; Fields et al.  1 990a,  1 990b;  Peter  1 982a
 
 102
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 DELHI
 
@@ -5109,7 +5109,7 @@ Louisiana
 
 103
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 DELHI
 
@@ -5117,7 +5117,7 @@ References:  Ford  and  Webb  1 956;  Webb  et  al.  (ms.); J ustice  1 987
 
 104
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 DESMUKE
 
@@ -5135,7 +5135,7 @@ Suhm  and Jelks  1 962;  Kelly  1989
 
 105
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 EARLY STEMMED
 
@@ -5160,7 +5160,7 @@ row  1 968a;  Sorrow,  Shafer and Ross  1 967; Ensor and Carlson  1 99 1
 
 106
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 EARLY STEMMED  LANCEOLATE
 
@@ -5183,7 +5183,7 @@ nication;  Weir  1 984,  personal  communication;  C rawford  1 965;  Sellards
 
 107
 
-Stone Artifaets of Texas Indians
+Stone Artifaets of Texas Indians
 
 EARLY TRIANGULAR
 
@@ -5210,7 +5210,7 @@ La jita;  Dan Baker;  Wounded  Eye;  4 1 BN ! 0 7
 
 108
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References:  Black and  McGraw  1 985; Sorrow,  Shafer and Ross  1 96 7 ;  Hes­
 communication); Luke  1 980; Suhm and
@@ -5219,7 +5219,7 @@ Jelks  1 962;  Medlar  1 99 1 ;  Peter  1 982a
 
 109
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 EARLY TRIANGULAR
 
@@ -5298,7 +5298,7 @@ Archaeological Research, The  University of Texas  at  San Antonio.
 
 110
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 EDGEWOOD
 
@@ -5316,7 +5316,7 @@ Suhm and Jelks  1 962
 
 111
 
-stone Artifacts of Texas Indians
+stone Artifacts of Texas Indians
 
 ELAM This  small point  has  prominent shoulders  and a parallel-sided stem
 
@@ -5332,7 +5332,7 @@ and Davis  1 960;  Suhm  and Jelks  1 962;  Fields  1 988
 
 112
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 ELLIS
 
@@ -5352,7 +5352,7 @@ References:  Newell  and  Krieger  1 949;  Shafer  1 97 3 ;   Young  1 98 1 ;  J
 
 113
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ENSOR
 This point varies considerably in all dimensions,  but broad stems,
@@ -5371,7 +5371,7 @@ Black and McGraw  1 985;  Story and Bryant  1 966;  Suhm and Jelks  1 962
 
 114
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 EPPS
 
@@ -5407,7 +5407,7 @@ References: Justice  1 987;  Webb  et al.  (ms.)
 
 115
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 EVANS
 
@@ -5431,7 +5431,7 @@ et  al.  1 95 5 ;   Baker  and  Webb  1 978;  Bell  1 958
 
 116
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 FAIRLAND
 
@@ -5451,7 +5451,7 @@ References:  Weir 1 979; Prewitt  1 9 74a;  Hall,  Black and Graves 1 982 ; Coll
 
 117
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 FIGUEROA
 
@@ -5468,7 +5468,7 @@ References: Johnson 1 964,  1 962a; Nunley and Duffield 1 964; Marmaduke 1978
 
 118
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 flRSTVIEW
 
@@ -5493,7 +5493,7 @@ References:  Wheat  1 9 72;  Sellards  J 952;  Holliday  et  al.  1 983;  Kibler
 
 119
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 FOLSOM
 
@@ -5520,7 +5520,7 @@ Boldurian  1 990; Amick et al.  1 989; Amick  1 990; Martinez  1 990; Tunnell  1
 
 120
 
-Projectile Points: 1ype Descriptions
+Projectile Points: 1ype Descriptions
 
 a
 
@@ -5541,7 +5541,7 @@ Anthropologist.
 
 121
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 FRIO
 
@@ -5559,7 +5559,7 @@ Jelks  1 962;  Story  and  Bryant  1 966
 
 122
 
-Proieclile Points: Type Descriptions
+Proieclile Points: Type Descriptions
 
 GARY
 This is a relatively crude and thick point with a wide range of varia­
@@ -5587,7 +5587,7 @@ communication)
 
 123
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 Step 2
 
@@ -5600,7 +5600,7 @@ Step 6
 
 124
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 GODLEY
 
@@ -5617,7 +5617,7 @@ References: Jelks  1 962; Gallagher and Bearden 1 9 76; Sorrow  I 966; Forrester
 
 125
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GOlONDRINA
 
@@ -5633,7 +5633,7 @@ Baker  Cave;  Devil's  Mouth;  Strohacker; Johnston-Heller
 
 126
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 •
 
@@ -5644,7 +5644,7 @@ and  Hester  1 972;  Birmingham  and  Hester  1 976;  Kelly  1 982,  1 983a
 
 127
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GOWER
 
@@ -5665,7 +5665,7 @@ Shafer  and  Ross  I 967;  Crawford  1 96 5 ;   Hester  1 9 79a;  Shafe r   1 97
 
 128
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 HELL GAP
 
@@ -5688,7 +5688,7 @@ Mallou f l 989,  1 990
 
 129
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 HOXIE
 
@@ -5708,7 +5708,7 @@ ble et al.  1 98 1 ;  Peter  1 982a
 
 130
 
-Projectile Points: Type  Deseriptions
+Projectile Points: Type  Deseriptions
 
 JETTA
 
@@ -5726,7 +5726,7 @@ References:  Wesolowsky,  Hester and  Brown  1 976;  Crawford  1 965;  Hester
 
 131
 
-Stone  Artifacts of Texas Indians
+Stone  Artifacts of Texas Indians
 
 JOHNSON
 
@@ -5741,13 +5741,13 @@ Brook
 
 132
 
-Projectile  Points:  Type Descriptions
+Projectile  Points:  Type Descriptions
 
 References:  Bartlett  1 963 ;  Scholtz  1967;  Perino  1 968
 
 133
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 KEITHVILLE
 
@@ -5767,13 +5767,13 @@ prior  to  6000  B.C. /Sites: John  Pearce;  Wolfshead
 
 134
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References:  Webb  et al.  1 97 1 ;  Webb  1 978a; Story  1 990  et  al.;  Duffield  1 963a
 
 135
 
-Stou Aitifaels of Texas Indians
+Stou Aitifaels of Texas Indians
 
 KENT This type  has some  similarity  to  Pontchartrain,  but i t  i s  not  as  slen­
 der and  is poorly made.  The  triangular body is often  asymmetrical,
@@ -5792,7 +5792,7 @@ sonal communication;  Suhm and Jelks  I 962; Patterson  I 990a; Story el al.  1 
 
 136
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 KINNEY
 
@@ -5811,7 +5811,7 @@ Damp C ave;  Anthon
 
 137
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 KINNEY
 
@@ -5820,7 +5820,7 @@ Suhm  and Jelks  1 962
 
 138
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 KIRK
 
@@ -5847,7 +5847,7 @@ References: Justice  I 987;  Story et al.  1 990
 
 139
 
-Stone  Artifacts of  Texas Indians
+Stone  Artifacts of  Texas Indians
 
 LA JITA
 
@@ -5867,7 +5867,7 @@ Assad  1 9 7 8;  Kelly  and Hester  1 9 76;  Carroll  1 98 3
 
 140
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 LANGE
 
@@ -5885,7 +5885,7 @@ Terrace;  4 1  LK28
 
 141
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 LANGE
 
@@ -5894,7 +5894,7 @@ Ross  1 967; Suhm  and Jelks  1 962; Taylor and  Highley n.d.
 
 142
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 LANGTRY
 
@@ -5919,7 +5919,7 @@ Are n o s a  Shelter
 
 143
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 LANGTRY
 
@@ -5931,7 +5931,7 @@ Peck  1 99 1
 
 144
 
-Projec:tlle Points: Type Descriptions
+Projec:tlle Points: Type Descriptions
 
 LERMA
 
@@ -5954,7 +5954,7 @@ Shafer  and Bryant  1 97 7 ;   Suhm  and Jelks  1 9 6 2 ;   Kelly  l 989
 
 145
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 LONE OAK
 
@@ -5974,7 +5974,7 @@ References: Johnson  1 96 2 b
 
 146
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MARCOS
 A  broad,  triangular  point  that  is  deeply  corner-n otched,  has  an
@@ -5989,7 +5989,7 @@ Shelter;  Oblate;  Pecan  Springs; John  Ischy
 
 147
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 MARCOS
 
@@ -5998,7 +5998,7 @@ and Jelks  1 962
 
 148
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MARSHALL
 
@@ -6012,7 +6012,7 @@ Diablo;  La Jita;  Youngsport ;  Oblate
 
 149
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MARSHALL
 
@@ -6021,7 +6021,7 @@ and Jelks  1 962
 
 150
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MARTINDALE
 
@@ -6049,7 +6049,7 @@ Archaic. / Sites:  Tombstone  Bluff; Jetta  C ourt;  La Jita
 
 151
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MARTINDALE
 
@@ -6058,7 +6058,7 @@ Suhm,  Krieger and J elks  1 954;  Suhm  and Jelks  1 962
 
 152
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MATAMOROS
 
@@ -6080,7 +6080,7 @@ Mallouf and  Zavaleta  1 979;  McC!urkan  1 966;  Suhrn  and Jelks  1 962
 
 153
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MESERVE
 
@@ -6107,7 +6107,7 @@ Johnson  1 989b;  Story et al.  1 990
 
 154
 
-MIDLAND
+MIDLAND
 
 This  small,  thin  lanceolate point has  straight  to slightly convex  lat­
 eral  edges  that  have  been  carefully  trimm ed.  Both  faces  have  a  flat
@@ -6131,7 +6131,7 @@ and Krieger  1959; E. D. Dorchester  (personal communication); Amick  et  al.
 
 155
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MILNESAND
 
@@ -6158,7 +6158,7 @@ son  1 968 ;  Wormington  1 957
 
 156
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MONTELL
 
@@ -6175,7 +6175,7 @@ and Jelks  1 962
 
 157
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MORRISS
 
@@ -6191,14 +6191,14 @@ Bluff;  Kent-Crane;  Live  Oak  Point
 
 158
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References:  Fox  and  Hester  1 9 76;  Brown  1 983;  Campbell  1 958,  1 976;
 Suhm and Jelks  1 962;  Fox  1 979b
 
 159
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MORRILL
 
@@ -6214,14 +6214,14 @@ and  Miller;  George  C.  Davis;  Youngsport; Jake  M artm
 
 160
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References : johnson  1 962b;  Newell  and Krieger 1 949; Shafer  1 963;  Davis  and
 Davis  1 960;  Suhm  and Jelks  1 962
 
 161
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MOTLEY
 
@@ -6240,7 +6240,7 @@ Story  (personal communication);  Ford,  Phillips  and  Haag  1 955; Fields et a
 
 162
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 NECHES RIVER
 
@@ -6262,7 +6262,7 @@ et al.  1 990a;  Keller and Weir  1 97 9
 
 163
 
-Stone Artifacts of TeR11$.lndians
+Stone Artifacts of TeR11$.lndians
 
 NOLAN
 
@@ -6283,7 +6283,7 @@ Jelks  1 962
 
 164
 
-Projectile  Points: Type  Descriptions
+Projectile  Points: Type  Descriptions
 
 PAISANO
 
@@ -6301,7 +6301,7 @@ and  Smith  1 963; Suhm and jelks  1 962;  Story  and Bryant  1 966; Young  1 98
 
 165
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PALMER
 
@@ -6322,7 +6322,7 @@ References:  Coe  1 964;  Perino  1 968; Justice  1 98 7 ;  Story et al.  1 990
 
 166
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 PALMlllAS
 
@@ -6343,7 +6343,7 @@ and Jelks  1 962
 
 167
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PANDAU:
 
@@ -6360,14 +6360,14 @@ L..
 
 168
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 Refere nces: Ross  1 965; Epstein  l 963; Joh nson  1 964; Alexander  l 970; Suhm
 and Jelks  1 962;  Peck  1 99 1
 
 169
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 PANDORA
 This elongate,  triangular  point  has  an  unstemmed,  straight  base
@@ -6384,7 +6384,7 @@ References :  Crook  and Harris  1 954; Corbin  1974; Birmingham and Hester
 
 170
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PEDERNALES
 The  size  and  body  dimensions  vary  greatly  in  this  narrow  to
@@ -6404,7 +6404,7 @@ Oulline;  Bull  Pen
 
 171
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PEDERNAllS
 
@@ -6413,7 +6413,7 @@ White  1 969;  Suhm  and Jelks  I 962;  Ensor  &  Mueller-Wille  1 988
 
 172
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 6.
 
@@ -6423,7 +6423,7 @@ Transportation.
 
 173
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 PELICAN
 
@@ -6445,7 +6445,7 @@ References:  Gagliano  and  Gregory  1 965;  Perino  1 985;  Waldorf  1 98 7
 
 174
 
-Projectile  Points:  Type Descriptions
+Projectile  Points:  Type Descriptions
 
 PLAINVIEW
 
@@ -6464,7 +6464,7 @@ Lake;  Wilson-Leonard;  St.  Mary's  Hall;  Bonfire  Shelter;
 
 175
 
-Stone  Artifacts of Texas Indians
+Stone  Artifacts of Texas Indians
 
 PLAINVIEW
 
@@ -6477,7 +6477,7 @@ al.  1 947
 
 176
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 PONTCHARTRAIN
 
@@ -6498,7 +6498,7 @@ References: Webb 1 982; C .  Webb (personal communication); Ford and Webb
 
 177
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 REFUGIO
 
@@ -6517,7 +6517,7 @@ from  the  Bromley  Cooper  collection ;   Suhm  and Jelks  1 962
 
 178
 
-Projectile  Points: Type Descriptions
+Projectile  Points: Type Descriptions
 
 SANDIA
 
@@ -6543,7 +6543,7 @@ Sites:  Sandia Cave (NM); Lucy  (NM);  Torrance County
 
 179
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SANDIA
 
@@ -6552,7 +6552,7 @@ Wormington  1 95 7 ;  Stevens and Agogino  1 9 75
 
 180
 
-Projectile Points:  Type  Descriptions
+Projectile Points:  Type  Descriptions
 
 SAN PATRICE
 
@@ -6587,7 +6587,7 @@ B.c./Sites: John  Pearce  (LA); Jake  Martin;  Wolfshead;
 
 181
 
-Stone  ArtHacts of Texas  Indians
+Stone  ArtHacts of Texas  Indians
 
 SAN PATRICE
 
@@ -6602,7 +6602,7 @@ ley  1 9 78;  Webb  I 946,  1 982;  Suhm  and Jelks  1 962;  Hester  and  Newcom
 
 182
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 SCOTTSBLUFF
 Initially defined in  the Plains ,  these are fairly large points typified
@@ -6627,7 +6627,7 @@ dida;  4 1W H 1 9;  V i ctoria County sites;  4 1WD2 3 ;
 
 183
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SCOTTSBLUFF
 
@@ -6635,7 +6635,7 @@ SCOTTSBLUFF
 
 184
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 r
 
@@ -6648,7 +6648,7 @@ Jelks  l 962; Johnson  1 989a,  l 989b
 
 185
 
-Stone Artifads of Texas  Indians
+Stone Artifads of Texas  Indians
 
 SHUMlA
 
@@ -6670,7 +6670,7 @@ References:  Sorrow  1 9681;  Hester and  Collins  1 97 4 ;  Epstein  1 963; Col
 
 186
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 SINNER
 
@@ -6693,7 +6693,7 @@ References:  Webb et  al.  1 969;  Russell Long,  personal  communication
 
 187
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 TORTUGA.S
 
@@ -6720,7 +6720,7 @@ Weir  1 956;  Hester  1 968; Suhm and jelks  1 962;  Taylor  and Highley  n.d.
 
 188
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 TRAVIS
 
@@ -6741,7 +6741,7 @@ Prewitt  1 98 1a ;   Suhm and Jelks  1 962
 
 189
 
-Stone  Artifacts of Texas Indians
+Stone  Artifacts of Texas Indians
 
 TRINITY
 
@@ -6760,7 +6760,7 @@ References: Johnson  1 962b;  Duffield  1 96 1 ;  Mallouf 1 97 6 ;  Davis and Da
 
 190
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 UVALDE
 
@@ -6781,7 +6781,7 @@ References: Sorrow, Shafer and Ross 1 967; Prewitt  1 98 1 b;  Hester 1 97 1 ;  
 
 191
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 VAL VERDE
 
@@ -6804,7 +6804,7 @@ sons  1 965
 
 192
 
-Projectile  Points: Type Descriptions
+Projectile  Points: Type Descriptions
 
 WELLS
 
@@ -6822,7 +6822,7 @@ Krieger  1 949;  Prewitt  1 974a;  Suhm  and Jelks  1 962
 
 193
 
-Stone Artifacts of  Texas  Indians
+Stone Artifacts of  Texas  Indians
 
 WILLIAMS
 
@@ -6837,7 +6837,7 @@ McCann
 
 194
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 References: Kelly 1 962; Shafer 1 963 ;  Sorrow 1 969; Preston and Shiner 1 969;
 
@@ -6845,7 +6845,7 @@ Suhm  and Jelks  1 962
 
 195
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 WODEN
 
@@ -6867,7 +6867,7 @@ References: Jelks  1 965; Fields et al.  1 990
 
 196
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 YARBROUGH
 This  slender,  elongate point  has  straight  to  convex  lateral  edges,
@@ -6884,7 +6884,7 @@ Suhrn  and Jelks  1 962;  Prikryl  1990
 
 197
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ZORRA
 
@@ -6902,7 +6902,7 @@ References : Word and Douglas 1970; Johnson  1 964; Weir 1 979; Brown et  al.
 
 198
 
-Profeetile Points: 1ype Descriptions
+Profeetile Points: 1ype Descriptions
 
 Arrow  Points
 
@@ -6927,7 +6927,7 @@ Perino  1 968
 
 199
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ALBA This triangular point has concave or recurved lateral edges that may
 
@@ -6944,7 +6944,7 @@ communication;  Suhm  and Jelks  1 962
 
 200
 
-Projectile  Points: Type Descriptions
+Projectile  Points: Type Descriptions
 
 BASSETT
 
@@ -6963,7 +6963,7 @@ personal  communication;  Suhm and Jelks  1 962;  Bell  1 958
 
 201
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 BONHAM
 
@@ -6983,7 +6983,7 @@ and Jelks  1 962
 
 202
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 BULBAR STEMMED
 
@@ -7001,7 +7001,7 @@ References:  Corbin  1 963,  1 9 74;  Hudgins  1 982
 
 203
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CAMERON
 
@@ -7020,7 +7020,7 @@ M allouf,  Baskin  and Killen  1977
 
 204
 
-Projectile Points: 1ype Descriptions
+Projectile Points: 1ype Descriptions
 
 CARACARA
 
@@ -7041,7 +7041,7 @@ References:  R.  K.  Saunders,  personal  communication;  Beasley  1 978
 
 205
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CATAHOULA
 The lateral edges of this point are straight to concave or recurved,
@@ -7073,7 +7073,7 @@ terson  1 987
 
 206
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 CHADBOURNE
 This  triangular point has been defined by Darrell  Creel  (personal
@@ -7090,7 +7090,7 @@ References:  Sayles ms; Shafer  l 969;  Wheat  I 94 7
 
 207
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CLIFFTON
 
@@ -7108,7 +7108,7 @@ Jelks 1 962; Black  1 986; C. Webb (personal communication); Creel et al.  1 990
 
 208
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 COLBERT
 
@@ -7130,7 +7130,7 @@ References:  McClurkan  1 968; Webb  1 963;  Lemley  1 936;  Thurmond  1 98 1
 
 209
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CUNEY
 
@@ -7148,7 +7148,7 @@ Suhm  and Jelks  1 962
 
 210
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 DEADMAN'S
 
@@ -7174,7 +7174,7 @@ References:  Hughes  and  Willey  1 9 78;  Boyd  et  al.  1 989
 
 211
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 EDWARDS
 
@@ -7199,7 +7199,7 @@ Assad  1 978;  Hester  1 970a
 
 212
 
-Projedile Points: Type Descriptions
+Projedile Points: Type Descriptions
 
 FRESNO
 
@@ -7222,7 +7222,7 @@ Mokry  (personal  communication);  Holliday  and Johnson  1 990
 
 213
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 FRILEY
 
@@ -7242,7 +7242,7 @@ References:  McClurkan  1 968;  Duffield  1 963a;  Story  1 965;  Webb  1 963
 
 214
 
-Projectile Points: Type  Descriplions
+Projectile Points: Type  Descriplions
 
 GARZA
 
@@ -7266,7 +7266,7 @@ References: Runkles  1 964;  Wheat  1 955; Johnson e t  al.  1 97 7 ;  Holden  1
 
 215
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GUERRERO
 
@@ -7287,7 +7287,7 @@ ter  1 9 7 7 ;  Hudgins  1 982;  Hester  1 989b
 
 216
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 HARRELL
 
@@ -7308,7 +7308,7 @@ der  1 96 6
 
 217
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 HAYES
 
@@ -7326,7 +7326,7 @@ References:  Newell  and  Krieger  1 949;  Shafer  1973;  Mallouf 1 976;  Lemley
 
 218
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 HOMAN
 
@@ -7347,7 +7347,7 @@ References:  Wood  1 963 ;  Lemley  1 936; Thurmond  1 98 1 ;  Baker and Webb
 
 219
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 LIVERMORE
 
@@ -7364,7 +7364,7 @@ References:  Hedrick  1 968;  Kelly  1 963; Kelley  1 978;  Suhm  and Jelks  196
 
 220
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 LOTT
 
@@ -7385,7 +7385,7 @@ sonal  communication) ;  Runkles  and  Dorchester  1 986
 
 221
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 LOZENGE
 
@@ -7405,7 +7405,7 @@ sonal  communication;  C ampbell  1 947,  1 952
 
 222
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 MAUD
 
@@ -7422,7 +7422,7 @@ References :  McClurkan  1 968;  Briggs and Malone  1 970;  Turner  1 978;  Bell
 
 223
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MCGLOIN
 
@@ -7439,7 +7439,7 @@ References:  Corbin  1 963,  1 974;  Campbell  1947,  1952
 
 224
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 MORAN
 
@@ -7461,7 +7461,7 @@ Forrester  1 95 1 ,   1 98 7 ;  Ray  1 929; S hafer  1 969;  Flaigg  1 99 1
 
 225
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PADRE
 
@@ -7477,7 +7477,7 @@ References:  Corbin  1 9  7 4,  personal  communication
 
 226
 
-Projectile  Points:  Type  Descriptions
+Projectile  Points:  Type  Descriptions
 
 PERDIZ
 
@@ -7495,7 +7495,7 @@ Hester  1 973;  Suhm  and Jelks  1 962
 
 227
 
-Stoa Artifacts of Texas ...._,
+Stoa Artifacts of Texas ...._,
 
 PEROIZ
 
@@ -7503,7 +7503,7 @@ Perdiz point  in  astragalus  (deer  heel  bone).
 
 228
 
-Pro;ectile Points: Type Descriptions
+Pro;ectile Points: Type Descriptions
 
 SABINAL
 
@@ -7523,7 +7523,7 @@ References:  Hester  1 9 7 1 ;  Weir  and  Doran  1 980;  Hall,  Black  and  G r
 
 229
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SCALLORN
 
@@ -7544,7 +7544,7 @@ Huebner  1 988
 
 230
 
-Projectile Points: Type  Descriptions
+Projectile Points: Type  Descriptions
 
 STARR
 
@@ -7566,7 +7566,7 @@ McClurkan  1 966 ;  Suhm  and Jelks  1 962
 
 231
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 STEINER
 
@@ -7592,7 +7592,7 @@ berger  1 970;  Prikryl  1 990
 
 232
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 TALCO
 
@@ -7611,7 +7611,7 @@ and Jelks  1 962
 
 233
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 TOYAH
 
@@ -7630,7 +7630,7 @@ and Jelks  1 962
 
 234
 
-Projectile Points: be Descriptions
+Projectile Points: be Descriptions
 
 TURNEY
 
@@ -7643,7 +7643,7 @@ References:  Suhm,  Krieger  and Jelks  1 954;  Suhm  and Jelks  1 962
 
 235
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 WASHITA
 
@@ -7661,7 +7661,7 @@ Mallouf 1 9 7 6;  Brooks  et al.  1 985
 
 236
 
-Projectile Points: Type Descriptions
+Projectile Points: Type Descriptions
 
 YOUNG
 
@@ -7679,7 +7679,7 @@ References: Jelks  1 962;  Suhm  1 957; C ampbell  1 956,  1 958;  Suhm and Jelk
 
 237
 
-Stone Arl:lfac:ts of Texas Indians
+Stone Arl:lfac:ts of Texas Indians
 
 ZAVALA
 
@@ -7696,7 +7696,7 @@ References:  Hester  1 9 78b; Hill and  Hester  1 9 7 1 ;  Kelly et al.  l 98 3 
 
 238
 
-�  I 5.  CHIPPED  STONE  ARTIFACTS  I  44,U,4
+�  I 5.  CHIPPED  STONE  ARTIFACTS  I  44,U,4
 Introduction
 
 The wide array of stone tools often found in association with
@@ -7727,7 +7727,7 @@ is often simply the by-product of expedience or resharpening or
 
 239
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 other modification in a tool's life ,  the most direct sort of evidence
 appears  to  be  wear  left  on  the  tool  while  it  was  being  u sed
@@ -7752,7 +7752,7 @@ through  consultation  of the references listed  for  each.
 
 240
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 Bifaces
 
@@ -7773,7 +7773,7 @@ References:  Duffield  1 963b;  Story  1 965 ;  Sorrow  1 966;  McClurkan  1 968
 
 241
 
-Stone Artifacts  of Texn  lndllns
+Stone Artifacts  of Texn  lndllns
 
 BRONSON  BIFACE
 
@@ -7792,7 +7792,7 @@ References: Jelks  1 965; McClurkan  1 968; Story  l 965;  Bailey and Boyd  1 98
 
 242
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 "BUTTED  KNIFE"  Blf ACE
 
@@ -7813,7 +7813,7 @@ Duffield and Jelks  l 965;  Priour  1 98 7 ;  Sollberger  1 968
 
 243
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CARROLLTON AXE
 
@@ -7836,7 +7836,7 @@ References:  Crook and  H arris  1 954; Galm  1 978;  Prikryl  1 990
 
 244
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 CHOPPER
 
@@ -7859,7 +7859,7 @@ ander  1 963
 
 245
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CLEAR  FORK BIFACE AND UNIFACE
 
@@ -7895,13 +7895,13 @@ Q
 
 246
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 Bifacial
 
 247
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CLEAR  FORK BIFACE  AND  UNIFACE
 
@@ -7909,7 +7909,7 @@ Unifacial
 
 248
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 Unifacial
 
@@ -7920,7 +7920,7 @@ man  1 9 7 7
 
 249
 
-Stone Artifacts  of  Texas Indians
+Stone Artifacts  of  Texas Indians
 
 CORNER-TANG BIFACE
 
@@ -7942,7 +7942,7 @@ Late  Archaic. /Sites:  Ernest  Witte;  Rudy  Haiduk
 
 250
 
-Chipped  Stone Artifacts
+Chipped  Stone Artifacts
 
 References:  Hall  1 981 ;  Mitchell, Chandler and  Kelly 1 984;  Preston and Shiner
 1969; Chandler,  Knolle and Knolle  1 983; Patterson  1 936; Mitchell and Or­
@@ -7950,7 +7950,7 @@ chard  I 984;  McReynolds  and  C handler  1 98 4
 
 251
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 DALTON ADZ
 
@@ -7982,7 +7982,7 @@ son  1 989b
 
 2S2
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 ERATH BIFACE
 
@@ -8000,7 +8000,7 @@ References:  Prewitt  1 98 t h ;  Story and  Shafer  1 965;  Bond  1 97 8
 
 253
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 FRIDAY BIFACE
 
@@ -8021,7 +8021,7 @@ References: Jelks  1 962;  Kelley  1 947;  Suhm  1 955,  1 95 7 ;  Nightengale  
 
 254
 
-Chipped  Stone  Artifacts
+Chipped  Stone  Artifacts
 
 GAHAGAN  BIFACE
 
@@ -8041,7 +8041,7 @@ louf 1 9 76;  Webb and Dodd  1 939; Ensor and Carlson  1 9 9 1
 
 255
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GUADALUPE BIFACE
 
@@ -8066,9 +8066,9 @@ Choke  C anyon;  Granberg  II;  4 1 BP 1 9 ;  4 1 UV 1 32 ;
 
 256
 
---------
+--------
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GUADALUPE  BIFACE
 
@@ -8078,7 +8078,7 @@ I 985;  Highley  1 984;  Sollberger  &  Carroll  1 985
 
 258
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 Ab
 
@@ -8118,7 +8118,7 @@ for  Three  Caches  of Guadalupe  Bi/aces
 
 259
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 GUADALUPE BIFACE
 
@@ -8143,7 +8143,7 @@ Society.
 
 260
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 GUNFUNTS
 
@@ -8166,7 +8166,7 @@ References:  Fox  1 9 79a;  Clark  I 978;  Moore  1 99 1
 
 261
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 HARE BIFACE
 
@@ -8188,7 +8188,7 @@ Kotter et al.  1 99 1
 
 262
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 HARVEY/MINEOLA BIFACE
 
@@ -8203,7 +8203,7 @@ q Distribution:  Eas t ·  and  southeast Texas ./Period:  Late
 Archaic to  Late  Prehistoric. /Sites:  McGee  Bend  Reser­
 voir;  Burris  I ;  4 1  LN I 7 8
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 HARVEY/MINEOLA BIFACE
 
@@ -8211,7 +8211,7 @@ References: Jelks  1 965;  McClurkan  1 968; Johnson  1 962b; Day  I 984
 
 264
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 MULTI-NOTCHED EARLY ARCHAIC LITHICS
 
@@ -8231,7 +8231,7 @@ centra l  c o a s t a l   plain. /Period:  Early  Archaic,  c a .
 
 265
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MULTI-NOTCHED EARLY ARCHAIC LITHICS
 
@@ -8239,7 +8239,7 @@ References:  Hester  1 97 1 ,   1 9 90;  Labadie  1 988;  Kenmotsu  1 982
 
 266
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 NUECES BIFACE  AND UNIFACE
 
@@ -8257,7 +8257,7 @@ drainage  sites
 
 267
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 NUECES Bl FACE  AND  UN If ACE
 
@@ -8266,7 +8266,7 @@ Hester  1 97 2 ,   1 969b;  Wakefield  1 968
 
 268
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 OLMOS  BIFACE
 
@@ -8289,7 +8289,7 @@ Hester  1 9 7 1 ;  Gibson  1981
 
 269
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PERfORATORS/DRILLS
 
@@ -8307,14 +8307,14 @@ George  C.  Davis;  4 l BN l  1 1
 
 270
 
-Chipped  Stone  Artifacts
+Chipped  Stone  Artifacts
 
 References:  Tunnell  1 962; Word and Douglas 1 970; Alexander 1 963; Shafer
 1 973
 
 271
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PIPE CREEK BlfACE
 
@@ -8338,7 +8338,7 @@ References;  Turner  1 99 1 ;  Jelks  1 96 2
 
 272
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 SAN GABRIEL Blf ACE
 
@@ -8354,7 +8354,7 @@ References:  Prewitt  1 98 1  b;  Bond  1 9 78; Nightengale  et al.  1 98 5
 
 273
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1WO- AND FOUR-BEVELED BIFACES
 
@@ -8386,13 +8386,13 @@ El l FA C E
 
 274
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 (2 · Beveled)
 
 275
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 TWO- AND  FOUR-BEVELED BIFACES
 
@@ -8407,7 +8407,7 @@ et  al.  l 982;  Sollberger  1 97 1 ;  Poteet  1 938
 
 276
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 Unifaces
 
@@ -8440,7 +8440,7 @@ terson  and  Marshall  1 989;  Patterson  et  al.  1 990;  Patterson,  1 99 1  c
 
 277
 
-GOSSETT UNIFACE
+GOSSETT UNIFACE
 
 These  artifacts were originally described by Story ( 1965) as smal�
 stream-worn pebbles  of chert,  quartzite  or  petrified wood  that have
@@ -8460,7 +8460,7 @@ References:  Story 1965; Jelks and  Tunnell  1959;  Duffield and Jelks  1961
 
 278
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 GRAVERS
 
@@ -8481,7 +8481,7 @@ rison  and  Killen  1 9 78; Tu nnell  1 962
 
 279
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SCRAPERS
 
@@ -8511,7 +8511,7 @@ Transverse Scraper
 
 280
 
-Chipped stone Artifacts
+Chipped stone Artifacts
 
 End  Scraper
 
@@ -8519,7 +8519,7 @@ Side  Scraper
 
 281
 
-.. Mifac:ts of Taal .....
+.. Mifac:ts of Taal .....
 
 SCRAPERS
 
@@ -8527,13 +8527,13 @@ End  Scraper
 
 282
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 End  and  Side  Scraper
 
 283
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SCRAPERS
 
@@ -8545,7 +8545,7 @@ Shiner  1 9 7 1
 
 284
 
-Chipped Stone Artifacts
+Chipped Stone Artifacts
 
 SEQUENT FLAKE UNIFACES
 
@@ -8573,7 +8573,7 @@ References:  Epstein  1 963; Johnson  1 964;  Shafer  1 986.
 
 285
 
-,U • ..t..,U,
+,U • ..t..,U,
 
 6 . GROUND,  PECKED AND
 POLISHED  STONE  ARTIFACTS
@@ -8600,7 +8600,7 @@ utilitarian  tasks .
 
 286
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 ABRADING STONES
 
@@ -8627,7 +8627,7 @@ _J
 
 287
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ABRADING STONES
 
@@ -8635,7 +8635,7 @@ ABRADING STONES
 
 Edge-preparation  tools
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 ¼ actual size
 
@@ -8644,7 +8644,7 @@ Austin.  By permission of Richard  McRcynolds.
 
 289
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ABRADING STONES
 
@@ -8659,7 +8659,7 @@ louf 1 976;  Perino  and  Bennett  1 9 72;  Chadderdon  1 9 7 6;  Young  1 985
 
 290
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 BANNERSTONES
 
@@ -8699,7 +8699,7 @@ c J] 0  [C:z>
 
 291
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 BANNERSTONE
 
@@ -8733,7 +8733,7 @@ ter  &  Parker  1 980;  Wheat  1 95 3 ;  Ensor  et al.  1 9 9 1
 
 292
 
-Gmund, Pecked and Polished Stone Artifacts
+Gmund, Pecked and Polished Stone Artifacts
 
 BOATSTONES
 The basic form of "boat-shaped" stones is primarily rectangular in
@@ -8764,13 +8764,13 @@ Short  Mound;  George C.  Davis;  Smith Rockshelter
 
 293
 
-Stone  Artifacts of Texas Indians
+Stone  Artifacts of Texas Indians
 
 BOATSTONES
 
 294
 
-GroUN, Pecketl alNI  Polished StNe Artifacts
+GroUN, Pecketl alNI  Polished StNe Artifacts
 
 . ':::t�:��·-::·-: . ..
 
@@ -8779,7 +8779,7 @@ Suhm  1957;  Patterson  1937;  Paher  1977
 
 295
 
-Stoae Artifacts of Texas ladaas
+Stoae Artifacts of Texas ladaas
 
 CB.TS
 
@@ -8797,13 +8797,13 @@ Harlan (OK)
 
 296
 
-Ground,  Pecked and Polished Stone  Artifacts
+Ground,  Pecked and Polished Stone  Artifacts
 
 References :   Shafer  1 97 3 ;   Krieger  1 946;  Hamilton  1 952;  Bell  1 972
 
 297
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 CRUCIFORMS
 
@@ -8825,7 +8825,7 @@ References:  C ompton  1 95 7;  Hemmings  l 9 6 7
 
 298
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 INCISED AND ENGRAVED STONES
 
@@ -8849,7 +8849,7 @@ and  with  t h e  permission  of,  Richard  McRcynolds.
 
 299
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 INCISED AND ENGRAVED STONES
 
@@ -8863,7 +8863,7 @@ Treat  1 9 7 5 ;   Parsons  1 965;  Collins  el al.  1 99 1
 
 300
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 METATES AND MANOS
 
@@ -8890,7 +8890,7 @@ Mano
 
 301
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 MANO
 
@@ -8900,7 +8900,7 @@ Metate  and Mano
 
 302
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 ¾ actual size
 
@@ -8908,7 +8908,7 @@ Mano
 
 303
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ¼  actual  size
 
@@ -8917,7 +8917,7 @@ Metate
 References:  Newell  and  Krieger  1 949;  Hall,  Black  and  Graves  1982; Jelks
 1962;  Tunnell  1 962
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 OTHER GROUND STONE ARTIFACTS
 
@@ -8958,7 +8958,7 @@ Gorget
 
 305
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 OTHER GROUND STONE ARTIFACTS
 
@@ -8973,7 +8973,7 @@ row  1 968b;  Ford  and  Webb  1 956;  Webb  1 982
 
 306
 
-Ground, Pec:ked and Polished Stone Artifacts
+Ground, Pec:ked and Polished Stone Artifacts
 
 PESTLES
 
@@ -8992,7 +8992,7 @@ l 979c;  Sorrow  1 966
 
 307
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 PITTED STONES
 
@@ -9014,14 +9014,14 @@ Distribution:  East  and  northeast Texas./Period:  Archaic
 into  Late  Prehistoric./Sites:  George  C.  Davis;  Yarbrough
 and  Miller;  Burris  1 ;   Texarkana  Reservoir
 
-Ground,  Pecked and Polished Stone Artifacts
+Ground,  Pecked and Polished Stone Artifacts
 
 References:  Newell  and  Krieger  1 949;  S h afer  I 9 7 3 ;  Johnson  I 9 6 2 b;
 McClurkan  1 968;  Briggs  and  Malone  1 9 70;  Honea  1 965; Shott  J 989
 
 309
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 SHAFT STRAIGHTENERS
 
@@ -9050,7 +9050,7 @@ counties.
 
 310
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 ½  actu al  size
 
@@ -9060,7 +9060,7 @@ ter  1 972; Kroeber  1 925;  Kelley  1 948; Beasley  1 980;  H ester,  Stross  a
 
 311
 
-Stone Artifacts of Tun  Indians
+Stone Artifacts of Tun  Indians
 
 SHAFT STRAIGHTENERS
 
@@ -9069,7 +9069,7 @@ the  permission of,  Richard McReynolds.
 
 312
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 STONE  PIPES
 
@@ -9098,7 +9098,7 @@ actual size
 
 313
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 STONE PIPES
 
@@ -9112,7 +9112,7 @@ Tubular with  Bone  Stem
 
 314
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 References:  Hester  1 969a;  Collins  1 969;  Shafer  I 9 7 3 ;  Newell  and  Kri eger
 1 949;  Bell  1 9 7 2; Hester  1 980; Taylor and  Highley n.d.;  Greer  1 968; Brown
@@ -9120,7 +9120,7 @@ and  Leneave  1 9 8 7
 
 315
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 WACO  "SINKERS"
 
@@ -9151,14 +9151,14 @@ pion  Cave;  Wheeler  and  Lake Dallas;  Fort  Hood
 
 316
 
-Ground, Pecked and Polished Stone Artifacts
+Ground, Pecked and Polished Stone Artifacts
 
 References: Johnson  1 962b;  Highley  et  al.  1 978;  Crook  and  Harris  1 952;
 Thomas  1 978;  Watt  1 938
 
 317
 
-APPENDIX  1. ARCHAEOLOGICAL  SOCIETIES  IN TEXAS
+APPENDIX  1. ARCHAEOLOGICAL  SOCIETIES  IN TEXAS
 
 Big  Bend  Archeological  Society,  P.O.  Box  1 ,   Big  Bend
 
@@ -9220,7 +9220,7 @@ Texas 79323
 
 318
 
-Appendix
+Appendix
 
 Houston  Archeological  Society,  P.O.  Box  6751 ,   Houston,
 
@@ -9286,7 +9286,7 @@ Webb  County Archeological Society,  1 02  Mize, Laredo, Texas
 
 319
 
-APPENDIX 2. SOURCES OF ILLUSTRATIONS
+APPENDIX 2. SOURCES OF ILLUSTRATIONS
 
 (Note: CAR is the Center for Archaeological Research, The Uni­
 versity  of Texas  at  San  Antonio.  TARL  is  Texas  Archeological
@@ -9343,7 +9343,7 @@ Johnson  1 964, p.  3 1 a  ( l); TARL,  Fate  Bell  #8 1  ( 1 )
 
 320
 
-Appendix
+Appendix
 
 Andice: D .  Olmstead coll., 4 I BL323 ( l ); TARL,  I C-50- l 92h,  I E-
 
@@ -9413,7 +9413,7 @@ Hughes coll. S:M:-6-SC  1 : 1 1  ( l ); W. A Rikard coll.  Lamar Co.,
 
 321
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Dari: Witte Museum,  Friedrich coll., Bell Co. (4); Mahomet redrawn
 
@@ -9486,7 +9486,7 @@ and McReynolds  1 979,  Fig.  2d ( 1)  4 1W88, 58 1 -9  ( 1 )
 
 322
 
-Appendix
+Appendix
 
 Gower: Witte  Museum,  Friedrich  coll.,  Kendall  Co.  (4);  TARL,
 
@@ -9549,7 +9549,7 @@ Prewitt  1 98 1  b,  Fig.  82q  ( l )
 
 323
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Midland: E.  D.  Dorchester coll., Andrews  and  Howard  counties
 (2); cast from the Midland site, via Dennis Stanford (1 ); Richard
@@ -9627,7 +9627,7 @@ Refugio: CAR, Bromley Cooper coll.
 
 324
 
-Appendix
+Appendix
 
 Sandia: Redraw11 from Bell  1 958, Pl. 40e, d (2);  cast from the Den­
 
@@ -9694,7 +9694,7 @@ son  1 964,  Fig.  1 3bb  ( 1 )
 
 325
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Arrow Points
 
@@ -9754,7 +9754,7 @@ g,  Fig.  1 5, A l
 
 Homan: B .  Moore coll. 4 1 SJ I 3  ( l); redrawn from Bell  1 958 (2)
 
-livennore: Plateau Station, Culbertson Co., redra¾11  from Hedrick
+livennore: Plateau Station, Culbertson Co., redra¾11  from Hedrick
 
 1 968, Fig.  6p,  s,  o
 
@@ -9817,7 +9817,7 @@ con survey,  Zavala Co.
 
 327
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Chapter 5.
 
@@ -9878,7 +9878,7 @@ Zurovec  coll,
 4 1 BX 1 9 5.(3); K. Vakey coll.,  4 1 BN 1 1 5  ( 1); P.&F. Ward coll,
 4 1 ME53 ( 1 )
 
-Appendix
+Appendix
 
 San Gabriel: Redrawn  from  Prewitt  1 98 l b,
 Two- and  Four-Beveled: Witte  Museum,
@@ -9936,7 +9936,7 @@ from Young  1 98 1 ,  Fig.  1 7
 
 329
 
-Stone Anffacts of Texas Indians
+Stone Anffacts of Texas Indians
 
 Shaft Straightener: Walt & Ruth Carruthers coll., Terrell Co.  ( l );
 redrawn  from  Hill,  House  and  Hester  1972,  Fig.  2c,  Fig.  3a
@@ -9951,7 +9951,7 @@ Waco "Sinker": Redrawn from Watt  1938,  Fig. 28,  3 1,  33, 38 (4)
 
 C. K. Chandler coll., Ellis Co.  (2)
 
-APPENDIX 3. COUNIYSYMBOI.S FOR
+APPENDIX 3. COUNIYSYMBOI.S FOR
 ARCHAEOI..CXzICALSIT'E DESIGNATION: TEXAS (41)
 
 Anderson . . . . . . . . . . .  AN  Colorado . . . . . . . . . . .  CD  Glasscock . . . . . . . . . . .  GC
@@ -10049,7 +10049,7 @@ Karnes . . . . . . . . .
 
 331
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Kaufman  . . . . . . . . . . .  KF  Motley . . . . . . . .
 . .MY  Stephens . . . . . . . . . . . . .  SE
@@ -10153,7 +10153,7 @@ Morris . . . . . . . . . . . . .  MX
 
 332
 
-Appendix
+Appendix
 
 T E X
 ARCHEOLOGY
@@ -10179,7 +10179,7 @@ viduals  can
 
 333
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 ogy  interesting  and  what  the  past  has  to  offer.  The  program
 reflects a continuing tradition of commitment to public awareness
@@ -10205,7 +10205,7 @@ Chairman,  Teddy  Stickney,  20 1  West  Solomon,  Midland,  TX
 
 334
 
-APPENDIX 5.
+APPENDIX 5.
 
 Groups  to Contact  Around  the  State
 
@@ -10257,7 +10257,7 @@ Box  1 3078, Denton, Texas  76203
 
 335
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 El  Paso  Centennial  Museum,  The  University  of Texas  at  El
 Paso,  University  and Wiggins Ave., El  Paso,  Texas  79968
@@ -10279,7 +10279,7 @@ Texas  Archeological  Society,  c/o  Center  for  Archaeological
 Research,  The  University of Texas  at San  Antonio,  San Anto­
 nio, Texas  78249
 
-Appendix
+Appendix
 
 APPENDIX 6
 
@@ -10322,7 +10322,7 @@ I  Q4f£•
 
 337
 
-REFERENCES CITED
+REFERENCES CITED
 
 Agogino,  G.  A.
 
@@ -10380,7 +10380,7 @@ ology,  3 : 225-2 5 2 .
 
 338
 
-References
+References
 
 1 97 8   Burials  at  the  C owpen  Slough  Site  ( l 6CT 1 4  7) .
 Newsletter,  Louisiana A rchaeology  Society,  5 (2): 1 6- 1 8 .
@@ -10440,7 +10440,7 @@ An thropological  Society,  No.  1 .
 
 339
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1 960  Guide  to  the Identification  ef Certain  American  Indian
 Projectile  Points.  Special  Bulletin  of the  Oklahoma
@@ -10487,7 +10487,7 @@ ston-Heller  Site,  Texas  Coastal  Plain.  C e n te r   for
 Archaeological Research, The University  of Texas
 at  S a n  Antonio,  Special Report,  No.  3 .
 
-References
+References
 
 Black,  Stephen  L.
 
@@ -10536,7 +10536,7 @@ logical  Laboratory  Report,  No.  4 3 .
 
 341
 
-Stone Altifacts of Texas Indians
+Stone Altifacts of Texas Indians
 
 B oyd,  Douglas  K . ,   Martha  Doty  Freeman,  Michael  D.
 
@@ -10588,7 +10588,7 @@ Brown, K .  M., D. R .  Potter,  G.  D .  Hall  and S .  L .  Black
 1 982  Excavations  at  41 LK67,  A  Prehistoric  Site  in  the  Choke
 Canyon  Reservoir,  Sou th  Texas.  The  C en t e r   for
 
-References
+References
 
 Archaeological  Research,  The  University of Texas
 at  San Antonio,  Choke  Canyon  Series,  No.  7 .
@@ -10643,7 +10643,7 @@ Tierra,  l 0( 1 ) : 2 9- 3 1 .
 
 343
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Chadderdon,  Mary  Frances
 
@@ -10707,7 +10707,7 @@ Obj ects.  Bulletin  of  the  Texas  Archeological  Society,
 
 344
 
-References
+References
 
 Coffman,  Robert  and  Elton  R.  Prewi tt
 
@@ -10763,7 +10763,7 @@ Natural History,  2 7 : 240-24 7 .
 
 345
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 C orbin, J. E .
 
@@ -10818,7 +10818,7 @@ The  University  of Texas,  Austin.
 
 346
 
-References
+References
 
 Day,  D .  William
 
@@ -10872,7 +10872,7 @@ Austin .
 
 347
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1 96 1   The  Limerick Site at Iron  Bridge  Reservoir,  Rains
 
@@ -10930,7 +10930,7 @@ Ensor,  H .   Blaine
 
 348
 
-References
+References
 
 and  Western  Gulf  C o astal  Plai n .   Bulletin  of  the
 Texas A rcheological Society,  5 7 : 6 9 8 2 .
@@ -10986,7 +10986,7 @@ Fields,  Ross  C .
 
 349
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Harris  County,  Texas.  Reports  of  Investigations,
 No.  6 2 .   Texas  Antiquities  C ommittee  Permit,
@@ -11038,7 +11038,7 @@ versity  of Texas  at Austin.
 
 350
 
-References
+References
 
 Fle nnike n, J. J. and A .   Raymond
 
@@ -11092,7 +11092,7 @@ nio,  Archaeological  Survey Report,  No.  ] 8.
 
 351
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Fox,  D.  E.
 
@@ -11144,7 +11144,7 @@ Louisiana.  Louisiana  Studies,  4( l ) :62- 6 7 .
 
 352
 
-References
+References
 
 Gallagher, Joseph  G .  and  S usan  E .   Bearden
 
@@ -11198,7 +11198,7 @@ Llano  Complex.  A merican  Antiquity,  29: 145- 1 6 5 .
 
 353
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Green,  L.  M .  and Thomas R .   H ester
 
@@ -11254,7 +11254,7 @@ ern  Texas: Results  of Phase II Archaeological Investiga -
 
 354
 
-Reten,nces
+Reten,nces
 
 tions.  C enter  for  Archaeol ogical  Research,  The
 University  o f  Texas  at  S a n   A n t o n i o ,   C ho k e
@@ -11309,7 +11309,7 @@ Texas A rcheological Society,  46: 1 2  7  - 1 7 8 .
 
 355
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Hedrick, John  A.
 
@@ -11363,7 +11363,7 @@ sion,  Archeological  Program,  Report,  No.  1 5 .
 
 356
 
-References
+References
 
 1 96 9 b   Notes on South Texas Archeology:  Sites along the
 Middle Frio River D rainage.  The Record, Journal ef
@@ -11409,7 +11409,7 @@ Report,  No.  6.
 
 357
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1 9 7 9a  Notes on  Gower, Jetta  and Other Projectile Points
 
@@ -11465,7 +11465,7 @@ Southern  and Central Texas. La  Tierra,  1 7  (3): 1 -5 .
 
 358
 
-References
+References
 
 199 l  The  Plainview  Points  from  the  St.  Mary's  Hall
 Site,  South  Central  Texas.  La  Tierra,  1 8(2): l -4.
@@ -11515,7 +11515,7 @@ Archeological  S urvey,  R esearch  Series,  No.  3 3 .
 
 359
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Hester,  Thomas  R.  and Michael B .   C ollins
 
@@ -11569,7 +11569,7 @@ Hester,  Thomas  R.,  Michael Mildner and Lee Spencer
 
 New Mexico.
 
-References
+References
 
 Hester,  Thomas  R.  and  S am  \V.  Newcomb
 
@@ -11625,7 +11625,7 @@ Texas Archeological  Society,  49: 1 39  198.
 
 361
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Hill,  T.  C . ,  Jr. ,  and  T.  R.  Hester
 
@@ -11683,7 +11683,7 @@ Series,  No.  2. Museum of Texas  Tech University.
 
 362
 
-References
+References
 
 Holliday,  Vance  T . ,   Eileen Johnson,  Herbert  Haas  and
 
@@ -11736,7 +11736,7 @@ ural  Sciences,  86: 2 29 -303.
 
 363
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 H udgins, Joe  D.
 
@@ -11790,7 +11790,7 @@ Plains.  Plains Anthropologist,  1 8(59):40--5 3 .
 
 364
 
-References
+References
 
 Irwin ,   Henry  T.  and  H .  �1I.  Wormington
 
@@ -11851,7 +11851,7 @@ pologist,  2 5(88),  part  I :89
 
 365
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Johnson,  Leroy, Jr.
 
@@ -11904,7 +11904,7 @@ San Antonio, Archaeological S urvey Report,  No.
 
 366
 
-References
+References
 
 Keeley,  Lawrence  H .
 
@@ -11957,7 +11957,7 @@ C omments.  La  Tierra,  6(3) : 1 1 .
 
 367
 
-stone Artifacts of Texas Indians
+stone Artifacts of Texas Indians
 
 1 98 2   C riteria for Classifi cation  of Plainview and  Golon­
 drina  Proj ectile  Points .  La  Tierra,  9(3):2 2 5 .
@@ -12010,7 +12010,7 @@ Leland  C.  Bement and David  G.  Robinson. Texas
 
 368
 
-References
+References
 
 Archeological  S u rvey,  Research  Report  N o .   84,
 The  University  of Texas  a t  Austin.
@@ -12065,7 +12065,7 @@ Krieger ,  Alex and J. T.  Hughes
 
 369
 
-stone Artifacts of Texas Indians
+stone Artifacts of Texas Indians
 
 Area:  Progress  Report  No.  1  (mimeographed).
 University  of Texas, Austin.
@@ -12124,7 +12124,7 @@ nois.
 
 370
 
-References
+References
 
 Luke,  Clive J.
 
@@ -12179,7 +12179,7 @@ McCormick,  Olin  F .
 
 371
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Thomas  R.  Hester,  ed.  The  Texas Archaic: A  Sym
 p osium,  p p .   3 9-45 .  C e n ter  for  Archaeologi c al
@@ -12236,7 +12236,7 @@ vey Report,  No.  1 8.
 
 372
 
-References
+References
 
 1 98 1  a  A  Case  Study  ef Plow  Damage  to  Chert  A rtifacts:  The
 Brookeen  Creek  Cache,  Hill  County,  Texas.  Offi c e   o f
@@ -12289,7 +12289,7 @@ Qualitative  and  Quantitativ,e  Analysis  of Blood
 
 373
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 Residues  on  Stone Tools.  U npublished  MA  the­
 sis,  The  University of Texas  at  Austin.
@@ -12343,7 +12343,7 @@ Mitchell, Jimmy L.
 
 374
 
-References
+References
 
 Mitchell, J. L.,  C.  K.  Chandler and  T.  C.  Kelly
 
@@ -12401,7 +12401,7 @@ agement  Series,  Research  Report  No.  20.
 
 375
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 H o o d ,   Arc h e o l o gi c a l   R e s o u r c e   M an a ge m e n t
 Series.  Research  Report N o .   2 L
@@ -12454,7 +12454,7 @@ Starr  County,  Texas.  C e n te r   for  Archaeological
 
 376
 
-Research,  The University  of Texas  at  San Anto­
+Research,  The University  of Texas  at  San Anto­
 nio, Archaeological  Survey  Report,  No.  7 .
 
 Palter, John  L.
@@ -12508,7 +12508,7 @@ nal,  96: 1 - 3 .
 
 377
 
-Stone Artlfac:ts of Texas Indians
+Stone Artlfac:ts of Texas Indians
 
 1 990b  Additional D ata from  Site  4 1  HR624, Harris Co.,
 Texas.  Houston A rcheological Society Journal,  96: l 5-20.
@@ -12567,7 +12567,7 @@ North  Fork  Rese rvoir Area,  Williamson  C ounty,
 
 378
 
-References
+References
 
 Texas.  Bulletin  of the  Texas  A rcheological  Society,
 4 8 : 5 3-82 .
@@ -12622,7 +12622,7 @@ by  T.  R.  Hays,  pp.  1 4-35- 1 4-69.
 
 379
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Pillaert,  E .   Elizabeth
 
@@ -12681,7 +12681,7 @@ tral  Texas.  A rchaeological  Investigations  at  the
 
 380
 
-References
+References
 
 San Gabriel  Reservoir Districts,  Vol.  4.  Institute
 of Applied  Sciences,  North Texas  S tate  Univer­
@@ -12741,7 +12741,7 @@ Texas Archeological and Paleontological Society,  1 2 : 2 2 3-
 
 381
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 194 1  The  Various  Types  of  the  Clear  Fork  Gouge.
 Bulletin  of  the  Texas A rcheological  and Paleontological
@@ -12801,7 +12801,7 @@ Schneider,  Fred
 
 382
 
-References
+References
 
 pology,  7 ( 1 ): 3 3 - 45.  Univesity of Oklahoma Anthro­
 pology  Club.
@@ -12853,7 +12853,7 @@ Press,  Austin.
 
 383
 
-Stone Artifacts of Texas  Indians
+Stone Artifacts of Texas  Indians
 
 n e s a n d ,   N e w   M e x i c o .   A me r i c a n   A n t i q u i ty,
 2 0(4) : 3 36--344.
@@ -12905,7 +12905,7 @@ e my  of Science,  S an  Antonio,  Texas,  March.
 
 384
 
-References
+References
 
 1 98 6   Ancient  Texans,  Rock Art and Lifeways A long the Lower
 Pe ros.  Ph o t o graph s   by  J i m   Z i n t gr aff.  T e x a s
@@ -12961,7 +12961,7 @@ Dykeman  and Patricia A.  Hicks
 
 385
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1 989  Human A daptations  and  Cultural  Change in the Greater
 Southwest.  Arkansas  Archeological Survey, Research
@@ -13020,7 +13020,7 @@ No.  1 0 .
 
 386
 
-Rehrences
+Rehrences
 
 Papers of the Texas Archeological Salvage  Project,
 No.  1 4 .
@@ -13072,7 +13072,7 @@ versity  of Texas at Austin.
 
 387
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Story, Dee Ann, Janice A.  Guy, Barbara A.  Burnett,  Martha
 Doty Freeman, Jerome  C.  Rose,  D.  Gentry  Steele,
@@ -13130,7 +13130,7 @@ tion, Austin.
 
 388
 
-References
+References
 
 Thomas,  David  Hurst
 
@@ -13182,7 +13182,7 @@ and  Oblate  Sites,  pp.  7 7- 1 1 6.
 
 389
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 1 9  7 5  Fluted Projectile  Point Production  as  Revealed  by
 Lithic  Specimens  from  the  Adair-Ste adman  Site
@@ -13240,7 +13240,7 @@ Wakefield,  W.
 
 390
 
-References
+References
 
 Reservoirs,  Texas.  Survey  Reports  of  the  Texas
 Archeological  Salvage  Project,  No.  5 .
@@ -13301,7 +13301,7 @@ of Geoscience,  Baton  Rouge .
 
 391
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Webb,  C larence  H .  and Monroe  Dodd, Jr.
 
@@ -13362,7 +13362,7 @@ Washington  S tate  University,  Pullman.
 
 392
 
-References
+References
 
 1 9 76b  T h e   C e n tral  Texas  Archaic  Reconsidered.  I n
 Thomas  R .  H ester,  ed.,  The  Texas Archaic: A  Sym ­
@@ -13415,7 +13415,7 @@ El Paso.
 
 393
 
-Stone Artifacts of Texas Indians
+Stone Artifacts of Texas Indians
 
 Wheat, Joe Ben
 
@@ -13477,7 +13477,7 @@ Natural Histo ry,  Popular Series,  No.  4.
 
 394
 
-References
+References
 
 Wyckoff,  D.  G.
 
@@ -13511,7 +13511,7 @@ Publications in Archaeology,  No.  2 8 ,  Austin.
 
 395
 
-Ellen Sue Turner has served as a research associate at the Center for
+Ellen Sue Turner has served as a research associate at the Center for
 Archeological Research, University of Texas at San Antonio, as editor
 and author of a number of anthropological publications and as
 regional director, Region  1 2, of the Texas Archeological Society.  She

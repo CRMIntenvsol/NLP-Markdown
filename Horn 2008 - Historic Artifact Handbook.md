@@ -62,7 +62,7 @@ ca. 1918-1920s
 
 1
 
-Purple glass is one of the best time markers to be found on archaeological sites.  Use of manganese
+Purple glass is one of the best time markers to be found on archaeological sites.  Use of manganese
 as a clearing agent in glass became very commonplace by 1885, perhaps beginning as early as 1880.
 Although the vessels started out clear in color, exposure to the sun resulted in a purple tint, varying
 in intensity depending on the amount of manganese used.  The main source of manganese, Germany,
@@ -116,7 +116,7 @@ illustrations provide the technical information necessary for providing this inf
 
 2
 
-Depression  glass  comes  in  a  variety  of  colors  and  shapes.    It  was  usually  inexpensive  dime-store
+Depression  glass  comes  in  a  variety  of  colors  and  shapes.    It  was  usually  inexpensive  dime-store
 dishware and was often given away in advertising promotions.  Patterns can often be identified and
 frequently  have  restricted  periods  of  production.    On  occasion,  decorative  glass  table  service  or
 housewares came in purple.  Consideration should be of the type of vessel and its use when purple
@@ -173,7 +173,7 @@ later  by  machine.    The  ends  of  the  cans  have  flat  lips  that  fit  ar
 
 3
 
-The connection is not interlocked in any way.  One end of the can has a filler hole large enough for
+The connection is not interlocked in any way.  One end of the can has a filler hole large enough for
 the contents of the can to enter.  The filler hole was covered by a sheet metal disc soldered in place
 forming  a  characteristic  ring  of  lead.    The  filler  cap  has  a  pin  hole  which  allowed  steam  to  escape
 during  processing.    Once  processing  was  completed,  the  pin  hole  was  sealed  with  a  spot  of  lead
@@ -227,7 +227,7 @@ double seamed – 1918-present (Gillio et al. 1980:9)
 
 4
 
-Distribution  of  canned  beer  did  not  begin  until  1935.    Cone-top  cans  with  crown  cap  finishes  were
+Distribution  of  canned  beer  did  not  begin  until  1935.    Cone-top  cans  with  crown  cap  finishes  were
 used  on  a  limited  basis  from  1935  to  1959  (Rock  1981:25).    See  Beer  Can  Table  for  additional
 information.
 
@@ -283,7 +283,7 @@ sizes.  It has been estimated that by 1890, approximately 50% of the nails produ
 
 5
 
-wire nails (Clark 1929:Vol.  2:351-355, Vol.  3:126; Buckles 1978).  In general, if cut nails are found on
+wire nails (Clark 1929:Vol.  2:351-355, Vol.  3:126; Buckles 1978).  In general, if cut nails are found on
 a site, a date of 1900 or before can be presumed.  The rate at which wire nails replaced cut nails may
 vary  throughout  the  country  depending  upon  the  source  of  supply.    In  Colorado,  it  is  common  for
 sites as early as 1890 to have a nail assemblage dominated by wire nails.  This seems to be because
@@ -339,7 +339,7 @@ manufacturer.
 
 6
 
-Other gun related items to look for are percussion caps and gun flints.  Gun flints may be mistaken
+Other gun related items to look for are percussion caps and gun flints.  Gun flints may be mistaken
 for prehistoric lithic material but has a characteristic square shape.  Bullets and gun parts are also
 found on occasion.
 
@@ -395,29 +395,29 @@ pieces of a larger item  are found which cannot be identified from what is left.
 
 7
 
-item will be very informative.  The best that can be done is to describe hardware artifacts as well as
+item will be very informative.  The best that can be done is to describe hardware artifacts as well as
 possible.  If the function of an item is unknown to you, photograph or draw it.  It is usually possible
 to  tell  if  something  is  hand  or  machine  made.    On  machine  made  items,  look  for  casting  marks.
 These will usually be numbers but occasionally are manufacturer's marks, patent dates, or names.
 
 8
 
-Bottle seams indicative of mold type, bottle nomenclature, can types, and can opening styles.
+Bottle seams indicative of mold type, bottle nomenclature, can types, and can opening styles.
 
 9
 
-Dating key for bottles from D. Stell Newman, 1970, A Dating Key for Post-Eighteenth Century
+Dating key for bottles from D. Stell Newman, 1970, A Dating Key for Post-Eighteenth Century
 Bottles.  Historical Archaeology 4:72-75.
 
 10
 
-11
+11
 
-12
+12
 
-13
+13
 
-Bottle neck finishes from: Fike, Richard E.
+Bottle neck finishes from: Fike, Richard E.
 
 1987  The Bottle Book: A Comprehensive Guide to Historic, Embossed Medicine Bottles.
 
@@ -425,7 +425,7 @@ Peregrine Smith Books, Salt Lake City.
 
 14
 
-Bottle base shapes from: Fike, Richard E.
+Bottle base shapes from: Fike, Richard E.
 
 1987  The Bottle Book: A Comprehensive Guide to Historic, Embossed Medicine Bottles.
 
@@ -433,7 +433,7 @@ Peregrine Smith Books, Salt Lake City.
 
 15
 
-Date
+Date
 1980s
 
 1989
@@ -560,13 +560,13 @@ From: Maxwell, D. B. S.
 
 16
 
-17
+17
 
-Pocketknives, animal shoes, cartridge types, and bale ties.
+Pocketknives, animal shoes, cartridge types, and bale ties.
 
 18
 
-Screw nomenclature from: Brownell, Adon H.
+Screw nomenclature from: Brownell, Adon H.
 
 n.d.  Hardware Age Builders' Hardware Handbook.  Chilton Company - Book Division,
 
@@ -574,7 +574,7 @@ Publishers, Philadelphia.
 
 19
 
-Cabin and architectural information adapted from:  Wilson, Mary
+Cabin and architectural information adapted from:  Wilson, Mary
 
 1984  Log Cabin Studies, the Rocky Mountain Cabin, Log Cabin Technology and Typology
 and Log Cabin Bibliography.  U.S. Forest Service, Intermountain Region, Cultural
@@ -582,9 +582,9 @@ Resource Report No. 9.
 
 20
 
-21
+21
 
-ARTIFACT IDENTIFICATION BIBLIOGRAPHY
+ARTIFACT IDENTIFICATION BIBLIOGRAPHY
 
 General Classification and Company Histories
 
@@ -654,7 +654,7 @@ York.
 
 22
 
-Panati, Charles
+Panati, Charles
 
 1987  Extraordinary Origins of Everyday Things.  Harper & Row, Publishers, New York.
 
@@ -727,7 +727,7 @@ Noël Hume, Ivor
 
 23
 
-Petsche, Jerome E.
+Petsche, Jerome E.
 
 1974  The Steamboat Bertrand: History, Excavation, and Architecture.  National Park Service
 
@@ -796,7 +796,7 @@ Supplement.  Pembroke Thom Rathbone, Marsing, Idaho.
 
 24
 
-Wendel, C. H.
+Wendel, C. H.
 
 1997  Encyclopedia  of  American  Farm  Implements  &  Antiques.    Krause  Publications,  Iola,
 
@@ -872,7 +872,7 @@ Century.  Thomas Nelson, Inc., New York.
 
 25
 
-Clint, David K.
+Clint, David K.
 
 1976  Colorado Historical Bottles & ETC., 1859-1915.  Johnson Publishing Company, Boulder,
 
@@ -954,7 +954,7 @@ Miller, George L., and Catherine Sullivan
 
 26
 
-Historical Archaeology 18(2):83-96.
+Historical Archaeology 18(2):83-96.
 
 Peterson, Arthur G.
 1968
@@ -1031,7 +1031,7 @@ Iowa.
 
 27
 
-Century House
+Century House
 
 1959  Military Uniforms and Their Buttons.  Century House, Watkins Glen, New York.
 
@@ -1105,7 +1105,7 @@ Publishing Company, London.
 
 28
 
-Cushion, J. P.
+Cushion, J. P.
 
 1961  Pocket Book of German Ceramic Marks and Those of Other Central European Countries.
 Faber and Faber, London.
@@ -1177,7 +1177,7 @@ Florence, Gene
 
 29
 
-Kentucky.
+Kentucky.
 
 1998  Florence’s Glassware Pattern Identification Guide.  Collector Books, Paducah, Kentucky.
 
@@ -1255,7 +1255,7 @@ Ahlborn, Richard
 
 30
 
-Press, Washington.
+Press, Washington.
 
 Fitzgerald, William N.
 
@@ -1331,7 +1331,7 @@ Other Lanterns.  Golden Hill Press, Inc., Spencertown, New York.
 
 31
 
-Myers, Denys Peter
+Myers, Denys Peter
 
 1978  Gaslighting in America: A Pictorial Survey, 1815-1910.  Dover Publications, Inc., New
 
@@ -1409,7 +1409,7 @@ Newtown, Connecticut.
 
 32
 
-1986  Dictionary  of  Leather-working  Tools,  c.1700-1950  and  the  Tools  of  Allied  Trades.
+1986  Dictionary  of  Leather-working  Tools,  c.1700-1950  and  the  Tools  of  Allied  Trades.
 
 Macmillan Publishing Company, New York.
 
@@ -1482,7 +1482,7 @@ Rittenhouse, Jack D.
 
 33
 
-Spivey, Towana, editor
+Spivey, Towana, editor
 
 1979  A Historical Guide to Wagon Hardware & Blacksmith Supplies.  Contributions of the
 
@@ -1560,7 +1560,7 @@ Dover Publications, Inc., New York.
 
 34
 
-Museums at Stony Brook
+Museums at Stony Brook
 
 1986  The Carriage Collection.  The Museums at Stony Brook, Stony Brook, New York.
 

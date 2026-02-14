@@ -16,7 +16,7 @@ and Anne Fox, in support of the 1997 Texas Archeological Stewardship Network wor
 
 The University of Texas at San Antonio
 
-MAJOLICA
+MAJOLICA
 
 TEXAS HISTORICAL COMMISSION
 
@@ -43,7 +43,7 @@ Age Range: 1790 - 1830
 Occurs late at the
 San Antonio missions
 
-MAJOLICA (cont.)
+MAJOLICA (cont.)
 
 Faience Ware (French origin)
 Age Range: 18th century
@@ -95,7 +95,7 @@ Early 18th century
 (possible Mexico
 City origin)
 
-PLAIN WARE AND BURNISHED PLAIN WARE
+PLAIN WARE AND BURNISHED PLAIN WARE
 
 TEXAS HISTORICAL COMMISSION
 
@@ -116,7 +116,7 @@ Bone-tempered, 18th century equivalent of Leon Plain
 Guadalajara/Tonalá Burnished  Age Range: 1650 - present (still made today)
 Plain red slip or red, yellow, and black painted designs
 
-LEAD GLAZE WARE
+LEAD GLAZE WARE
 
 TEXAS HISTORICAL COMMISSION
 
@@ -141,7 +141,7 @@ Age Range: 15th - 19th century
 
 Green glaze on the interior, white slip on the exterior
 
-PORCELAIN AND WHITE WARE
+PORCELAIN AND WHITE WARE
 
 TEXAS HISTORICAL COMMISSION
 
@@ -180,7 +180,7 @@ Age Range: 1900+ in Texas
 
 Decorated over glaze.
 
-WHITE WARE
+WHITE WARE
 
 TEXAS HISTORICAL COMMISSION
 
@@ -210,7 +210,7 @@ into the late 19th century
 Maker's mark sometimes
 can be identified and dated.
 
-STONEWARE AND LUSTER WARE
+STONEWARE AND LUSTER WARE
 
 TEXAS HISTORICAL COMMISSION
 
@@ -265,7 +265,7 @@ Storage jar
 Stoneware bottle
 (German origin)
 
-SPECIAL CERAMIC FORMS
+SPECIAL CERAMIC FORMS
 
 TEXAS HISTORICAL COMMISSION
 
@@ -305,7 +305,7 @@ Door knob                                     Insulator
 Writing slate-used by all ages from school
 children to merchants
 
-P.O. BOX 12276 • AUSTIN, TX 78711-2276
+P.O. BOX 12276 • AUSTIN, TX 78711-2276
 PHONE 512/463-6100 • FAX 512/475-4872
 www.thc.state.tx.us
 

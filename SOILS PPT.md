@@ -1,6 +1,6 @@
 Soils and Sediments
 
-Soils and Sediments
+Soils and Sediments
 
 ●Soil is NOT a deposit, but a
 modification of parent
@@ -27,18 +27,18 @@ Significance:
 ●Provides evidence of
 the past environment
 
-Sediment Deposits
+Sediment Deposits
 
 4 types
 
-Lacustrine
+Lacustrine
 
 • Shoreline
 • Center of Lake
 • “Humid” lakes
 • “Arid” Lakes
 
-Lacustrine
+Lacustrine
 
 • Shoreline
 – Sandy
@@ -53,7 +53,7 @@ the past environment
 
 – Evaporites (salts)
 
-Colluvial
+Colluvial
 
 • Upslope erosion
 • Transport down the
@@ -65,7 +65,7 @@ surface
 
 preservation at base
 
-Pyroclastic
+Pyroclastic
 (ash)
 
 Ash “blankets” landscape
@@ -74,7 +74,7 @@ Can bury sites
 
 Good for dating
 
-Alluvial
+Alluvial
 
 ●Channels
 
@@ -88,7 +88,7 @@ Good for dating
 ●Low energy
 ●Good site locations
 
-Clay
+Clay
 
 Silt
 
@@ -96,7 +96,7 @@ Sand
 
 High and Low Energy
 
-How soils form…
+How soils form…
 
 ●MUST have STABILITY/TIME & WEATHERING
 ●5 factors that affect soil formation
@@ -109,7 +109,7 @@ O = Organics/Organisms
 R = Relief (slope)
 T = Time
 
-Soil Horizons
+Soil Horizons
 
 ● A Horizon-most intense
 chemical weathering,
@@ -124,11 +124,11 @@ Red oxides, clay, salts
 
 altered parent material.
 
-Forest Soils
+Forest Soils
 
 Prairie Soils
 
-Forest Soils
+Forest Soils
 
 A Horizon:
 Thin, light colored
@@ -148,7 +148,7 @@ preservation
 Light colored parent
 material
 
-Prairie Soils
+Prairie Soils
 
 ●A Horizon
 Thick, dark
@@ -160,13 +160,13 @@ White salts
 (calcium carbonate)
 good bone preservation
 
-Color
+Color
 
 Hue- dominant color (red-yellow balance)
 Value- darkness or lightness
 Chroma- intensity of dominant color
 
-Consistence
+Consistence
 
 • Stickiness- capacity for moist soil to stick to something
 
@@ -178,5 +178,5 @@ Chroma- intensity of dominant color
 
 • Grittiness - (sand)
 
-Texture
+Texture
 

@@ -20,7 +20,7 @@ NUMBER 348
 
 May 2008
 
-ARCHEOLOGICAL TESTING AT 41TR170,
+ARCHEOLOGICAL TESTING AT 41TR170,
 ALONG THE CLEAR FORK OF THE TRINITY RIVER,
 TARRANT COUNTY, TEXAS
 
@@ -50,7 +50,7 @@ Plano Texas 75074
 
 May 2008
 
-MANAGEMENT SUMMARY
+MANAGEMENT SUMMARY
 
 Archeologists from Geo-Marine, Inc., were subcontracted through Prewitt and Associates, Inc., of
 Austin  to  conduct  National  Register  of  Historic  Places  evaluative  testing  at  archeological  site
@@ -86,7 +86,7 @@ an interim report.
 
 iii
 
-The  geomorphic  investigations,  coupled  with  the  processing  of  eight  radiocarbon  dates,
+The  geomorphic  investigations,  coupled  with  the  processing  of  eight  radiocarbon  dates,
 ascertained that the upper 2 meters of the Clear Fork sediments date to the past 2,900 years.  All
 trenches contained evidence of the regionally dominant West Fork paleosol that is buried under a
 thin layer of recent alluvium.  Beneath the West Fork paleosol were grayish and yellowish clayey
@@ -138,7 +138,7 @@ adjacent Block 1 were two smaller (possible) pit ovens about 1 meter in diameter
 
 iv
 
-pile of rock stored for reuse, a few rake-off piles or dumps, and one area of fitted burned rock that
+pile of rock stored for reuse, a few rake-off piles or dumps, and one area of fitted burned rock that
 might  have  served  as  a  large  griddle-like  feature.    Tools  and  chipped  stone  debris  were
 moderately  abundant  in  Block  1,  but  rare  in  Block  3.    Bone  preservation  in  this  area  was  very
 poor,  although  several  hundred  fragments  of  scattered  freshwater  mussel  shell  were  present.
@@ -174,7 +174,7 @@ investigations are recommended.
 
 v
 
-TABLE OF CONTENTS
+TABLE OF CONTENTS
 
 MANAGEMENT SUMMARY ......................................................................................................iii
 
@@ -213,7 +213,7 @@ Chipped Stone Tool .............................................................
 
 vii
 
-Table of Contents
+Table of Contents
 (cont’d)
 
 Chipped Stone Debitage.......................................................................................... 40
@@ -260,7 +260,7 @@ Summary and Conclusions.........................................................
 
 viii
 
-Table of Contents
+Table of Contents
 (cont’d)
 
 5.  ARCHEOLOGICAL RESULTS .............................................................................................. 65
@@ -308,7 +308,7 @@ Radiocarbon Results from Cultural Contexts .....................................
 
 ix
 
-Table of Contents
+Table of Contents
 (cont’d)
 
 Lipid Studies .............................................................................................................. 101
@@ -356,7 +356,7 @@ Summary of Burned Rock Feature Distributions....................................
 
 x
 
-Table of Contents
+Table of Contents
 (cont’d)
 
 7.  RECOMMENDATIONS........................................................................................................ 141
@@ -392,7 +392,7 @@ J.  Radiocarbon Dates from Testing Conducted at Site 41TR170....................
 
 xi
 
-LIST OF FIGURES
+LIST OF FIGURES
 
 1.  General location of site 41TR170 near Fort Worth, Tarrant County, Texas ............................. 2
 2.  Excavation locations at site 41TR170 ....................................................................................... 5
@@ -430,7 +430,7 @@ channelization..................................................................
 
 xiii
 
-List of Figures
+List of Figures
 (cont’d)
 
 32.  Distribution of features at Block 1 ........................................................................................ 109
@@ -442,7 +442,7 @@ xiii
 
 xiv
 
-LIST OF TABLES
+LIST OF TABLES
 
 1.  Chronological Framework for the Upper Trinity River Basin ................................................ 16
 2.  Locations of Backhoe Trenches and Nonblock Test Units at Site 41TR170 .......................... 24
@@ -486,7 +486,7 @@ Recorded Sites..................................................................
 
 xv
 
-ACKNOWLEDGMENTS
+ACKNOWLEDGMENTS
 
 The authors would like to thank the following individuals for their involvement on this project.
 Foremost,  the  landowners,  especially  Mr.  Scott  Walker  of  Edwards  Geren  Limited,  and  the
@@ -510,7 +510,7 @@ produced by Ms. Denise Pemberton.
 
 xvii
 
-CHAPTER 1
+CHAPTER 1
 INTRODUCTION
 
 THE PROJECT
@@ -553,7 +553,7 @@ final report.  This tactic is used to evaluate the artifact returns and allow th
 
 1
 
-to focus studies on the range of materials actually recovered from the site, rather than being based
+to focus studies on the range of materials actually recovered from the site, rather than being based
 on optimistic expectations developed before the beginning of excavations.  Initially, the portion
 of  site  41TR170  within  the  proposed  TxDOT  ROW  was  thought  to  be  about  7  acres  in  size;
 however, further examination of the aerial photographs ascertained that the site occurred within
@@ -607,7 +607,7 @@ from the testing phase of the project.
 
 3
 
-Due  to  the  nature  and  diversity  of  the  many  burned  rock  features  found  on  the  site,  the  initial
+Due  to  the  nature  and  diversity  of  the  many  burned  rock  features  found  on  the  site,  the  initial
 interim report stipulated that the site was being recommended as eligible for the NRHP and that
 further  excavations  would  be  prudent  to  salvage  more  data  from  the  feature  areas.    A  TxDOT
 ENV  review  of  the  initial  interim  report  determined  that  insufficient  information  about  the
@@ -657,7 +657,7 @@ site.
 
 4
 
-Overall, the survey assessed 41TR170 as a highly stratified, low-density multicomponent, special
+Overall, the survey assessed 41TR170 as a highly stratified, low-density multicomponent, special
 activity or brief campsite used by highly mobile peoples during the past two or more millennia.
 The cultural remains within the proposed highway ROW cover about 11.5 acres on both sides of
 the abandoned relic channel.  Due to the presence of low-density archeological remains of lithics,
@@ -667,7 +667,7 @@ NRHP.  That recommendation led to the present investigations at the site.
 
 7
 
-CHAPTER 2
+CHAPTER 2
 BACKGROUND
 
 This  section  summarizes  the  modern  environmental  conditions  at  the  site  and  then  provides  a
@@ -700,7 +700,7 @@ gently rises some 9 m (30 ft) above the surrounding floodplain.
 
 9
 
-The archeological remains at 41TR170 occur on both sides of an incised relic river channel about
+The archeological remains at 41TR170 occur on both sides of an incised relic river channel about
 60 m (200 ft) wide that has cut less than 6 m (20 ft) into the old floodplain of the Clear Fork of
 the  Trinity  River.    The  relic  channel  is  currently  dry,  but  the  U.S.  Geological  Survey  (USGS)
 Benbrook  7.5-minute  topographic  quadrangle  indicates  that  the  main  channel  of  the  Clear  Fork
@@ -750,7 +750,7 @@ that extends onto the floodplain southwest of the site (see Figure 3, areas mark
 
 10
 
-center of 41TR170 at the relic channel and do not encroach on the southwestern limits of the site,
+center of 41TR170 at the relic channel and do not encroach on the southwestern limits of the site,
 as  suggested  by  Hicks  and  Company  archeologists  (Seibel  et  al.  2000).    There  is  also  a  rather
 large area of Arent soil at least 460 m (1,500 ft) south of the relic river channel and the middle of
 site 41TR170 (see Figure 3, area  marked 7).  Arent soil deposits represent areas containing the
@@ -800,7 +800,7 @@ but 49 species of mammals occur in the region.  Important species that exist or 
 
 12
 
-area include white-tailed deer, bison, bear, squirrel, rabbit, and raccoon.  Along with a wide range
+area include white-tailed deer, bison, bear, squirrel, rabbit, and raccoon.  Along with a wide range
 of turtle, snake, frog, fish, freshwater mussel shell, and bird species, the region has a wide range
 of resources for supporting indigenous groups.
 
@@ -847,7 +847,7 @@ expected for the region.
 
 13
 
-From  studies  elsewhere  in  the  upper  Trinity  River  basin,  it  is  likely  that  as  many  as  three
+From  studies  elsewhere  in  the  upper  Trinity  River  basin,  it  is  likely  that  as  many  as  three
 alloformational stratigraphic units comprise the Holocene terrace (Ferring 2001:28–39).  Each is
 marked by an erosional unconformity at the top and pedogenic or soil development.  Along the
 Elm Fork, these consist of the Aubrey Alloformation, dating ca. 14,200 to perhaps 13,400 years
@@ -899,7 +899,7 @@ bottomlands.
 
 14
 
-As mentioned above, in 1968 or 1969 the new channel of the Clear Fork of the Trinity River was
+As mentioned above, in 1968 or 1969 the new channel of the Clear Fork of the Trinity River was
 excavated  to  a  depth  of  more  than  4  m  (13  ft)  and  perhaps  a  width  of  60  m  (197  ft)  into  the
 floodplain  to  straighten  and  deepen  the  riverbed  to  reduce  the  risk  of  flooding.    This
 channelization left the older channel dry.  The original depth of the relic channel and the amount
@@ -947,7 +947,7 @@ to be done.
 
 15
 
-The  chronological  framework  for  the  upper  Trinity  River  basin  is  not  well  developed.    Prikryl
+The  chronological  framework  for  the  upper  Trinity  River  basin  is  not  well  developed.    Prikryl
 (1987)  has  presented  a  chronological  sequence  of  six  prehistoric  periods  based  primarily  on
 cross-dating  diagnostic  projectile  point  forms  from  mostly  surface  contexts,  and  the  sequence
 based  on  Joe  Pool  Reservoir  investigations  adds  a  Protohistoric  period  (Table  1;  Peter  and
@@ -1035,7 +1035,7 @@ sites  with  isolated  Early  Archaic  components  in  this  area  are  known  (
 
 16
 
-surface  collections,  Prikryl  (1990)  hypothesizes  a  generalized  hunting-and-gathering  economy
+surface  collections,  Prikryl  (1990)  hypothesizes  a  generalized  hunting-and-gathering  economy
 during this period, with high group mobility, a lack of regionalization, and “little in the way of
 recognized  territorial  boundaries”  (Prikryl  1990:71).    Projectile  point  forms  that  may  be
 associated  with  the  Early  Archaic  in  Northcentral  Texas  include  Early  Split  Stemmed  and
@@ -1088,7 +1088,7 @@ recorded  as rock  middens.    In  aggrading  environments,  discrete  hearth co
 
 17
 
-Import  and  curation  of  chert  tools  is  evident,  and  contrasts  with  core-biface  curation  in  the  Middle
+Import  and  curation  of  chert  tools  is  evident,  and  contrasts  with  core-biface  curation  in  the  Middle
 Archaic period.  Chert was preferentially used for straight, expanding and corner-notched points, while
 local raw materials were reduced on-site and dominate the contracting-stemmed forms.  Despite quite
 good resource availability, dietary stress is recorded from skeletal and dental analyses. . . .
@@ -1140,7 +1140,7 @@ time were being produced in the Southern Plains region generally.  As recorded b
 
 18
 
-(Story  1990),  little  if  any  interaction  with  the  Caddoan  area  is  indicated.    Thus,  the  Ray  Roberts
+(Story  1990),  little  if  any  interaction  with  the  Caddoan  area  is  indicated.    Thus,  the  Ray  Roberts
 prehistoric  data  suggest  that  regional  traditions  emerged  at  the  end  of  the  LP  period  largely
 independent of the Plains or East Texas Woodlands.
 
@@ -1191,7 +1191,7 @@ by the survivors of the De Soto expedition in the sixteenth century, were Caddoa
 
 19
 
-were  the  same  group  as  the  Canohatino  identified  by  the  French  in  the  latter  part  of  the
+were  the  same  group  as  the  Canohatino  identified  by  the  French  in  the  latter  part  of  the
 seventeenth  century.    The  latter  group  was  apparently  located  at  that  time  “on  the  Blackland
 Prairies between the Guadalupe and Trinity rivers to the east of present-day San Antonio, Austin,
 and  Waco”  (Newcomb  1993:24).    If  the  prehistoric  occupants  of  the  eastern  plains  margin  in
@@ -1242,13 +1242,13 @@ process  of  establishing  Tarrant  County.    By  1860,  the  population  of  F
 
 20
 
-sufficiently to cause the county seat to be moved from Birdville to Fort Worth.  The coming of
+sufficiently to cause the county seat to be moved from Birdville to Fort Worth.  The coming of
 the  railroad  and  the  discovery  of  oil  after  1900  significantly  affected  the  economy  and  market
 accessibility of the area.
 
 21
 
-CHAPTER 3
+CHAPTER 3
 METHODS
 
 The methods used for testing 41TR170 are based on the three field stages, as outlined in Chapter
@@ -1286,7 +1286,7 @@ stipulations outlined above, an initial 28 backhoe trenches were dug at the site
 
 23
 
-Table 2
+Table 2
 Locations of Backhoe Trenches and Nonblock Test Units at Site 41TR170
 
 Stage 1:  Backhoe Trench
@@ -1702,7 +1702,7 @@ south
 
 24
 
-cases,  considerable  effort  was  spent  in  mechanically  clearing  small  brush  from  the  dense
+cases,  considerable  effort  was  spent  in  mechanically  clearing  small  brush  from  the  dense
 vegetation cover on the site, although every effort was made to honor the landowner’s request not
 to knock down trees larger than 15 cm (6 in) in diameter.  A few supplemental trenches (Trenches
 A–D) beyond the initial 28 were dug late in the testing program, especially near Blocks 1 and 3,
@@ -1754,7 +1754,7 @@ description  of  a  representative  wall  from  each  trench.    The  geomorphol
 
 25
 
-series  of  samples  from  each  stratum  that  could be  used  to  process  radiocarbon  samples  and  for
+series  of  samples  from  each  stratum  that  could be  used  to  process  radiocarbon  samples  and  for
 texture and chemistry analyses.  A preliminary series of eight sediment and charcoal samples was
 submitted for dating, and the results are integrated in the geomorphic descriptions below and in a
 report  appendix.    Information  from  the  geomorphology  and  trench  monitoring  activities  helped
@@ -1805,7 +1805,7 @@ color,  texture,  and  chemical  samples  collected  from  particular  zones  by
 
 26
 
-Two of the three columns were collected from areas that served as a focus for block excavations,
+Two of the three columns were collected from areas that served as a focus for block excavations,
 and  the  column  samples  have  direct  relevance  for  contributing  further  information  about  these
 block areas.
 
@@ -1853,7 +1853,7 @@ represent cultural zones.
 
 27
 
-STAGE 3:  MANUAL EXCAVATION OF SMALL BLOCKS
+STAGE 3:  MANUAL EXCAVATION OF SMALL BLOCKS
 
 The final phase of fieldwork called for archeologists to establish no fewer than three and no more
 than  five  9-m2  blocks  next  to  trenches  with  the  highest  potential  to  contain  archeologically
@@ -1905,7 +1905,7 @@ to assess the size, shape, and diversity, as well as the significance, of large 
 
 28
 
-this large area.  In order to enhance an understanding of the burned rock density and diversity in
+this large area.  In order to enhance an understanding of the burned rock density and diversity in
 this amorphously stripped area, a 2-x-2-m (6.6-x-6.6 ft) grid oriented to that used for Block 1 was
 expanded  over  the  stripped  area,  and  the  presence  of  burned  rock  was  determined  by  probes
 placed at a series of 50-cm (20 in) intervals along the grid (Figure 4).  Consultation with TxDOT
@@ -1957,7 +1957,7 @@ completed,  and  the  features  were  photographed.    When  high  densities  of
 
 29
 
-Trench
+Trench
 
 Block 2
 
@@ -2046,7 +2046,7 @@ black plastic sheeting along the walls of the three excavation blocks and additi
 
 32
 
-Table 3
+Table 3
 Test Units and Features Comprising Excavation Blocks 1, 2, and 3 at Site 41TR170
 
 Block No. 1, South End of Site, Adjacent to North Side of Trench 19
@@ -2265,7 +2265,7 @@ F-20
 
 33
 
-placed  over  the  excavation  area  as  a  warning  marker  to  delineate  the  locations  of  the  entire
+placed  over  the  excavation  area  as  a  warning  marker  to  delineate  the  locations  of  the  entire
 mechanically  stripped  areas  that  contained  three  excavation  blocks.    Should  additional
 excavations  be  required  in  these  areas,  the  webbing  was  to  signal  the  approach  of  the  target
 excavation  areas,  and  the  black  plastic  wrapping  the  walls  of  the  40-cm-block  (16  in)  limits
@@ -2317,7 +2317,7 @@ development of the initial interim report.
 
 34
 
-Later,  15  other  sediment  samples  were  sent  to  Dr.  Phil  Dering  for  flotation  recovery  and
+Later,  15  other  sediment  samples  were  sent  to  Dr.  Phil  Dering  for  flotation  recovery  and
 macrobotanical identification.  These samples ranged from 3 to 5 liters (3.2–5.3 qt) each, but the
 submittal  of  multiple  samples  from  the  same  feature  was  designed  to  examine  the  recovery  of
 macrobotanical remains from up to 10-liters (11 qt) of sediments from a single feature.  Some of
@@ -2368,7 +2368,7 @@ matrix  from  each  feature  was  processed  using  a  flotation  device,  and  
 
 35
 
-fractions of these samples were identified.  The macrobotanical data are integrated into this report
+fractions of these samples were identified.  The macrobotanical data are integrated into this report
 and provided as an appendix at the end of the report.  Similarly, Dr. Mary Malainey was sent a
 single  burned  rock  from  two  features  in  each  of  the  three  blocks  for  the  extraction  and  general
 identification of prehistoric lipid residues from the outside of the heated stones.  Her results based
@@ -2417,7 +2417,7 @@ for curation.
 
 36
 
-Detailed  geomorphological  analyses  include  textural  and  chemical  analyses  of  the  geomorphic
+Detailed  geomorphological  analyses  include  textural  and  chemical  analyses  of  the  geomorphic
 sediment samples collected during testing to better document the various depositional units in the
 Clear  Fork  terrace.
   These  analyses  will  contribute  important  information  about  the
@@ -2468,7 +2468,7 @@ indicated by potlidded surfaces, crazing, or reddish discoloration.
 
 37
 
-The  primary  distinction  for  chipped  stone  is  between  tools,  which  include  any  flaked  stone
+The  primary  distinction  for  chipped  stone  is  between  tools,  which  include  any  flaked  stone
 artifacts  that  exhibit  either  use-wear  or  purposeful  modification,  and  debitage,  which  is
 manufacturing debris, or flakes, that does not show any macroscopically obvious signs of retouch
 or  edge  damage.    Chipped  stone  tools,  at  a  minimum,  include  bifaces,  projectile  points,  flake
@@ -2516,7 +2516,7 @@ attributes recorded.
 
 38
 
-Projectile points were classified as haftable bifaces with a defined base, stem, and shoulders.  The
+Projectile points were classified as haftable bifaces with a defined base, stem, and shoulders.  The
 distinction between dart (large) and arrow (small) points was based on overall size.  If sufficient
 amount of the point was present, it was compared to established named types (Turner and Hester
 1999).    These  names  form  the  basis  for  ascertaining  the  cultural  affiliations  and  time  periods
@@ -2564,7 +2564,7 @@ section ratio ranges from roughly 5:1 to as thin as 10:1.
 
 39
 
-Some  bifacial  implements  were  produced  as  other  formal  tools  and  were  identified  based  on
+Some  bifacial  implements  were  produced  as  other  formal  tools  and  were  identified  based  on
 specialized shape and functional requirements.  Bifacial implements were classified by function,
 such  as  knife,  perforator/drill,  graver,  etc.,  or  by  Callahan  production  stage.    Typology  and
 terminology generally followed that provided by Turner and Hester (1999).
@@ -2633,7 +2633,7 @@ steep platform, and 3 or more dorsal ridges
 
 40
 
-Pressure Retouch  Elongated or teardrop-shaped flake, not more than 5 mm in thickness with nipple-
+Pressure Retouch  Elongated or teardrop-shaped flake, not more than 5 mm in thickness with nipple-
 
 shaped platform
 
@@ -2685,7 +2685,7 @@ becoming a cobble/core tool.  No cores were recovered from site 41TR170.
 
 41
 
-Ground Stone and Cobble Artifact
+Ground Stone and Cobble Artifact
 
 Ground  stone  tools  consist  of  nonsiliceous/noncutting  tools  such  as  milling  stones  and  hand
 stones, mortars and pestles, and axes/adzes/chisels.  Other forms include pitted anvil stones, often
@@ -2734,7 +2734,7 @@ snail shells were counted and discarded.
 
 42
 
-Baked Clay Analysis
+Baked Clay Analysis
 
 Baked  clay  (daub  and  burned  clay)  specimens  are  distinguished  from  vessel  sherds  by  several
 indicators.    Those  pieces  exhibiting  impressions  of  vegetal  fibers  or  other  vegetal  remains  are
@@ -2757,7 +2757,7 @@ requirements.
 
 43
 
-CHAPTER 4
+CHAPTER 4
 GEOMORPHOLOGICAL RESULTS
 
 Archeological site 41TR170 occurs on an abandoned or stranded floodplain terrace of the Clear
@@ -2794,7 +2794,7 @@ limestone clasts are white with a weak yellowish weathering rind about 2 mm thic
 
 45
 
-Late Holocene stratigraphy at Trench 24
+Late Holocene stratigraphy at Trench 24
 
 Figure
 7.
@@ -2819,7 +2819,7 @@ beneath a buried eroded margin of the Denton Creek terrace complex (Ferring 1990
 
 46
 
-Yellow Clay
+Yellow Clay
 
 The  yellow  clay  unit  (yellowish  brown,  10YR  5/6)  is  about  1  m  thick,  is  exposed  in  only
 Trenches  18  and  19,  and  rests  directly  on  cemented  gravels  with  which  it  has  a  sharp  basal
@@ -2865,7 +2865,7 @@ years B.P.
 
 47
 
-Floodplain Paleo-Topography and Cumulic Soil Development
+Floodplain Paleo-Topography and Cumulic Soil Development
 
 The  yellow  clay  and  gray  clay  units  together  form  a  surface  on  which  the  West  Fork  paleosol
 developed.  The pre-paleosol floodplain surface topography in the study area is not flat; it has a
@@ -2910,7 +2910,7 @@ other words, the environmental conditions that produced the West Fork paleosol n
 
 48
 
-The West Fork paleosol at site 41TR170 is dark grayish brown (10YR 4/2) clayey silt and very
+The West Fork paleosol at site 41TR170 is dark grayish brown (10YR 4/2) clayey silt and very
 fine  sand;  its  dark  color  distinguishes  it  from  older  and  younger  alluvium  (Table  4).    The
 thickness  of  the  paleosol  ranges  from  59  cm  (Trench  12)  to  152  cm  (Trench  21)  and  averages
 about  85  cm  (these  numbers  excluded  paleosol  localities  where  historic  activity  may  have
@@ -3285,7 +3285,7 @@ percentages; Wentworth scale; Munsell Soil Color Chart; analyses by Milwaukee So
 
 49
 
-Carbonates
+Carbonates
 
 The  paleosol  sediments  are  all  highly  calcareous,  ranging  from  32  to  41  percent  and  probably
 representing calcite particles derived from limestone and marl bedrock in the watershed.  Visible
@@ -3331,7 +3331,7 @@ project area may simply not be large enough to incorporate a post-paleosol chann
 
 50
 
-Gradational contact between West Fork paleosol and overlying post-paleosol alluvium
+Gradational contact between West Fork paleosol and overlying post-paleosol alluvium
 
 Figure
 9.
@@ -3370,7 +3370,7 @@ cm at a few trench exposures (cf. Trenches 23 and 24) at site 41TR170.
 
 51
 
-Sediment Characteristics
+Sediment Characteristics
 
 Sand, Silt, Clay
 
@@ -3415,7 +3415,7 @@ transported in suspension and deposited with muds in overbank alluvium.
 
 52
 
-Zones of gravels occur in basal West Fork paleosol sediments in Trenches 8, 9, 17, 18, 19, 20, 23,
+Zones of gravels occur in basal West Fork paleosol sediments in Trenches 8, 9, 17, 18, 19, 20, 23,
 and 24.  The gravel zones range from 10 cm (Trench 23) to 44 cm (Trench 9) in thickness.  A
 single zone of gravel averaging 24 cm thick occurs at the base of the paleosol in Trenches 17, 18,
 19, and 20.  Two gravel zones, each averaging 13 cm thick, occur in Trenches 8, 9, 23, and 24
@@ -3461,7 +3461,7 @@ Trenches 18 and 19 may be Pleistocene in age.
 
 53
 
-Gravels from Trench 19
+Gravels from Trench 19
 
 Figure
 10.
@@ -3490,7 +3490,7 @@ be predominantly older than the twentieth century.
 
 54
 
-Freshwater Mussel Shells
+Freshwater Mussel Shells
 
 Occasional  mussel  shells  occur  in  the  late  Holocene  alluvium,  mostly  in  the  clays  of  the  West
 Fork paleosol.  Many of the shells observed in trench walls are concave up.  Because of the shape
@@ -3651,7 +3651,7 @@ paleosol  and  other  alluvium  can  be  explained.    Overbank  sediments,  inc
 
 55
 
-paleosol,  would  accumulate  earliest  in  topographically  low  areas  on  the  floodplain  and,
+paleosol,  would  accumulate  earliest  in  topographically  low  areas  on  the  floodplain  and,
 accordingly, later on topographically high areas.  Thus, differences of a few hundred years in the
 geochronology of the formation of the West Fork paleosol can be accounted for.  Unfortunately,
 high-resolution  GPS  elevational  data  that  would  provide  information  on  floodplain  topography
@@ -3700,7 +3700,7 @@ southcentral United States.
 
 56
 
-Cross section of the Clear Fork channel and floodplain at site 41TR170 prior to
+Cross section of the Clear Fork channel and floodplain at site 41TR170 prior to
 
 Figure
 11.
@@ -3743,7 +3743,7 @@ communities  (pollen),  vertebrate  faunas,  and  molluscan  faunas  reflect  mo
 
 57
 
-1988, 1990).  An exhaustive faunal study at Hall’s Cave also shows a comparatively wet period
+1988, 1990).  An exhaustive faunal study at Hall’s Cave also shows a comparatively wet period
 between about 2,000 and 1,000 years ago in Central Texas (Toomey 1993).  Other studies show
 the corroboration of faunal, paleoclimatic, and fluvial evidence (Blum et al. 1994; Toomey et al.
 1993).  The paleolandscape record is clear and consistent.
@@ -3792,7 +3792,7 @@ a late Holocene shift from comparatively warm-dry to cool-wet conditions in nort
 
 58
 
-12.
+12.
 
 Distribution of δ13C values from late Holocene Clear Fork alluvium at site 41TR170
 
@@ -3834,7 +3834,7 @@ filled with construction debris (see Figure 11).  The sediments that make up the
 
 59
 
-Table 6
+Table 6
 Carbon and Nitrogen Isotope Values from Late Holocene Alluvium Including the West Fork Paleosol at
 Site 41TR170, Clear Fork of the Trinity River, Tarrant County, Texas
 
@@ -4070,7 +4070,7 @@ incorporated into the floodplain deposits.
 
 60
 
-13.
+13.
 
 Stratigraphic sequence of carbon isotopes in late Holocene alluvium at site 41TR170
 
@@ -4106,7 +4106,7 @@ climatic change.
 
 61
 
-Other Stable Isotope Studies
+Other Stable Isotope Studies
 
 Fort Hood.  A long sequence of carbon isotopes has been documented from Holocene alluvium
 in  central  Texas  (Nordt  et  al.  1994).    The  sequence  parallels  that  from  Clear  Fork  with  δ13C
@@ -4159,7 +4159,7 @@ The site was 139 cm above the low point in the floodplain about 2,300 years ago.
 
 62
 
-Isolated burned stones and mussel shells occur at various depths within the West Fork paleosol
+Isolated burned stones and mussel shells occur at various depths within the West Fork paleosol
 sediments,  as  encountered  in  backhoe  trenches.    Their  presence  is  likely  cultural  in  origin;  the
 stones  and  shells  are  too  large  to  be  easily  transported  by  overbank  or  valley-spreading
 floodwater.
@@ -4209,7 +4209,7 @@ occurring at similar sites along stream valleys in the Trinity River drainage ba
 
 63
 
-SUMMARY AND CONCLUSIONS
+SUMMARY AND CONCLUSIONS
 
 The Clear Fork alluvial record at site 41TR170 is less than 3,000 years old.  About 3,000 to 2,500
 years  ago,  yellow  clayey  alluvium  was  deposited  on  an  old  surface  composed  of  cemented
@@ -4227,7 +4227,7 @@ the West Fork paleosol), burying it by 0.5 m of sandy clay.
 
 64
 
-CHAPTER 5
+CHAPTER 5
 ARCHEOLOGICAL RESULTS
 
 This section presents the results of the 2005 GMI archeological investigations conducted at site
@@ -4261,7 +4261,7 @@ the site indicate a considerable labor expenditure involved in the initial rock 
 
 65
 
-Table 7
+Table 7
 Features in Relation to Test Units, Trenches, and Blocks at Site 41TR170
 
 Feature #
@@ -4373,7 +4373,7 @@ number.
 
 66
 
-8
+8
 
 e
 l
@@ -6358,7 +6358,7 @@ x
 1
 1
 
-l
+l
 a
 i
 r
@@ -8323,7 +8323,7 @@ t
 o
 T
 
-Features from Deep Test Units
+Features from Deep Test Units
 
 Feature 1 (Deep Test Unit 1; 84–90 cm bs)
 
@@ -8370,7 +8370,7 @@ the same depth, designated as Feature 5.
 
 69
 
-Figure
+Figure
 14.
 
 Photograph of Feature 2; photographer is facing west
@@ -8399,7 +8399,7 @@ burned rock.
 
 70
 
-Figure
+Figure
 15.
 
 Photograph of Feature 4; photographer is facing west
@@ -8428,7 +8428,7 @@ Clear Fork of the Trinity River.
 
 71
 
-Figure
+Figure
 16.
 
 Photograph of Feature 5, Unit 3; photographer is facing east
@@ -8444,7 +8444,7 @@ Figure 17.  Photograph of Feature 7, Unit 6; photographer is facing west.
 
 72
 
-The tight rock cluster was restricted to an 11-cm-thick area in the extreme corner of the test unit
+The tight rock cluster was restricted to an 11-cm-thick area in the extreme corner of the test unit
 and  measured  20  cm  (north-south)  by  25  cm  (east-west);  presumably  parts  of  this  cluster
 extended beyond the north and west walls of the unit.  Other burned rocks occurred haphazardly
 and widely spaced across the floor of the test unit and appeared to be scattered by flooding events
@@ -8493,7 +8493,7 @@ structure to the rock placement, it is possible that these rocks were culled fro
 
 73
 
-Figure
+Figure
 18.
 
 Photograph of Feature 8 in Unit 6; photographer is facing west
@@ -8511,7 +8511,7 @@ the southeastern corner of Block 1.
 
 74
 
-were piled as recycled lithic resources to be used in other rock-heating features.  The structure,
+were piled as recycled lithic resources to be used in other rock-heating features.  The structure,
 form, and composition of these rocks differed from those of nearby Features 9 and 10 (see Figure
 19).
 
@@ -8559,7 +8559,7 @@ analysis.
 
 75
 
-A small piece of wood charcoal weighing 0.2 g was recovered by GMI technicians from sediment
+A small piece of wood charcoal weighing 0.2 g was recovered by GMI technicians from sediment
 sample Lot 151/FS 286 using flotation methods.  The charcoal came from Level 11 (100–110 cm
 bs)  of  Test  Unit  2  and  was  associated  with  Feature  9.    This  piece  of  charcoal  was  not  sent  for
 macrobotanical  identification,  but  was  submitted  to  Beta  Analytic  for  radiocarbon  dating.
@@ -8607,7 +8607,7 @@ lipid  residue  analysis.    The  amount  of  burned  rock  attributed  to  this
 
 76
 
-Feature 11 (Block 1, Unit 16; 85–95 cm bs)
+Feature 11 (Block 1, Unit 16; 85–95 cm bs)
 
 Located in Test Unit 16 in the northwest corner of Block 1, Feature 11 was a circular cluster of
 burned  rock  just  west  of  Feature  9,  and  partially  overlying  Feature  13.    The  rocks  consisted  of
@@ -8638,7 +8638,7 @@ with  the  feature  were  analyzed  in  the  field  and  consisted  of  129  spe
 
 77
 
-Feature 13 (Block 1, Units 16 and 17; 101–116 cm bs)
+Feature 13 (Block 1, Units 16 and 17; 101–116 cm bs)
 
 Feature 13 was part of an oval-shaped pile of burned rocks that occurred in Test Units 16 and 17
 within the northwest corner of Block 1 underneath Feature 11 (Figure 21).  Despite its occurrence
@@ -8662,7 +8662,7 @@ throughout the matrix, which indicated that if a pit were present, the stones we
 
 78
 
-not  lining  the  base.    Alternatively,  these  may  be  piled  discard  rocks  that  were  dumped  into  a
+not  lining  the  base.    Alternatively,  these  may  be  piled  discard  rocks  that  were  dumped  into  a
 depression.  These burned limestone rocks occurred in an area measuring 111 cm (north-south)
 by at least 63 cm (east-west) and were recovered from 101–116 cm bs for a maximum thickness
 of 15 cm.  The rocks were noted in three to four layers or elevations, which also indicated some
@@ -8710,7 +8710,7 @@ the remains were more likely from plants, although the specific plant(s) were no
 
 79
 
-Features from Block 2
+Features from Block 2
 
 Feature 3 (Block 2, Units 4 and 20; 175–192 cm bs)
 
@@ -8736,7 +8736,7 @@ Figure 22.  Photograph of Feature 3, Block 2; photographer is facing south.
 
 80
 
-The initial large, amorphous scatter of burned rocks at 175–180 cm bs may represent the discard
+The initial large, amorphous scatter of burned rocks at 175–180 cm bs may represent the discard
 of  rocks  on  a  living  surface;  its  dimensions  were  not  fully  ascertained  since  rocks  clearly
 extended into the walls of the unit, and some of the scattered rocks exposed later in Block 2 may
 be from the same event.  Based on the lack of a clear cluster, it appeared that the burned rocks
@@ -8787,7 +8787,7 @@ charred  cell  structure  of  wood  on  six  of  the  larger  specimens  indicat
 
 81
 
-Figure
+Figure
 23.
 
 Photograph of Feature 12, Unit 20; photographer is facing south
@@ -8820,7 +8820,7 @@ although the specific kinds of resources were not identified.
 
 82
 
-Feature 20 (Block 2, Units 21, 22, 24, and 25; 196–204 cm bs).
+Feature 20 (Block 2, Units 21, 22, 24, and 25; 196–204 cm bs).
 
 Feature  20  was  a  small  hearth  associated  with  a  small,  tight  cluster  of  burned  rocks  at  the
 intersection  of  Units  21,  22,  24,  and  25  in  the  northeast  corner  of  Block  2  (Figure  24).    This
@@ -8852,7 +8852,7 @@ land  snails.    Only  about  0.3  g  of  charred  wood  was  recovered  from  t
 
 83
 
-sample.    Analysis  of  charred  wood  cell  structure  of  four  specimens  indicated  that  two  were
+sample.    Analysis  of  charred  wood  cell  structure  of  four  specimens  indicated  that  two  were
 unidentified  species  of  wood,  one  was  Juglandaceae  (hickory  type;  0.1g),  and  the  other  was
 Quercus (oak; 0.2 g).  Individual weights of wood charcoal ranged from <0.1 g to 0.2 g.  The tree
 species  are  comparable  to  modern  species  in  the  region.    The  oak  specimen  was  submitted  for
@@ -8901,7 +8901,7 @@ represented a rake-off area or dump event, albeit a large one.
 
 84
 
-Figure
+Figure
 25.
 
 Photograph of Feature 14, Unit 38; photographer is facing west
@@ -8935,7 +8935,7 @@ and weighed about 24.3 kg.
 
 85
 
-Figure
+Figure
 26.
 
 Photograph of Feature 15, Block 3; photographer is facing north
@@ -8966,7 +8966,7 @@ Feature 16.
 
 86
 
-Figure
+Figure
 27.
 
 Photograph of Feature 16, Block 3; photographer is facing east
@@ -8991,7 +8991,7 @@ associated with the mounded heap of burned rock debris (Feature 16) removed from
 
 87
 
-large earth oven Feature 17.  The small twig very likely represented the year’s growth and should
+large earth oven Feature 17.  The small twig very likely represented the year’s growth and should
 accurately date the cultural event that is unbiased by old wood or cross sectional problems.  The
 sample  was  submitted  to  Beta  Analytic  for  radiocarbon  dating.    The  resulting  uncorrected
 radiocarbon date is 1400 ± 40  B.P. (Beta-213098) with a  13C/12C value of -22.2 ‰ that yields a
@@ -9039,7 +9039,7 @@ inside of the pit.  The rocks from the pit analyzed in the field weighed 90.4 kg
 
 88
 
-Figure
+Figure
 28.
 
 Photograph of Feature 17, Block 3; photographer is facing east
@@ -9069,7 +9069,7 @@ discontinuous debris ring (Feature 16) deposited on the northeast side of the la
 
 89
 
-Lipid analysis was conducted from a single rock from the large pit feature oven, Feature 17.  The
+Lipid analysis was conducted from a single rock from the large pit feature oven, Feature 17.  The
 specimen (Lot 626) came from the southcentral edge of Unit 31, bottom half of Level 12 (113 to
 115 cm bs).  The lipid results (6GM 5) indicated an extremely high fat content, possibly residues
 from  seeds,  nuts,  or  rendered  fats  from  non-large  herbivore  mammals.    Based  on  the  C18:1
@@ -9118,7 +9118,7 @@ remains.  This evidence provides basic information on the nature of local extrac
 
 90
 
-Figure
+Figure
 29.
 
 Photograph of Feature 18, Block 3; photographer is facing south
@@ -9152,7 +9152,7 @@ landscape, the community pattern research domain is potentially addressed, and e
 
 91
 
-lithic material types addresses the extra-regional trade research domain.  In all cases other than
+lithic material types addresses the extra-regional trade research domain.  In all cases other than
 the technological activities research domain, debitage data play a “supporting” role to additional
 lines of inquiry, which again underscores the importance of a holistic approach to the analysis and
 synthesis of artifact data.
@@ -9203,7 +9203,7 @@ of biface thinning flakes (78 percent; n=53) was made from pale tan Brazos/Uvald
 
 92
 
-Initially  prepared  biface  preforms  were  transported  to  41TR170  from  areas  along  the  Brazos
+Initially  prepared  biface  preforms  were  transported  to  41TR170  from  areas  along  the  Brazos
 River.  Further reduction of these bifaces onsite resulted in the creation of smaller discarded flake
 debitage and larger flakes that were employed for expedient utilization.  Reduction of the biface
 blanks  proceeded  in  this  way  until  a  bifacial  tool  (e.g.,  knife  or  dart  point)  was  produced.  The
@@ -9255,7 +9255,7 @@ Black soot is evident on the remaining smooth surface.  This fractured piece mea
 
 93
 
-30.
+30.
 
 Projectile points from 41TR170 testing
 
@@ -9294,7 +9294,7 @@ outwash sediments of Northcentral Texas.
 
 94
 
-Faunal Material
+Faunal Material
 
 Bone
 
@@ -9368,7 +9368,7 @@ the  ratio  data  between  the  numbers  of  vertebrate  remains  (Number  of  S
 
 95
 
-compared to the Number of Identifiable Specimens (NISP) indicate that remains from the site are
+compared to the Number of Identifiable Specimens (NISP) indicate that remains from the site are
 not  extremely  fragmented  compared  to  other  sites  from  Texas  (Figure  31,  Table  10).    As  the
 NSP:NISP  ratio  increases,  fragment  size  decreases.    Low  NSP:NISP  suggests  low  intensity  of
 fragmentation in a fauna in that the proportion of large, identifiable specimens is relatively high.
@@ -9490,7 +9490,7 @@ purpuratus (n=3; 1.5 percent).
 
 96
 
-Table 10
+Table 10
 Faunal Fragmentation Data for Texas Sites, Including 41TR170
 
 Assemblage
@@ -9583,7 +9583,7 @@ in conducting sediment integrity studies using snail epimerization methods.
 
 97
 
-Ceramics
+Ceramics
 
 No evidence  of prehistoric pottery was found during the excavation of 41TR170.  A few  small
 pieces of burned clay had what appeared to be a finished, fiber-impressed surface and an irregular
@@ -9629,7 +9629,7 @@ apt to yield small resharpening flakes and smaller artifacts that might pass thr
 
 98
 
-Charcoal and Macrobotanical Remains
+Charcoal and Macrobotanical Remains
 
 Charcoal  was  present  in  the  alluvial  sediments  in  contexts—usually  above  the  West  Fork
 paleosol—that reflected tree-burning events and as flecks and chunks of charcoal associated with
@@ -9678,7 +9678,7 @@ cultural components and its results are discussed separately below.
 
 99
 
-Seven  radiocarbon  dates  on  solid  carbon  indicate  that,  despite  the  difference  in  depth  of  more
+Seven  radiocarbon  dates  on  solid  carbon  indicate  that,  despite  the  difference  in  depth  of  more
 than 1 meter between Block 2 and Blocks 1 and 3, all three targeted block areas were relatively
 contemporaneous (Table 11).  Four AMS dates on carbon are available from Block 2.  The tree-
 ring  calibrated  ages  (2  standard  deviation;  95  percent  confidence)  range  from  A.D.  410–580
@@ -9823,7 +9823,7 @@ within the same time span as that attributed to the ashy zone found in Block 2.
 
 100
 
-Although two dates were processed from distinct feature contexts in Block 1, only one date was
+Although two dates were processed from distinct feature contexts in Block 1, only one date was
 based  on  solid  carbon,  which  should  reliably  reflect  the  age  of  the  block.    This  single  sample
 associated with Feature 13 provides a tree-ring calibrated age  (2 standard deviation; 95 percent
 confidence)  of  A.D.  630–710  (Beta-213094).    Since  Block  1  is  located  about  4  m  southeast  of
@@ -9874,7 +9874,7 @@ yielded  high  amounts  of  C18:1  isomers.    The  lipid  results  provide  gen
 
 101
 
-classes  to  general  plants  and/or  animal  resources,  but  not  the  same  definitive  identifications  as
+classes  to  general  plants  and/or  animal  resources,  but  not  the  same  definitive  identifications  as
 obtained from macrobotanical remains.  As such, their precision is not great for the identification
 of specific resources, as is often desirable for reconstructing prehistoric resources.  Interestingly,
 the  four  samples  with  high  (6GM  6)  and  extremely  high  (6GM  1,  2,  and  5)  forms  of  C18:1
@@ -9920,7 +9920,7 @@ not regarded as important and will be discarded.
 
 102
 
-MATERIAL DISTRIBUTION AND RESULTS FROM TRENCH MONITORING AND
+MATERIAL DISTRIBUTION AND RESULTS FROM TRENCH MONITORING AND
 DEEP TEST UNITS
 
 This  section  characterizes  the  information  available  for  mechanical  trench  monitoring  that
@@ -9966,7 +9966,7 @@ backhoe dump piles.
 
 103
 
-t
+t
 o
 n
 
@@ -11080,7 +11080,7 @@ e
 r
 T
 
-Deep Test Units
+Deep Test Units
 
 The  10  deep  test  units  comprise  about  two-thirds  (20.0  m3)  of  the  total  manually  excavated
 volume of sediments (approximately 30.80 m3) examined during the testing phase.  Five test units
@@ -11129,7 +11129,7 @@ regarded as being warranted here.
 
 105
 
-Material Remains
+Material Remains
 
 Chipped Stone
 
@@ -11254,7 +11254,7 @@ edge.
 
 106
 
-Vertebrate Fauna
+Vertebrate Fauna
 
 A total of 112 bones (41.7 percent) weighing 278.7 g came from the deep test units.  Represented
 among  these  specimens  are  Bison  bison,  bison-sized  mammal,  Canis  sp.  (dog  or  wolf),
@@ -11311,7 +11311,7 @@ Sandstone and quartzite were also present in minor amounts.
 
 107
 
-MATERIAL DISTRIBUTION AND RESULTS:  BLOCK UNIT EXCAVATIONS
+MATERIAL DISTRIBUTION AND RESULTS:  BLOCK UNIT EXCAVATIONS
 
 The three block excavations comprised about 12.1 m3 or a little more than one-third of the total
 32.2 m3 volume of sediments manually excavated during the testing phase.  Blocks 1 and 3 were
@@ -11361,7 +11361,7 @@ Feature 9.  This sample did not survive pretreatment intact, but dating of the h
 
 108
 
-F-9
+F-9
 
 F-9
 
@@ -11394,7 +11394,7 @@ Figure 32.  Distribution of features at Block 1.
 
 G:\30xx\30353.06.06\Graphics\Figures\Figure_32.ai
 
-an  uncorrected  date  of  3,640  ±  40  B.P.  (Beta-213092)  and  provided  a  2-standard-deviation
+an  uncorrected  date  of  3,640  ±  40  B.P.  (Beta-213092)  and  provided  a  2-standard-deviation
 calibrated age of B.C. 2140 to 1940.  The latter date does not provide an accurate age for Feature 9
 and is earlier than the radiocarbon date from the yellow clay basal deposits at the site.  The date
 from  Feature  13  is  temporally  consistent  with  the  stratigraphic  context  and  with  dates  from
@@ -11441,7 +11441,7 @@ or vegetation.
 
 110
 
-The  chipped  stone  debitage  consists  of  55  biface  thinning  flakes,  27  core  flakes,  53  flake
+The  chipped  stone  debitage  consists  of  55  biface  thinning  flakes,  27  core  flakes,  53  flake
 fragments, 14 pieces of shatter, one potlid, and eight rejuvenation flakes (Figure 33).  Fifty of the
 biface thinning flakes are tertiary flakes, and only five are secondary (Table 15).  Forty-nine of
 the biface thinning flakes are smaller than 19 mm, and only six are between 19 mm and 38.1 mm.
@@ -11546,7 +11546,7 @@ posterior ridge.
 
 111
 
-Table 16
+Table 16
 Representation of Invertebrate Fauna Recovered from Block 1
 
 Taxonomic Identification
@@ -11611,7 +11611,7 @@ but it is more than double the size and volume of the two possible pits found in
 
 112
 
-F-14
+F-14
 
 F-15
 
@@ -11643,7 +11643,7 @@ Figure 34.  Distribution of features at Block 3.
 
 G:\30xx\30353.06.06\Graphics\Figures\Figure_34.ai
 
-rock dump piles are concentric to the pit but are located about 80 cm away from the edge of the
+rock dump piles are concentric to the pit but are located about 80 cm away from the edge of the
 depression.  This intervening area is an activity zone around the rim of the pit.  The bases of the
 rock mounds are about the same elevation as the rim of the pit.
 
@@ -11693,7 +11693,7 @@ specimen is 429+ mm long, with a 222-mm shoulder width, 127-mm stem width, 133-m
 
 114
 
-width, 92 mm blade thickness, and 122-mm stem length.  The morphology compares favorably to
+width, 92 mm blade thickness, and 122-mm stem length.  The morphology compares favorably to
 the  Axtell  and  Trinity  types,  which  are  both  Middle  to  Late  Archaic  period  points  (Turner  and
 Hester 2001:190).
 
@@ -11755,7 +11755,7 @@ posterior ridge.
 
 115
 
-Table 17
+Table 17
 Representation of Invertebrate Fauna Recovered from Block 3
 
 Taxonomic Identification
@@ -11818,7 +11818,7 @@ northwest  (Feature  3),  and  a  second  ephemeral  hearth  represented  by  a 
 
 116
 
-over an oxidized surface (Feature 20; Figure 36).  The occurrence of the latter feature at a deeper
+over an oxidized surface (Feature 20; Figure 36).  The occurrence of the latter feature at a deeper
 depth suggests that multiple components are present in this part of the site.  In addition to these
 formally  defined  features,  relatively  small  burned  rocks  were  widely  scattered  across  the  entire
 excavation  block,  but  they  formed  no  discernable  pattern.    As  such,  they  roughly  denote  an
@@ -11870,7 +11870,7 @@ charcoal representing Juglandaceae (hickory; 0.1 g), Celtis sp. (hackberry; 0.2 
 
 117
 
-F-3
+F-3
 
 F-12
 
@@ -11898,7 +11898,7 @@ Figure 36.  Distribution of features at Block 2.
 
 G:\30xx\30353.06.06\Graphics\Figures\Figure_36.ai
 
-an indeterminate wood species (<0.1 g).  The tree species are comparable to modern species in
+an indeterminate wood species (<0.1 g).  The tree species are comparable to modern species in
 the region.  The oak specimen was submitted for radiocarbon dating.  Only the charred nutshells
 provide tentative evidence of economic activities and perhaps a fall to winter season of use.  The
 nutshell does not provide convincing evidence that could account for the thick layer of ash buried
@@ -11946,7 +11946,7 @@ Brazos/Uvalde Gravel material.
 
 119
 
-The single stone implement from Block 2 is an unidentified dart point fragment recovered from
+The single stone implement from Block 2 is an unidentified dart point fragment recovered from
 Unit 22 at a depth of 185 cm bs (see Figure 30).  This is a medium-sized dart point fragment of
 tan gravel chert with some pink tinges indicative of heat treatment.  The extreme distal tip shows
 a minor impact spall.  The blade edges are straight, symmetrical, and biconvex.  The shoulders
@@ -11994,7 +11994,7 @@ bison, deer, or javelina, or sotol.
 
 120
 
-Table 18
+Table 18
 Representation of Invertebrate Fauna Recovered from Block 2
 
 Taxonomic Identification
@@ -12037,7 +12037,7 @@ The interpretive returns after analysis for this effort seem to be low.
 
 121
 
-CHAPTER 6
+CHAPTER 6
 SUMMARY, COMPARISONS, AND CONCLUSIONS
 
 This chapter accomplishes two goals.  First, it summarizes the results of the current work—the
@@ -12071,7 +12071,7 @@ of the Southern Plains.
 
 123
 
-The manual excavations at site 41TR170 documented, with few exceptions, a general low density
+The manual excavations at site 41TR170 documented, with few exceptions, a general low density
 of archeological remains but extreme clarity of deposits.  This pattern suggests that, by and large,
 prehistoric human use of the Clear Fork floodplain during the past 2,900 years involved mostly
 short-term, probably specialized extractive or processing activities, but camps near the river were
@@ -12122,7 +12122,7 @@ most sites in the Trinity River basin have yielded sparse assemblages (Yates and
 
 124
 
-Although small, the chipped stone assemblage does reveal some interesting patterns.  As at other
+Although small, the chipped stone assemblage does reveal some interesting patterns.  As at other
 sites along the Clear Fork, all of the chipped stone is composed of chert; no quartzite was present.
 Of this, at least 81 percent (n=188) is composed of chert that is obviously gravel-derived and 74.2
 percent  (n=173)  of  that  is  composed  of  one  specific  type  of  gravel  chert  source.    This  material
@@ -12172,7 +12172,7 @@ are recorded in this area.
 
 125
 
-The diversity of rock features in Blocks 1 and 3 is mirrored in the variety of material remains in
+The diversity of rock features in Blocks 1 and 3 is mirrored in the variety of material remains in
 the  south  edge  of  the  site.    The  recovery  of  Yarborough  and  Trinity  type  dart  points  in
 combination with the radiocarbon dates from Blocks 1 and 3 supports the use of both areas by a
 late  Transitional  Archaic  people  over  a  relatively  brief  time.    These  points  and  the  radiocarbon
@@ -12224,7 +12224,7 @@ channel  and  recovered  a  greater  density  of  animal  bone  (n=153)  compare
 
 126
 
-Blocks 1 and 3 (n=4).  Only five chipped stone artifacts were recovered from Block 2 compared
+Blocks 1 and 3 (n=4).  Only five chipped stone artifacts were recovered from Block 2 compared
 to  the  190  chipped  stone  artifacts  from  Blocks  1  and  3.    Only  1,490  pieces  of  burned  rock
 comprising  three  features,  one  small  pile  of  burned  rock,  and  two  small  hearths  (<50  cm  in
 diameter) were recorded in Block 2.  These findings are in contrast to 10 features in Blocks 1 and
@@ -12274,7 +12274,7 @@ in Block 1 seem to be concentrations of burned rocks, several clasts thick, in l
 
 127
 
-Table 19
+Table 19
 Site 41TR170 Terminal Archaic Component Table
 
 Characteristic
@@ -12374,7 +12374,7 @@ foodstuff.    Radiocarbon  dates  suggest  that  the  rock  features  in  all  t
 
 128
 
-contemporaneous (Transitional Archaic ages) with a minor degree of stratification, indicative of
+contemporaneous (Transitional Archaic ages) with a minor degree of stratification, indicative of
 intermittent, multi-occupational usage spanning a few hundred years.  The dates on the pit oven
 feature and the surrounding dump heaps clearly document feature reuse.
 
@@ -12425,7 +12425,7 @@ East Fork and Elm Fork regions have “hearths” (types unknown), but only four
 
 129
 
-reported to have more than three hearth features; a maximum number of 21 hearths is reported for
+reported to have more than three hearth features; a maximum number of 21 hearths is reported for
 one site along the Elm Fork of the Trinity.  In contrast, his summary of 29 excavated sites in the
 central Brazos River basin noted that 19 (66 percent) contain reported hearths (types unknown),
 and  10  (34  percent)  of  these  sites  have  more  than  three  hearths,  with  the  maximum  number  of
@@ -12477,7 +12477,7 @@ prehistoric (n=7).  Not much was known about the cultural affiliation of burned 
 
 130
 
-Table 20
+Table 20
 Frequency of Thermal Features for 15 Counties in Northcentral Texas Based on 1981 Data
 (after Biesaart et al. 1985)
 
@@ -12814,7 +12814,7 @@ private collections, feature documentation are also underreported.
 
 131
 
-Thus,  even  though  a  number  of  archeological  regional  summaries  have  dealt  with  sites  in  the
+Thus,  even  though  a  number  of  archeological  regional  summaries  have  dealt  with  sites  in  the
 Trinity  River  basin,  the  nature  of  thermal  features  in  Northcentral  Texas  is  still  poorly  known.
 The quality of reported information is of questionable reliability, and the data from most sites are
 too poor to ascertain whether most hearths are associated with heated stones.  One tentative trend
@@ -12866,7 +12866,7 @@ River basin remain unclear.
 
 132
 
-Most archeologists have suggested that the large burned rock features and rock middens represent
+Most archeologists have suggested that the large burned rock features and rock middens represent
 predominantly  Archaic-age  cooking  features,  since  many  are  associated  with  various  Archaic-
 style dart points.  However, extensive excavations conducted in large annular rock oven middens
 at four sites in the O. H. Ivie Reservoir along the Colorado River found that despite the recovery
@@ -12917,7 +12917,7 @@ archeological projects rather than a genuine absence of archeological remains.
 
 133
 
-Table 21
+Table 21
 Sites within 80-km Target Search Area, Their Drainage Basin, and Number of Recorded Sites
 
 Est. % of
@@ -13281,7 +13281,7 @@ kinds of features at the same site drops the number to 367 sites.  However, this
 
 134
 
-high, since the sites are listed each time a different class of burned rock feature is used in the site
+high, since the sites are listed each time a different class of burned rock feature is used in the site
 form.  Thus,  for example,  if the field records indicate that a discrete hearth is  present on a  site
 with  an  oven,  the  site  will  be  counted  twice.    When  these  duplicate  records  are  eliminated  by
 manually  checking  for  redundancy  among  site  numbers,  the  list  of  unique  sites  with  reported
@@ -13332,7 +13332,7 @@ counties containing more than 6.0 percent of sites with burned or fire-cracked r
 
 135
 
-Table 22
+Table 22
 Distribution of Thermal Feature Types by Drainage Basin
 
 Burned Rock Feature Class:  Class 1:  Possible Isolated and
@@ -13748,7 +13748,7 @@ Project Total
 
 136
 
-When  the  same  approach  is  used  for  Class  2—small  hearth  features—similar  patterns  are
+When  the  same  approach  is  used  for  Class  2—small  hearth  features—similar  patterns  are
 apparent.  The percentage of counties with discrete features ranges from 0.00 to 4.39 percent in
 the Trinity River basin, and four of the counties report no occurrence of discrete hearths; five of
 seven  counties  have  less  than  3  percent  small,  discrete  features.    In  contrast,  the  percentage  of
@@ -13799,7 +13799,7 @@ heating elements.  Most likely, the patterns are due to some differences found i
 
 138
 
-important  tubers,  bulbs,  or  sotol  heads  or  cactus  pads  in  post  oak  or  savannah  regions  of  the
+important  tubers,  bulbs,  or  sotol  heads  or  cactus  pads  in  post  oak  or  savannah  regions  of  the
 Trinity River basin.  Identification of the specific kinds of resources may require the discovery of
 accidental cooking events, because the simple charring of cellular plant remains is not necessarily
 indicative of cooking.  Thus, greater intensity of investigating burned rock features in the Trinity
@@ -13811,7 +13811,7 @@ features in the Trinity River basin are not at all similar to those found in Cen
 
 139
 
-CHAPTER 7
+CHAPTER 7
 RECOMMENDATIONS
 
 This  chapter  presents  an  assessment  of  the  eligibility  of  site  41TR170  for  inclusion  in  the
@@ -13852,7 +13852,7 @@ D. That have yielded, or may be likely to yield, information important in prehis
 
 141
 
-Criterion  D  is  most  often  applicable  to  prehistoric,  and  to  many  historic,  sites.    Important
+Criterion  D  is  most  often  applicable  to  prehistoric,  and  to  many  historic,  sites.    Important
 information  is  generally  recognized  to  refer  to  scientific  importance  (Butler  1987).    However,
 scientific importance is partially driven by the research perspectives of the time and in part by the
 state  of  available  information  regarding  a  particular  research  topic  in  a  specific  research  area.
@@ -13905,7 +13905,7 @@ Texas and not focus on artifact materials from chert-rich regions such as found 
 
 142
 
-At  the  state  level,  archeological  sites  may  be  considered  significant  and  be  recognized  or
+At  the  state  level,  archeological  sites  may  be  considered  significant  and  be  recognized  or
 designated as an SAL, provided that at least one of the following conditions is met:
 
 (1)  The archeological site is situated on lands owned or controlled by the State of Texas or one of its
@@ -13963,7 +13963,7 @@ preservation present at site 41TR170.  The results are summarized in Table 23.
 
 143
 
-Table 23
+Table 23
 Data Sets Available to Address Research Design Issues
 
 Research Issue
@@ -14210,7 +14210,7 @@ returns from the site seem to signal that further work would not be very product
 
 144
 
-There  is  no  doubt  that  further  excavations  along  the  south  edge  of  the  site  would  provide
+There  is  no  doubt  that  further  excavations  along  the  south  edge  of  the  site  would  provide
 potentially important data about the distribution of other rock features adjacent to the Pleistocene
 gravel  bar.    As  yet,  no  satisfactory  explanation  exists  for  the  cause  of  the  thick  ashy  deposits
 encountered  in  Block 2.   In  light  of  the  overlapping and  potentially  stratified  features,  it  seems
@@ -14263,7 +14263,7 @@ with a narrow range of artifacts found in low density.
 
 145
 
-Site  41TR170  most  appropriately  falls  within  the  second  archeological  site  pattern  observed
+Site  41TR170  most  appropriately  falls  within  the  second  archeological  site  pattern  observed
 within the Trinity River valley.  This is particularly true for the southern site component located
 near  the  edge  of  the  river  valley  where  flooding  would  have  been  less  frequent.    Although  the
 range of artifacts and artifact classes may not be broad compared to Central Texas standards, it is
@@ -14300,7 +14300,7 @@ fieldwork is recommended.
 
 146
 
-REFERENCES CITED
+REFERENCES CITED
 
 Anthony, D., and D. O. Brown
 
@@ -14351,7 +14351,7 @@ Spectrometry of Soils: Marcel Dekker, Inc., New York, p. 47-82.
 
 147
 
-Boutton, T. W., Harrison, A. T., and Smith, B. N.
+Boutton, T. W., Harrison, A. T., and Smith, B. N.
 
 1980  Distribution  of  biomass  of  species  differing  in  photosynthetic  pathway  along  an
 altitudinal transect in southeastern Wyoming grassland: Oecologia, v. 45, p. 287-298.
@@ -14419,7 +14419,7 @@ Plano, Texas.
 
 148
 
-Cliff, M. B., D. Shanabrook, S. Hunt, W. Autin, and M.Prior
+Cliff, M. B., D. Shanabrook, S. Hunt, W. Autin, and M.Prior
 
 1999  Buried  Archeological  Site  Potential  in  the  Dallas  Floodway  Project  Area.
 
@@ -14486,7 +14486,7 @@ Institute of Applied Sciences, North Texas State University, Denton.
 
 149
 
-1987  Geoarchaeology  of  Site  41CO141,  A  Late  Holocene  Locality  in  the  Upper  Trinity
+1987  Geoarchaeology  of  Site  41CO141,  A  Late  Holocene  Locality  in  the  Upper  Trinity
 Basin,  Cooke  County,  Texas.    In  Test  Excavations  at  41CO141,  Ray  Roberts
 Reservoir, Cooke County, Texas, edited by D. J. Prikryl and B. C. Yates, p. 19–52.
 Institute of Applied Sciences, North Texas State University, Denton,
@@ -14547,7 +14547,7 @@ at Austin.
 
 150
 
-Hill, R. T.
+Hill, R. T.
 
 1901  Geography  and  Geology  of  the  Black  and  Grand  Prairies,  Texas.    Twenty-First
 Annual Report of the United States Geological Survey to the Secretary of the Interior
@@ -14610,7 +14610,7 @@ America, Annual Meeting, Abstracts with Programs 36(5):97.
 
 151
 
-Jones, C. A.
+Jones, C. A.
 
 1985  C4 Grasses and Cereals; Growth, Development, and Stress Response.  John Wiley &
 
@@ -14679,7 +14679,7 @@ Studies, University of Texas at Arlington.
 
 152
 
-Peter, D. E., S. M. Hunt, and M. M. Green
+Peter, D. E., S. M. Hunt, and M. M. Green
 
 1994
 
@@ -14745,7 +14745,7 @@ Institute for the Study of Earth and Man, Southern Methodist University, Dallas.
 
 153
 
-Story, D. A.
+Story, D. A.
 
 1985  Adaptive  Strategies  of  Archaic  Cultures  of  the  West  Gulf  Coastal  Plain.    In
 Prehistoric  Food  Production  in  North  America,  edited  by  R.  I.  Ford,  pp.  19–56.
@@ -14807,7 +14807,7 @@ Journal of Range Management 32:12–28.
 
 154
 
-Waters, M. R., and L. C. Nordt
+Waters, M. R., and L. C. Nordt
 
 1995  Late  Quaternary  Floodplain  History  of  the  Brazos  River  in  East-central  Texas:
 
@@ -14840,12 +14840,12 @@ Report 16.  Oklahoma Archaeological Survey, Norman.
 
 155
 
-APPENDIX A
+APPENDIX A
 
 ARTIFACTS NOTED FROM MONITORING MECHANICALLY
 DUG TRENCHES
 
-R
+R
 C
 F
 
@@ -16713,7 +16713,7 @@ t
 
 9
 
-)
+)
 d
 ’
 t
@@ -18602,7 +18602,7 @@ L
 
 A-4
 
-0
+0
 
 0
 
@@ -19560,12 +19560,12 @@ U
 
 A-5
 
-APPENDIX B
+APPENDIX B
 
 ARTIFACT COUNTS FROM DEEP MANUALLY DUG TEST
 UNITS
 
-1
+1
 -
 B
 e
@@ -20877,7 +20877,7 @@ B
 0
 1
 
-l
+l
 i
 o
 S
@@ -21993,7 +21993,7 @@ b
 
 2
 
-)
+)
 d
 ’
 t
@@ -23054,7 +23054,7 @@ b
 5
 1
 
-l
+l
 i
 o
 S
@@ -24136,7 +24136,7 @@ b
 
 6
 
-)
+)
 d
 ’
 t
@@ -25007,7 +25007,7 @@ b
 0
 2
 
-)
+)
 d
 ’
 t
@@ -25922,7 +25922,7 @@ b
 3
 1
 
-l
+l
 i
 o
 S
@@ -26594,11 +26594,11 @@ A
 
 B-9
 
-APPENDIX C
+APPENDIX C
 
 ARTIFACTS FROM BLOCK 1
 
-n
+n
 m
 u
 l
@@ -28050,7 +28050,7 @@ L
 
 C-3
 
-n
+n
 m
 u
 l
@@ -28994,11 +28994,11 @@ G
 
 C-4
 
-APPENDIX D
+APPENDIX D
 
 ARTIFACTS FROM BLOCK 2
 
-n
+n
 m
 u
 l
@@ -30211,7 +30211,7 @@ L
 9
 1
 
-n
+n
 m
 u
 l
@@ -31426,11 +31426,11 @@ L
 
 D-4
 
-APPENDIX E
+APPENDIX E
 
 ARTIFACTS FROM BLOCK 3
 
-e
+e
 l
 p
 m
@@ -32600,7 +32600,7 @@ L
 1
 1
 
-e
+e
 l
 p
 m
@@ -33639,7 +33639,7 @@ i
 o
 S
 
-APPENDIX F
+APPENDIX F
 
 FEASIBILITY STUDY OF MACROBOTANICAL
 PRESERVATION
@@ -33649,7 +33649,7 @@ by
 Dr. Phil Dering
 Shumla Archeobotanical Services
 
-Fifteen flotation samples totaling 71.5-liters were examined in this study.  The flotation effort
+Fifteen flotation samples totaling 71.5-liters were examined in this study.  The flotation effort
 averaged 4.8 liters-per-sample.  The samples were recovered from seven features and an ashy
 occupation zone located in two excavation blocks.
 
@@ -33699,7 +33699,7 @@ These are placed in a more general category, walnut family-type (Juglandaceae).
 
 F-3
 
-Generally speaking, there are three types of nuts that grow in Trinity River valley, hickory nuts
+Generally speaking, there are three types of nuts that grow in Trinity River valley, hickory nuts
 (Carya spp.), pecans (Carya illinoiensis), and walnuts (Juglans nigra).  Many of the charred nut
 fragments found in archeological samples consist of the hardened pericarp, commonly called the
 nut-shell.    These  small  fragments  are  often  difficult  to  separate  into  species,  and  instead  are
@@ -33751,7 +33751,7 @@ the archeological record (Hall 2003:108).
 
 F-4
 
-Table F-1
+Table F-1
 Summary of Preserved Plant Remains from 15 Flotation Samples at 41TR170
 
 )
@@ -34312,7 +34312,7 @@ collection of nuts along rivers of the Texas coastal plain.   These can be ident
 
 F-5
 
-Table F-2
+Table F-2
 Identified Charred Plant Contents from Flotation Samples from Site 41TR170
 
 Catalog Lot and
@@ -34796,7 +34796,7 @@ San  Antonio.    Most  significant  is  Espinosa's  description  of  processing;
 
 F-6
 
-pecans and kept the nutmeat in bags, or on strings.  This is clearly not a process that involves the
+pecans and kept the nutmeat in bags, or on strings.  This is clearly not a process that involves the
 use of fire or the rendering of fat from the nut.  Pecan cotyledons (the nut meat) are so large that
 they are easily separated from the shell and consumed outright or mixed into other foods.  During
 a later expedition around 1720, Espinosa noted that the Caddo in northeastern Texas collected a
@@ -34827,7 +34827,7 @@ fill the gap in our understanding of prehistoric subsistence resources and organ
 
 F-7
 
-REFERENCES CITED
+REFERENCES CITED
 
 Adams, K
 
@@ -34868,7 +34868,7 @@ Consulting Archeologists.
 
 F-9
 
-1995  Analysis  of  Archaeobotanical  Remains.    In  Archaeology  of  41MX5:  A  Late
+1995  Analysis  of  Archaeobotanical  Remains.    In  Archaeology  of  41MX5:  A  Late
 Prehistoric  Caddoan  Hamlet  in  Morris  County,  Texas,  by  R.  L.  Brewington,  J.
 Dockall,  and  H.  J.  Shafer,  pp.  147-154.    Reports  of  Investigations  1,  Center  for
 Environmental Archaeology.  Texas A&M University.  College Station, Texas.
@@ -34925,7 +34925,7 @@ Tucson, Arizona.
 
 F-10
 
-Miksicek, C.
+Miksicek, C.
 
 1994  Deceptive  Barrenness:    Archaeobotanical  Material  from  the  Schuk  Toak  Project
 Area.    In  Archaeological  Studies  of  the  Avra  Valley,  Arizona:    Excavations  in  the
@@ -34947,7 +34947,7 @@ Austin, Texas.
 
 F-11
 
-APPENDIX G
+APPENDIX G
 
 FEASIBILITY STUDY OF LIPID RESIDUES
 ON BURNED ROCK FROM SITE 41TR170
@@ -34958,7 +34958,7 @@ M. E. Malainey. Ph.D.
 Winnipeg, MB
 Canada  R2M 0R9
 
-INTRODUCTION
+INTRODUCTION
 
 A  total  of  six  burned  rock  samples  were  submitted  for  analysis.    Subsamples  were  taken,  then
 exterior  surfaces  were  ground  off  to  remove  any  contaminants.    Samples  were  powdered  and
@@ -35011,7 +35011,7 @@ the  use  of  a  Saturation  Index  (SI),  determined  by
 
 G-3
 
-[(C18:1+C18:2)/C12:0+C14:0+C16:0+C18:0)].    He  (1994)  admitted,  however,  that  poorly
+[(C18:1+C18:2)/C12:0+C14:0+C16:0+C18:0)].    He  (1994)  admitted,  however,  that  poorly
 understood  decompositional  changes  to  the  original  suite  of  fatty  acids  make  it  difficult  to
 develop criteria for distinguishing animal and plant fatty acid profiles in archaeological residues.
 
@@ -35063,7 +35063,7 @@ four days at room temperature, the vessels were broken and a set of sherds analy
 
 G-4
 
-1
+1
 -
 G
 e
@@ -36140,7 +36140,7 @@ C
 L
 V
 
-changes  after  a  short  term  of  decomposition.    A  second  set  of  sherds  remained  at  room
+changes  after  a  short  term  of  decomposition.    A  second  set  of  sherds  remained  at  room
 temperature  for  80  days,  then  placed  in  an  oven  at  75°C  for  a  period  of  30  days  in  order  to
 simulate the processes of long-term decomposition.  The relative percentages were calculated on
 the  basis  of  the  ten  fatty  acids  (C12:0,  C14:0,  C15:0,  C16:0,  C16:1,  C17:0,  C18:0,  C18:1w9,
@@ -36225,7 +36225,7 @@ engelmannii), Spanish dagger pods (Yucca treculeana), cooked sotol (Dasylirion w
 
 G-6
 
-(Agave lechuguilla), cholla (Opuntia imbricata), piñon (Pinus edulis) and Texas mountain laurel
+(Agave lechuguilla), cholla (Opuntia imbricata), piñon (Pinus edulis) and Texas mountain laurel
 (or mescal) seed (Sophora secundiflora) have been determined.  Experimental residues of many
 of these plants, alone or in combination with deer meat, have been prepared by boiling foods in
 clay cylinders or using sandstone for either stone boiling (Quigg et al. 2000) or as a griddle.  In
@@ -36339,7 +36339,7 @@ solvent was removed by heat under a gentle stream of nitrogen; the FAMES were di
 
 G-7
 
-Solvents  and  chemicals  were  checked  for  purity  by  running  a  sample  blank.    The  entire  lipid
+Solvents  and  chemicals  were  checked  for  purity  by  running  a  sample  blank.    The  entire  lipid
 extraction and methyl esterification process was performed and FAMES were dissolved in 75 μL
 of  iso-octane.    Traces  of  contamination  were  subtracted  from  sample  chromatograms.    The
 relative percentage composition was calculated by dividing the integrated peak area of each fatty
@@ -36390,7 +36390,7 @@ C22:0 and C22:1 peaks; these fatty acids were excluded from the analysis.
 
 G-8
 
-Table G-4
+Table G-4
 Fatty Acid Composition and Identification of Burned Rock Residues from Site 41TR170
 
 6GM 1
@@ -36678,7 +36678,7 @@ Identification  Large herbivore + Plant Extremely high fat content
 
 G-9
 
-While all samples contained sufficient fatty acids to attempt identification, recoveries from 6GM
+While all samples contained sufficient fatty acids to attempt identification, recoveries from 6GM
 3 and 6GM 4 were quite low; somewhat more lipid was recovered from 6GM 6.  In comparison,
 recoveries from the other three samples, 6GM 1, 6GM 2 and 6GM 5, were significantly higher.
 
@@ -36711,7 +36711,7 @@ cacti seeds, such as sotol, with plant.
 
 G-10
 
-REFERENCES CITED
+REFERENCES CITED
 
 Collins M. B., B. Ellis and C. Dodt-Ellis
 
@@ -36759,7 +36759,7 @@ Archeological Research Laboratory, The University of Texas at Austin.
 
 G-11
 
-Malainey, M. E.
+Malainey, M. E.
 
 1997  The  Reconstruction  and  Testing  of  Subsistence  and  Settlement  Strategies  for  the
 Plains, Parkland and Southern boreal forest.  Unpublished Ph.D. thesis, University of
@@ -36821,7 +36821,7 @@ Associates, Inc, Austin.
 
 G-12
 
-Patrick, M., A. J. de Konig and A. B. Smith
+Patrick, M., A. J. de Konig and A. B. Smith
 
 1985  Gas  Liquid  Chromatographic  Analysis  of  Fatty  Acids  in  Food  Residues  from
 Ceramics Found in the Southwestern Cape, South Africa.  Archaeometry 27(2): 231-
@@ -36850,7 +36850,7 @@ Solomons, T. W. G.
 
 G-13
 
-Characteristics of Limestone Rocks Submitted for Lipid Analysis
+Characteristics of Limestone Rocks Submitted for Lipid Analysis
 
 Feature
 No.
@@ -37107,7 +37107,7 @@ total weight  1019.5
 
 G-14
 
-APPENDIX H
+APPENDIX H
 
 ZOOARCHAEOLOGICAL ANALYSIS OF THE SITE 41TR170
 FAUNA:  TARRANT COUNTY, TEXAS
@@ -37118,7 +37118,7 @@ Department of Geography
 Institute of Applied Sciences
 University of North Texas
 
-INTRODUCTION
+INTRODUCTION
 
 The  site  41TR170  archaeofauna  produced  a  sizeable  amount  of  faunal  material  primarily
 consisting of fragmented artiodactyl remains and bivalve shell fragments.  There is a signature of
@@ -37200,7 +37200,7 @@ NISP
 7
 15
 
-Table H-1 (cont’d)
+Table H-1 (cont’d)
 
 Taxon
 
@@ -37275,7 +37275,7 @@ Total NISP = 27
 
 H-4
 
-Remarks: These specimens were identified in comparison to modern specimens and according to
+Remarks: These specimens were identified in comparison to modern specimens and according to
 criteria outlined by Lawrence (1951).  Long-bone midshafts are not diagnostic and were assigned
 to “medium ungulate” as a result (Appendix 1A).  Remains of white-tailed deer are common in
 archaeological  sites  that  date  to  the  Holocene  in  Texas  (see  references  in  Perttula  2004),  and
@@ -37327,7 +37327,7 @@ anterior  surface  of  the  astragalus;  the  tubercle  is  relatively  distal  
 
 H-5
 
-)
+)
 
 m
 m
@@ -37408,7 +37408,7 @@ Total NISP = 1
 
 H-6
 
-Remarks:  This  specimen  was  identified  through  comparison  to  modern  specimens.    Although
+Remarks:  This  specimen  was  identified  through  comparison  to  modern  specimens.    Although
 diagnostic characteristics of jackrabbits (Lepus sp.) and swamp rabbits (Sylvilagus aquaticus) are
 similar  to  those  of  the  eastern  cottontail  (S.  floridanus)  and  the  marsh  rabbit  (S.  palustris),  the
 latter two species tend to be much smaller in body size.  The range of S. palustris includes the
@@ -37461,7 +37461,7 @@ Total NISP = 27
 
 H-7
 
-Remarks:  No  member  of  Pseudemys  is  common  in  the  Upper  Trinity  River  drainage  today,
+Remarks:  No  member  of  Pseudemys  is  common  in  the  Upper  Trinity  River  drainage  today,
 though P. texana’s (Texas cooter) modern range is just to the south in central Texas and several
 species of the genus occur in east Texas (Garrett and Barker 1987).  The fragmentary nature of
 the  remains  makes  it  difficult  to  assign  them  to  a  particular  species  with  confidence,  hence  the
@@ -37513,7 +37513,7 @@ posterior ridge.  F. askewi is often confused with freshwater mussels from the g
 
 H-8
 
-The three specimens examined were compared to modern samples from the Upper Trinity River
+The three specimens examined were compared to modern samples from the Upper Trinity River
 Drainage.    Texas  Pigtoe  is  a  lotic  species  found  inhabiting  various  substrates  and  tolerates
 flowing  to  standing  water  (Howells  et  al.  1996).    F.  askewi  is  intolerant  to  changes  in
 environmental  conditions,  and  thus  a  reasonable  indicator  of  stream  health.    The  presence  of
@@ -37562,7 +37562,7 @@ species.
 
 H-9
 
-Genus Plectomerus
+Genus Plectomerus
 Plectomerus dombeyanus (bankclimber)
 NISP: 19 valves.
 Plectomerus  cf. dombeyanus (compares favorably with bankclimber)
@@ -37614,7 +37614,7 @@ One valve examined is covered entirely with pimples, suggesting that it may have
 
 H-10
 
-(less than two years of age).  Q. apiculata is a ubiquitous species able to inhabit both lakes and
+(less than two years of age).  Q. apiculata is a ubiquitous species able to inhabit both lakes and
 streams and that tends to establish large populations (Howells et al. 1996).  It is interesting to note
 that only 2 valves were recovered.
 
@@ -37665,7 +37665,7 @@ extremely fragmented compared to other sites from Texas (Table H-3; Figure H-2).
 
 H-11
 
-Table H-2
+Table H-2
 Frequencies of Taphonomic Characteristics for the Vertebrate Fauna
 
 Characteristic
@@ -37840,7 +37840,7 @@ fragmentation.
 
 H-12
 
-a  ratio  between  the  number  of  vertebrate  remains  (Number  of  Specimens  [NSP])  in  a  fauna
+a  ratio  between  the  number  of  vertebrate  remains  (Number  of  Specimens  [NSP])  in  a  fauna
 compared to the Number of Identifiable Specimens (NISP); as the ratio increases a fragment size
 decreases.    Low  NSP:NISP  suggests  low  intensity  of  fragmentation  in  a  fauna  in  that  the
 proportion  of  large,  identifiable  specimens  is  relatively  high.    That  cutmarks  and  evidence  of
@@ -37874,7 +37874,7 @@ parts of the fauna were exposed on the surface for some period.
 
 H-13
 
-FS
+FS
 
 126
 
@@ -38559,7 +38559,7 @@ L
 
 L
 
-FS
+FS
 
 113
 
@@ -39269,7 +39269,7 @@ PCAL
 
 0.1
 
-FS
+FS
 
 192
 
@@ -39803,7 +39803,7 @@ Unid
 
 H-16
 
-REFERENCES CITED
+REFERENCES CITED
 
 Dixon, J. R.
 
@@ -39853,7 +39853,7 @@ Society Papers 21: 40-45.
 
 H-17
 
-Lawrence, B.
+Lawrence, B.
 1951
 
 “Post-cranial  skeletal  characteristics  of  deer,  pronghorn,  and  sheep-goat  with  notes
@@ -39930,7 +39930,7 @@ Holocene.” Quaternary Research 58:200-204.
 
 H-18
 
-2005
+2005
 
 “The  effects  of  the  Hypsithermal  on  prehistoric  foraging  efficiency  in  Missouri.”
 American Antiquity 70:91-106.
@@ -39945,7 +39945,7 @@ population  density  and  body  size  in  central  Texas.”  Environmental  Man
 
 H-19
 
-APPENDIX I
+APPENDIX I
 
 STRATIGRAPHIC DESCRIPTIONS OF 28 TRENCHES
 AT SITE 41TR170, TARRANT COUNTY, TEXAS
@@ -39954,7 +39954,7 @@ by
 Stephen A. Hall, Ph.D.
 Red Rock Geological Enterprises
 
-Stratigraphy  of  28  trenches,  site  41TR170,  Tarrant  County,  Texas;  texture  follows  Wentworth
+Stratigraphy  of  28  trenches,  site  41TR170,  Tarrant  County,  Texas;  texture  follows  Wentworth
 scale;  dry  sediment  color  from  Munsell  Soil  Color  Charts  where  indicated;  numbers  are
 centimeters depth from modern [2005] surface; radiocarbon dates are summarized in Table 4.
 
@@ -40010,7 +40010,7 @@ unstratified grayish brown clayey silt that slumped into the old Clear Fork chan
 
 I-3
 
-Trench 2, located just north of trench 1 in the south edge of the old Clear Fork channel
+Trench 2, located just north of trench 1 in the south edge of the old Clear Fork channel
 
 0-115+cm  Mixed and pseudo-stratified deposit of limestone blocks, yellowish brown clay with
 rounded  gravels,  grayish  brown  silt  and  clay  with  gravels,  decaying  wood;  this
@@ -40066,7 +40066,7 @@ silt
 
 I-4
 
-160-205+  Pre-paleosol  alluvium,  grayish  brown  silt,  clayey,  sandy,  massive  with  absence  of
+160-205+  Pre-paleosol  alluvium,  grayish  brown  silt,  clayey,  sandy,  massive  with  absence  of
 bedding, hard, calcareous with carbonate filaments in pockets, more filaments that in
 lower part of paleosol; AMS radiocarbon age on charcoal from 200-205 cm depth is
 2360 ± 40 14C yrs B.P. (Beta-204913)
@@ -40121,7 +40121,7 @@ pebble, moderate development of carbonate filaments below 160 cm depth
 
 I-5
 
-Trench 9, located just north of old Clear Fork channel
+Trench 9, located just north of old Clear Fork channel
 
 0-54 cm
 
@@ -40183,7 +40183,7 @@ fragments of land snail shells, earthworm traces
 
 I-6
 
-52-110+  West  Fork  paleosol;  dark  grayish  brown  clay,  very  sandy,  silty,  soft  when  wet,
+52-110+  West  Fork  paleosol;  dark  grayish  brown  clay,  very  sandy,  silty,  soft  when  wet,
 massive, calcareous but no filaments, land snails, sand increases with depth; base of
 paleosol not exposed in this trench
 
@@ -40240,7 +40240,7 @@ paleosol is 1530 ± 40 14C yrs B.P. (Beta-205059)
 
 I-7
 
-105-215+  Pre-paleosol  alluvium;  grayish  brown  clay,  silty,  very  fine  sand,  massive,  hard,
+105-215+  Pre-paleosol  alluvium;  grayish  brown  clay,  silty,  very  fine  sand,  massive,  hard,
 calcareous  with  weak  carbonate  filaments  throughout;  occas.  land  snail  shells
 (Rabdotus);  zone  of  detritus  at  205-215  cm  depth  at  base  of  trench,  includes
 numerous  land  snails  (Rabdotus,  Helicina),  aquatic  snails  (Helisoma,  Physa),
@@ -40304,7 +40304,7 @@ carbonate filaments in clay
 
 I-8
 
-165-191+  Grayish  brown  clay,  silty,  sandy,  massive,  hard,  calcareous,  moderate  amount  of
+165-191+  Grayish  brown  clay,  silty,  sandy,  massive,  hard,  calcareous,  moderate  amount  of
 
 carbonate filaments; no pebbles; land snail fragments
 
@@ -40362,7 +40362,7 @@ underlying paleosol
 
 I-9
 
-32-73
+32-73
 
 73-89
 
@@ -40425,7 +40425,7 @@ gradational basal contact with underlying paleosol
 
 I-10
 
-39-191+  West  Fork  paleosol;  dark  grayish  brown  clay,  silty,  massive  without  bedding,
+39-191+  West  Fork  paleosol;  dark  grayish  brown  clay,  silty,  massive  without  bedding,
 calcareous, weak discontinuous carbonate filaments below 100 cm depth, carbonate
 filaments increase in abundance below 170 cm depth; numerous rootlets, earthworm
 traces, occas. isolated small (<20 mm dia.) rounded limestone pebbles; pre-paleosol
@@ -40481,7 +40481,7 @@ absence of pebbles
 
 I-11
 
-204-214  Gravels,  limestone,  rounded,  generally  small  (<30  mm  dia.),  gravel-to-gravel
+204-214  Gravels,  limestone,  rounded,  generally  small  (<30  mm  dia.),  gravel-to-gravel
 contacts, grayish brown clay matrix, upper and lower boundary irregular (properties
 similar to those of upper gravels at 179-189 cm depth); upper and lower gravels may
 each represent deposition from a single flood event
@@ -40536,7 +40536,7 @@ without visible carbonates, occas. land snails (Rabdotus), no pebbles
 
 I-12
 
-57-155  West  Fork  paleosol;  dark  grayish  brown  clay,  silty,  massive  without  bedding,  soft,
+57-155  West  Fork  paleosol;  dark  grayish  brown  clay,  silty,  massive  without  bedding,  soft,
 calcareous  and  with  weak  carbonate  filaments  below  100  cm  depth,  occas.  isolated
 land snail shell (Rabdotus) and snail shell fragments, mussel at 117 cm depth, several
 angular limestone rocks in a line at 155 cm depth; paleosol forms gradational contact
@@ -40593,7 +40593,7 @@ underlying paleosol
 
 I-13
 
-45-171  West  Fork  paleosol,  dark  grayish  brown  clay,  silty,  massive  and  without  bedding,
+45-171  West  Fork  paleosol,  dark  grayish  brown  clay,  silty,  massive  and  without  bedding,
 soft when wet, earthworm traces, occas. land snail shells (Rabdotus), calcareous but
 without  carbonate  filaments,  although  low  numbers  of  weak  filaments  occur  in  the
 lower  25  cm  of  the  paleosol;  isolated  small  limestone  pebbles  occur  below  95  cm
@@ -40605,7 +40605,7 @@ dense carbonate filaments, no pebbles observed
 
 I-14
 
-REFERENCES
+REFERENCES
 
 Cerling, T. E., Quade, J., Wang, Y., and Bowman, R.
 
@@ -40655,7 +40655,7 @@ America, annual   meeting, Abstracts with Programs, v. 36, issue 5, p. 97.
 
 I-15
 
-Jones, C. A.
+Jones, C. A.
 
 1985  C4 Grasses and Cereals; Growth, Development, and Stress Response. John Wiley &
 
@@ -40681,12 +40681,12 @@ Journal of Range Management, v. 32, p. 12-28.
 
 I-16
 
-APPENDIX J
+APPENDIX J
 
 RADIOCARBON DATES FROM TESTING CONDUCTED AT
 SITE 41TR170
 
-Radiocarbon Dates from Cultural Features
+Radiocarbon Dates from Cultural Features
 
-Radiocarbon Dates from Geomorphic Deposition Units
+Radiocarbon Dates from Geomorphic Deposition Units
 

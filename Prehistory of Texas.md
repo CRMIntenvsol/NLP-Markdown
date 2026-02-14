@@ -1,4 +1,4 @@
-00-A2946-FM  4/13/04  11:43 AM  Page i
+00-A2946-FM  4/13/04  11:43 AM  Page i
 
 The Prehistory of Texas
 
@@ -18,11 +18,11 @@ Patty Jo Watson
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page ii
+00-A2946-FM  4/13/04  11:43 AM  Page ii
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page iii
+00-A2946-FM  4/13/04  11:43 AM  Page iii
 
 ▲
 ▲
@@ -45,7 +45,7 @@ College Station
 
 G&S Typesetters PDF proof
 
-Copyright © 2004 by Timothy K. Perttula
+Copyright © 2004 by Timothy K. Perttula
 Manufactured in the United States of America
 All rights reserved
 First edition
@@ -82,7 +82,7 @@ E78.T4 P72 2004
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page vii
+00-A2946-FM  4/13/04  11:43 AM  Page vii
 
 ▲
 Acknowledgments
@@ -109,21 +109,21 @@ chapter for the book with little urging on my part.
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page viii
+00-A2946-FM  4/13/04  11:43 AM  Page viii
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page 1
+00-A2946-FM  4/13/04  11:43 AM  Page 1
 
 The Prehistory of Texas
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page 2
+00-A2946-FM  4/13/04  11:43 AM  Page 2
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page v
+00-A2946-FM  4/13/04  11:43 AM  Page v
 
 ▲
 Contents
@@ -235,7 +235,7 @@ Robert L. Brooks
 
 G&S Typesetters PDF proof
 
-00-A2946-FM  4/13/04  11:43 AM  Page vi
+00-A2946-FM  4/13/04  11:43 AM  Page vi
 
 PA R T   V I .
 
@@ -269,7 +269,7 @@ Contributors
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 5
+01-A2946  4/13/04  11:44 AM  Page 5
 
 1▲▲▲
 
@@ -399,7 +399,7 @@ rounding states, the types of investigations
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 6
+01-A2946  4/13/04  11:44 AM  Page 6
 
 conducted across the state of Texas, and
 the kinds of research problems and ques-
@@ -587,7 +587,7 @@ stantial changes in paleoenvironmental
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 7
+01-A2946  4/13/04  11:44 AM  Page 7
 
 Fig. 1.1. Archeological regions in the state
 of Texas: (1) Red River; (2) Northeast Texas;
@@ -604,7 +604,7 @@ Fig. 1.2. Physiographic base map of Texas.
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 8
+01-A2946  4/13/04  11:44 AM  Page 8
 
 8 / TEXAS PREHISTORY
 
@@ -709,7 +709,7 @@ table 1).
 
 As the reader will note in the chapters
 
-01-A2946  4/13/04  11:44 AM  Page 9
+01-A2946  4/13/04  11:44 AM  Page 9
 
 INTRODUCTION TO TEXAS PREHISTORIC ARCHEOLOGY / 9
 
@@ -759,7 +759,7 @@ with little more than the name of a group
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 10
+01-A2946  4/13/04  11:44 AM  Page 10
 
 10 / TEXAS PREHISTORY
 
@@ -884,7 +884,7 @@ Two chapters by Robert A. Ricklis
 constitute part III. They provide his per-
 spectives on current archeological re-
 
-01-A2946  4/13/04  11:44 AM  Page 11
+01-A2946  4/13/04  11:44 AM  Page 11
 
 INTRODUCTION TO TEXAS PREHISTORIC ARCHEOLOGY / 11
 
@@ -1006,7 +1006,7 @@ Grande, has become well known because
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 12
+01-A2946  4/13/04  11:44 AM  Page 12
 
 Fig. 1.6. Selected transitional Archaic and
 Woodland period sites and phases in Texas:
@@ -1020,7 +1020,7 @@ phases.
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 13
+01-A2946  4/13/04  11:44 AM  Page 13
 
 INTRODUCTION TO TEXAS PREHISTORIC ARCHEOLOGY / 13
 
@@ -1141,7 +1141,7 @@ southeastern New Mexico and the west-
 
 G&S Typesetters PDF proof
 
-01-A2946  4/13/04  11:44 AM  Page 14
+01-A2946  4/13/04  11:44 AM  Page 14
 
 as well as signiﬁcant intraregional vari-
 ability (on east-west and north-south tan-
@@ -1287,7 +1287,7 @@ southeastern United States]” (Girard 2000, 8).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:46 AM  Page 15
+02-A2946  4/13/04  11:46 AM  Page 15
 
 2▲▲▲
 
@@ -1415,7 +1415,7 @@ They thought this sequence applied to
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:46 AM  Page 16
+02-A2946  4/13/04  11:46 AM  Page 16
 
 16 / TEXAS PREHISTORY
 
@@ -1548,7 +1548,7 @@ not distinguish between the various kinds
 of ﬂuted projectile points. In 1933 when
 Edgar B. Howard (1935) began excavat-
 
-02-A2946  4/13/04  11:46 AM  Page 17
+02-A2946  4/13/04  11:46 AM  Page 17
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 17
 
@@ -1619,7 +1619,7 @@ Fig. 2.2. Folsom points from Lipscomb (after Hofman 1995).
 
 Fig. 2.3. Clovis points from the Miami site.
 
-02-A2946  4/13/04  11:47 AM  Page 18
+02-A2946  4/13/04  11:47 AM  Page 18
 
 18 / TEXAS PREHISTORY
 
@@ -1733,13 +1733,13 @@ with the distinction between Plainview
 (from the type site) and Golondrina
 (from Devil’s Mouth), and he used factor
 
-02-A2946  4/13/04  11:47 AM  Page 19
+02-A2946  4/13/04  11:47 AM  Page 19
 
 Fig. 2.5. Projectile points from the Plainview site.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 20
+02-A2946  4/13/04  11:47 AM  Page 20
 
 20 / TEXAS PREHISTORY
 
@@ -1795,7 +1795,7 @@ signed as deeply penetrating projectile
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 21
+02-A2946  4/13/04  11:47 AM  Page 21
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 21
 
@@ -1866,7 +1866,7 @@ ceived a considerable amount of attention
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 22
+02-A2946  4/13/04  11:47 AM  Page 22
 
 Fig. 2.9. Midland projectile point from Local-
 ity 1 at the Midland site (after Wendorf et al.
@@ -2034,7 +2034,7 @@ dures (cluster analysis, discriminant
 analysis, and analysis of variance). Lance-
 olate points from Plainview, Wilson-
 
-02-A2946  4/13/04  11:47 AM  Page 23
+02-A2946  4/13/04  11:47 AM  Page 23
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 23
 
@@ -2183,13 +2183,13 @@ lieved to have been discarded during oc-
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 24
+02-A2946  4/13/04  11:47 AM  Page 24
 
 Fig. 2.11. Angostura points from Wilson-Leonard, Levi Shelter, Loeve, and Tombstone Bluff.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 25
+02-A2946  4/13/04  11:47 AM  Page 25
 
 Fig. 2.12. Lubbock, Plainview, Milnesand,
 and Folsom points from Bonﬁre Shelter.
@@ -2198,7 +2198,7 @@ Fig. 2.13. Thrall points from Wilson-Leonard.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 26
+02-A2946  4/13/04  11:47 AM  Page 26
 
 and Hester (1976) and to Kelly’s (1983b)
 Victoria and Zella forms, but comparable
@@ -2278,7 +2278,7 @@ Fig. 2.15. Plainview points from Beidleman Ranch and Plainview point and engrave
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 27
+02-A2946  4/13/04  11:47 AM  Page 27
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 27
 
@@ -2349,7 +2349,7 @@ G&S Typesetters PDF proof
 
 Fig. 2.16. St. Mary’s Hall points from St. Mary’s Hall and Wilson-Leonard.
 
-02-A2946  4/13/04  11:47 AM  Page 28
+02-A2946  4/13/04  11:47 AM  Page 28
 
 28 / TEXAS PREHISTORY
 
@@ -2488,13 +2488,13 @@ very similar to those from Devil’s Mouth,
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:47 AM  Page 29
+02-A2946  4/13/04  11:47 AM  Page 29
 
 Fig. 2.20. Golondrina-Barber points from Wilson-Leonard, St. Mary’s Hall, and Baker Cave.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:48 AM  Page 30
+02-A2946  4/13/04  11:48 AM  Page 30
 
 30 / TEXAS PREHISTORY
 
@@ -2552,19 +2552,19 @@ by Elias Sellards et al. (1940) in Blanco
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:48 AM  Page 31
+02-A2946  4/13/04  11:48 AM  Page 31
 
 Fig. 2.21. (continued)
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:48 AM  Page 32
+02-A2946  4/13/04  11:48 AM  Page 32
 
 Fig. 2.21. Wilson points from Devil’s Mouth and Wilson-Leonard (continued).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:48 AM  Page 33
+02-A2946  4/13/04  11:48 AM  Page 33
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 33
 
@@ -2645,7 +2645,7 @@ we believe that Wilson-Leonard is the
 only site producing an excavated speci-
 men in a dated context.
 
-02-A2946  4/13/04  11:48 AM  Page 34
+02-A2946  4/13/04  11:48 AM  Page 34
 
 34 / TEXAS PREHISTORY
 
@@ -2772,7 +2772,7 @@ aged. Stratum 2, conformable above Stra-
 tum 1, consists of multiple facies: 2A, 2B,
 2e, and 2s. In Holliday’s nomenclature
 
-02-A2946  4/13/04  11:48 AM  Page 35
+02-A2946  4/13/04  11:48 AM  Page 35
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 35
 
@@ -2871,7 +2871,7 @@ the deposits into three primary units:
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:48 AM  Page 36
+02-A2946  4/13/04  11:48 AM  Page 36
 
 36 / TEXAS PREHISTORY
 
@@ -3011,7 +3011,7 @@ In 1937, Sellards and Glen Evans ex-
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:49 AM  Page 37
+02-A2946  4/13/04  11:49 AM  Page 37
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 37
 
@@ -3090,7 +3090,7 @@ Midland or Scharbauer Ranch consists
 of ﬁve localities, but the primary site is
 Locality 1 in Monahans Draw. Geoarche-
 
-02-A2946  4/13/04  11:49 AM  Page 38
+02-A2946  4/13/04  11:49 AM  Page 38
 
 38 / TEXAS PREHISTORY
 
@@ -3183,7 +3183,7 @@ Fig. 2.30. Horn Shelter No. 2 stratigraphy (after Redder 1985).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:49 AM  Page 39
+02-A2946  4/13/04  11:49 AM  Page 39
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 39
 
@@ -3376,7 +3376,7 @@ Dibble and Lorrain (1968) suggested
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:49 AM  Page 40
+02-A2946  4/13/04  11:49 AM  Page 40
 
 40 / TEXAS PREHISTORY
 
@@ -3518,7 +3518,7 @@ sands and water worn caliche gravels . . .
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:49 AM  Page 41
+02-A2946  4/13/04  11:49 AM  Page 41
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 41
 
@@ -3593,7 +3593,7 @@ Fig. 2.32. Bonﬁre Shelter stratigraphy (after Dibble and Lorrain 1968).
 
 Fig. 2.33. Plainview stratigraphy (after Holliday 1995d).
 
-02-A2946  4/13/04  11:49 AM  Page 42
+02-A2946  4/13/04  11:49 AM  Page 42
 
 he suggested that the bone bed was “asso-
 ciated with Stratum 1” (1997a, 106 and
@@ -3691,7 +3691,7 @@ Fig. 2.34. Map of Devil’s Mouth (after Sorrow 1968).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 43
+02-A2946  4/13/04  11:50 AM  Page 43
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 43
 
@@ -3769,7 +3769,7 @@ sands. Stratum W is small limestone
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 44
+02-A2946  4/13/04  11:50 AM  Page 44
 
 44 / TEXAS PREHISTORY
 
@@ -3870,7 +3870,7 @@ stratigraphy at the Loeve site along the
 north bank of the San Gabriel River in
 eastern Williamson County. Eddy (1973)
 
-02-A2946  4/13/04  11:50 AM  Page 45
+02-A2946  4/13/04  11:50 AM  Page 45
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 45
 
@@ -3988,7 +3988,7 @@ soils in a 20-m thick Applewhite terrace
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 46
+02-A2946  4/13/04  11:50 AM  Page 46
 
 46 / TEXAS PREHISTORY
 
@@ -4109,7 +4109,7 @@ cal resolution very low.
 It is apparent that obtaining greater
 resolution on Paleoindian chronologies
 
-02-A2946  4/13/04  11:50 AM  Page 47
+02-A2946  4/13/04  11:50 AM  Page 47
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 47
 
@@ -4254,7 +4254,7 @@ assignments at Lubbock Lake are based
 on stratigraphic position rather than the
 recovery of diagnostic projectile points.
 
-02-A2946  4/13/04  11:50 AM  Page 48
+02-A2946  4/13/04  11:50 AM  Page 48
 
 48 / TEXAS PREHISTORY
 
@@ -4345,7 +4345,7 @@ sand units occur both above and below
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 49
+02-A2946  4/13/04  11:50 AM  Page 49
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 49
 
@@ -4435,7 +4435,7 @@ Mill Iron site (Frison 1996).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 50
+02-A2946  4/13/04  11:50 AM  Page 50
 
 50 / TEXAS PREHISTORY
 
@@ -4772,7 +4772,7 @@ Unit 7-In Ab2 horizon
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 51
+02-A2946  4/13/04  11:50 AM  Page 51
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 51
 
@@ -4902,7 +4902,7 @@ Caran and Baumgardner 1986
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 52
+02-A2946  4/13/04  11:50 AM  Page 52
 
 52 / TEXAS PREHISTORY
 
@@ -5212,7 +5212,7 @@ Stratum 2B-middle, FA5-5
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 53
+02-A2946  4/13/04  11:50 AM  Page 53
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 53
 
@@ -5348,7 +5348,7 @@ C-558, SMU-1089
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 54
+02-A2946  4/13/04  11:50 AM  Page 54
 
 54 / TEXAS PREHISTORY
 
@@ -5639,7 +5639,7 @@ Unit 52, Zone 2
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 55
+02-A2946  4/13/04  11:50 AM  Page 55
 
 G&S Typesetters PDF proof
 
@@ -5778,7 +5778,7 @@ Honea 1980
 
 (continued )
 
-02-A2946  4/13/04  11:50 AM  Page 56
+02-A2946  4/13/04  11:50 AM  Page 56
 
 56 / TEXAS PREHISTORY
 
@@ -6118,7 +6118,7 @@ Unit II-base, Feature 165, 94.715m
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 57
+02-A2946  4/13/04  11:50 AM  Page 57
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 57
 
@@ -6258,7 +6258,7 @@ M. Collins et al. 1993; Stafford 1998
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 58
+02-A2946  4/13/04  11:50 AM  Page 58
 
 58 / TEXAS PREHISTORY
 
@@ -6614,7 +6614,7 @@ Unit Icl, Cienega, Square 28, Level 49,
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 59
+02-A2946  4/13/04  11:50 AM  Page 59
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 59
 
@@ -6814,7 +6814,7 @@ Level 53, 93.13 m
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 60
+02-A2946  4/13/04  11:50 AM  Page 60
 
 At Lubbock Lake twelve radiocarbon
 assays associated with Plainview compo-
@@ -7006,7 +7006,7 @@ poorly stratiﬁed within Unit II (dated be-
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 61
+02-A2946  4/13/04  11:50 AM  Page 61
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 61
 
@@ -7430,7 +7430,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 62
+02-A2946  4/13/04  11:50 AM  Page 62
 
 62 / TEXAS PREHISTORY
 
@@ -7900,7 +7900,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 63
+02-A2946  4/13/04  11:50 AM  Page 63
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 63
 
@@ -8373,7 +8373,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 64
+02-A2946  4/13/04  11:50 AM  Page 64
 
 64 / TEXAS PREHISTORY
 
@@ -8863,7 +8863,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 65
+02-A2946  4/13/04  11:50 AM  Page 65
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 65
 
@@ -9362,7 +9362,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 66
+02-A2946  4/13/04  11:50 AM  Page 66
 
 66 / TEXAS PREHISTORY
 
@@ -9834,7 +9834,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 67
+02-A2946  4/13/04  11:50 AM  Page 67
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 67
 
@@ -10300,7 +10300,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 68
+02-A2946  4/13/04  11:50 AM  Page 68
 
 68 / TEXAS PREHISTORY
 
@@ -10751,7 +10751,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 69
+02-A2946  4/13/04  11:50 AM  Page 69
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 69
 
@@ -11258,7 +11258,7 @@ Site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 70
+02-A2946  4/13/04  11:50 AM  Page 70
 
 70 / TEXAS PREHISTORY
 
@@ -11808,7 +11808,7 @@ Percent
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 71
+02-A2946  4/13/04  11:50 AM  Page 71
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 71
 
@@ -12094,7 +12094,7 @@ map shows the distribution of sites with
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:50 AM  Page 72
+02-A2946  4/13/04  11:50 AM  Page 72
 
 72 / TEXAS PREHISTORY
 
@@ -12157,7 +12157,7 @@ Fig. 2.46b. Distribution of Paleoindian sites: Clovis.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 73
+02-A2946  4/13/04  11:51 AM  Page 73
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 73
 
@@ -12207,7 +12207,7 @@ Meserve, and St. Mary’s Hall.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 74
+02-A2946  4/13/04  11:51 AM  Page 74
 
 74 / TEXAS PREHISTORY
 
@@ -12256,7 +12256,7 @@ Fig. 2.46j. Distribution of Paleoindian sites: Angostura.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 75
+02-A2946  4/13/04  11:51 AM  Page 75
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 75
 
@@ -12451,7 +12451,7 @@ faunal assemblages include the Gault site
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 76
+02-A2946  4/13/04  11:51 AM  Page 76
 
 76 / TEXAS PREHISTORY
 
@@ -12698,7 +12698,7 @@ food processing
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 77
+02-A2946  4/13/04  11:51 AM  Page 77
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 77
 
@@ -12945,7 +12945,7 @@ et al. 1998
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 78
+02-A2946  4/13/04  11:51 AM  Page 78
 
 78 / TEXAS PREHISTORY
 
@@ -13227,7 +13227,7 @@ and Hoover 1963, 1965
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 79
+02-A2946  4/13/04  11:51 AM  Page 79
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 79
 
@@ -13382,7 +13382,7 @@ Shipman (1975) has noted that drought
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 80
+02-A2946  4/13/04  11:51 AM  Page 80
 
 80 / TEXAS PREHISTORY
 
@@ -13484,7 +13484,7 @@ at the site, these were recovered from
 Area 2 and had no associated artifacts.
 Additional Folsom/Midland subsis-
 
-02-A2946  4/13/04  11:51 AM  Page 81
+02-A2946  4/13/04  11:51 AM  Page 81
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 81
 
@@ -13676,7 +13676,7 @@ mans in North America (Cook 1925,
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 82
+02-A2946  4/13/04  11:51 AM  Page 82
 
 82 / TEXAS PREHISTORY
 
@@ -13825,7 +13825,7 @@ Only twenty-ﬁve specimens were identi-
 ﬁed to the taxonomic level of class. These
 faunal remains were recovered from strata
 
-02-A2946  4/13/04  11:51 AM  Page 83
+02-A2946  4/13/04  11:51 AM  Page 83
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 83
 
@@ -14025,7 +14025,7 @@ techniques. These techniques have con-
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 84
+02-A2946  4/13/04  11:51 AM  Page 84
 
 tributed greatly to our understanding of
 the nature and context of subsistence data.
@@ -14219,7 +14219,7 @@ on the speculation regarding the heavy
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 85
+02-A2946  4/13/04  11:51 AM  Page 85
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 85
 
@@ -14419,7 +14419,7 @@ from Area 2, apparently in anatomical
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 86
+02-A2946  4/13/04  11:51 AM  Page 86
 
 position. Several Folsom and Midland
 points were also recovered there, as the
@@ -14615,7 +14615,7 @@ stone cobble.
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 87
+02-A2946  4/13/04  11:51 AM  Page 87
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 87
 
@@ -14745,7 +14745,7 @@ wear. This examination was done at the
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 88
+02-A2946  4/13/04  11:51 AM  Page 88
 
 Table 2.6. Quantitative Assemblages at Excavated Paleoindian Sites
 
@@ -15370,7 +15370,7 @@ Early
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 89
+02-A2946  4/13/04  11:51 AM  Page 89
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 89
 
@@ -15777,7 +15777,7 @@ U
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 90
+02-A2946  4/13/04  11:51 AM  Page 90
 
 90 / TEXAS PREHISTORY
 
@@ -16086,7 +16086,7 @@ careful trimming retained the lanceolate
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 91
+02-A2946  4/13/04  11:51 AM  Page 91
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 91
 
@@ -16291,7 +16291,7 @@ gesting to Collins that core platforms
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 92
+02-A2946  4/13/04  11:51 AM  Page 92
 
 92 / TEXAS PREHISTORY
 
@@ -16356,7 +16356,7 @@ man et al. (1990) have argued that the
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 93
+02-A2946  4/13/04  11:51 AM  Page 93
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 93
 
@@ -16902,7 +16902,7 @@ Nonfeature (Firstview)
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 94
+02-A2946  4/13/04  11:51 AM  Page 94
 
 Table 2.11. Lubbock Lake Raw Materials by Artifact Class and Cultural Afﬁliation
 
@@ -17850,7 +17850,7 @@ Grand Total
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 95
+02-A2946  4/13/04  11:51 AM  Page 95
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 95
 
@@ -18168,7 +18168,7 @@ Tables 2.12 –2.14).
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 96
+02-A2946  4/13/04  11:51 AM  Page 96
 
 96 / TEXAS PREHISTORY
 
@@ -18426,7 +18426,7 @@ Paleoindian artifacts; Reid Ferring for
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 97
+02-A2946  4/13/04  11:51 AM  Page 97
 
 PALEOINDIAN ARCHEOLOGY IN TEXAS / 97
 
@@ -18501,11 +18501,11 @@ viding information regarding the prove-
 
 G&S Typesetters PDF proof
 
-02-A2946  4/13/04  11:51 AM  Page 98
+02-A2946  4/13/04  11:51 AM  Page 98
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 101
+03-A2946  4/13/04  11:54 AM  Page 101
 
 3▲▲▲
 
@@ -18636,7 +18636,7 @@ the kinds of sites with the least potential
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 102
+03-A2946  4/13/04  11:54 AM  Page 102
 
 for yielding good chronological infor-
 mation, while sites having that potential
@@ -18767,7 +18767,7 @@ More importantly, as Clive Gamble
 
 Fig. 3.1. The central Texas archeological area (after Prewitt 1981).
 
-03-A2946  4/13/04  11:54 AM  Page 103
+03-A2946  4/13/04  11:54 AM  Page 103
 
 ARCHEOLOGY IN CENTR AL TEXAS / 103
 
@@ -18914,7 +18914,7 @@ ous and, therefore, most commonly noted
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 104
+03-A2946  4/13/04  11:54 AM  Page 104
 
 104 / PR AIRIES AND PLAINS
 
@@ -19154,7 +19154,7 @@ carpment, that arcs from northeast to
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 105
+03-A2946  4/13/04  11:54 AM  Page 105
 
 ARCHEOLOGY IN CENTR AL TEXAS / 105
 
@@ -19238,7 +19238,7 @@ burned rock midden (Sutton County); d (lower right), pictographs at Paint Rock i
 Fig. 3.4. Geographic aspects of central Texas: a, physiography; b, major river basins; c, geology;
 d, soils (A " alﬁsols; M " mollisols; V " vertisols; f " ﬂuvial valley ﬁlls, various soils).
 
-03-A2946  4/13/04  11:54 AM  Page 106
+03-A2946  4/13/04  11:54 AM  Page 106
 
 106 / PR AIRIES AND PLAINS
 
@@ -19312,7 +19312,7 @@ chose to live on the inside of river bends?
 No, I suggest we are to infer instead that
 the surveys failed to discover sites buried
 
-03-A2946  4/13/04  11:54 AM  Page 107
+03-A2946  4/13/04  11:54 AM  Page 107
 
 ARCHEOLOGY IN CENTR AL TEXAS / 107
 
@@ -19408,7 +19408,7 @@ most no Late Holocene ﬁll occurs in the
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 108
+03-A2946  4/13/04  11:54 AM  Page 108
 
 thickness. Deeply stratiﬁed sites contain-
 ing Paleoindian to Late Archaic period
@@ -19601,7 +19601,7 @@ of archeological evidence from multiple
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 109
+03-A2946  4/13/04  11:54 AM  Page 109
 
 ARCHEOLOGY IN CENTR AL TEXAS / 109
 
@@ -19793,7 +19793,7 @@ has become almost routine (e.g., Ensor
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 110
+03-A2946  4/13/04  11:54 AM  Page 110
 
 and Mueller-Wille 1988) is the inclusion
 of technological ﬁndings in lithic artifact
@@ -19983,7 +19983,7 @@ but is seen as an eloquent expression of
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 111
+03-A2946  4/13/04  11:54 AM  Page 111
 
 ARCHEOLOGY IN CENTR AL TEXAS / 111
 
@@ -20174,7 +20174,7 @@ have simply not appreciated the value of
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 112
+03-A2946  4/13/04  11:54 AM  Page 112
 
 112 / PR AIRIES AND PLAINS
 
@@ -20285,7 +20285,7 @@ the poorest.
 In Fig. 3.9b, absolute dating is por-
 trayed in radiocarbon years before the
 
-03-A2946  4/13/04  11:54 AM  Page 113
+03-A2946  4/13/04  11:54 AM  Page 113
 
 ARCHEOLOGY IN CENTR AL TEXAS / 113
 
@@ -20384,7 +20384,7 @@ or 8.7 percent of the local prehistory).
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 114
+03-A2946  4/13/04  11:54 AM  Page 114
 
 114 / PR AIRIES AND PLAINS
 
@@ -20454,7 +20454,7 @@ and near central Texas has been inferred
 from occurrences in archeological sites
 (Dillehay 1974; Prewitt 1981, 1985;
 
-03-A2946  4/13/04  11:54 AM  Page 115
+03-A2946  4/13/04  11:54 AM  Page 115
 
 ARCHEOLOGY IN CENTR AL TEXAS / 115
 
@@ -20586,7 +20586,7 @@ by the Middle Holocene xeric conditions.
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 116
+03-A2946  4/13/04  11:54 AM  Page 116
 
 cene record includes several less signiﬁcant
 interruptions to deposition (see Fig. 3.9b).
@@ -20781,7 +20781,7 @@ et al. 1991, 1992), bone and ivory points,
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:54 AM  Page 117
+03-A2946  4/13/04  11:54 AM  Page 117
 
 ARCHEOLOGY IN CENTR AL TEXAS / 117
 
@@ -20882,7 +20882,7 @@ of the artifacts from Bone Bed 2 at Bon-
 rare in central Texas. “Plainview” points
 at Horn Shelter No. 2 are thicker and
 
-03-A2946  4/13/04  11:55 AM  Page 118
+03-A2946  4/13/04  11:55 AM  Page 118
 
 118 / PR AIRIES AND PLAINS
 
@@ -20991,7 +20991,7 @@ indian into the Early Archaic periods.
 
 Two burials between ninety-ﬁve hun-
 
-03-A2946  4/13/04  11:55 AM  Page 119
+03-A2946  4/13/04  11:55 AM  Page 119
 
 ARCHEOLOGY IN CENTR AL TEXAS / 119
 
@@ -21095,7 +21095,7 @@ into this problem is increasingly common.
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:55 AM  Page 120
+03-A2946  4/13/04  11:55 AM  Page 120
 
 120 / PR AIRIES AND PLAINS
 
@@ -21203,7 +21203,7 @@ at Landslide than at Barton. Large burned
 rock features—hearths as well as rock
 ovens—are inferred for the interval, par-
 
-03-A2946  4/13/04  11:55 AM  Page 121
+03-A2946  4/13/04  11:55 AM  Page 121
 
 ARCHEOLOGY IN CENTR AL TEXAS / 121
 
@@ -21307,7 +21307,7 @@ Fig. 3.16a, b), “corner-tanged” knives
 (see Fig. 3.15i), and cylindrical stone
 pipes (see Fig. 3.15j). Marine shell orna-
 
-03-A2946  4/13/04  11:55 AM  Page 122
+03-A2946  4/13/04  11:55 AM  Page 122
 
 122 / PR AIRIES AND PLAINS
 
@@ -21411,7 +21411,7 @@ dart to that of the bow and arrow (see
 Fig. 3.16c). Evidence is seen of wide-
 spread hostilities in the form of what are
 
-03-A2946  4/13/04  11:55 AM  Page 123
+03-A2946  4/13/04  11:55 AM  Page 123
 
 ARCHEOLOGY IN CENTR AL TEXAS / 123
 
@@ -21603,7 +21603,7 @@ standing pattern.
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:55 AM  Page 124
+03-A2946  4/13/04  11:55 AM  Page 124
 
 At a very general level, the early His-
 toric subperiod informs prehistoric arche-
@@ -21796,7 +21796,7 @@ used primarily for their heat-storage ca-
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:55 AM  Page 125
+03-A2946  4/13/04  11:55 AM  Page 125
 
 ARCHEOLOGY IN CENTR AL TEXAS / 125
 
@@ -21992,7 +21992,7 @@ use needs to be made of the more so-
 
 G&S Typesetters PDF proof
 
-03-A2946  4/13/04  11:55 AM  Page 126
+03-A2946  4/13/04  11:55 AM  Page 126
 
 phisticated techniques of dating and
 archeometry—techniques that usually
@@ -22071,7 +22071,7 @@ Commission on Stratigraphic Nomenclature
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:21 PM  Page 127
+04-A2946  4/14/04  12:21 PM  Page 127
 
 4▲▲▲
 
@@ -22199,7 +22199,7 @@ but began to ﬂourish in the eighteenth
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:21 PM  Page 128
+04-A2946  4/14/04  12:21 PM  Page 128
 
 128 / PR AIRIES AND PLAINS
 
@@ -22312,7 +22312,7 @@ were the excavations at 41ME34 to the
 west (Hester 1990a). However, both have
 chronological data that help to build on
 
-04-A2946  4/14/04  12:21 PM  Page 129
+04-A2946  4/14/04  12:21 PM  Page 129
 
 PREHISTORY OF SOUTH TEXAS / 129
 
@@ -22500,7 +22500,7 @@ Coleto Creek). To date, only Berger Bluff
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:21 PM  Page 130
+04-A2946  4/14/04  12:21 PM  Page 130
 
 Fig. 4.2. Excavations at 41LK67, Choke
 Canyon Reservoir, southern Texas: a, view
@@ -22514,7 +22514,7 @@ b
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:21 PM  Page 131
+04-A2946  4/14/04  12:21 PM  Page 131
 
 PREHISTORY OF SOUTH TEXAS / 131
 
@@ -22589,7 +22589,7 @@ Fig. 4.4. Deeply buried occupations at 41LK31/32, Choke Canyon Reservoir project
 pation level, represented by the hearth in the proﬁle, dates to ca. 2400 B.C. Earliest occupation
 is at the base (note the shell accumulation), at ca. 3400 B.C. (from Hester 1980b, ﬁg. 4.30).
 
-04-A2946  4/14/04  12:21 PM  Page 132
+04-A2946  4/14/04  12:21 PM  Page 132
 
 132 / PR AIRIES AND PLAINS
 
@@ -22665,7 +22665,7 @@ Cooper collection in a series of papers)
 are to be commended for their efforts.
 Others, like James B. Boyd, are recording
 
-04-A2946  4/14/04  12:22 PM  Page 133
+04-A2946  4/14/04  12:22 PM  Page 133
 
 PREHISTORY OF SOUTH TEXAS / 133
 
@@ -22780,7 +22780,7 @@ Folsom artifacts are also widely re-
 
 ported across the Rio Grande Plain
 
-04-A2946  4/14/04  12:22 PM  Page 134
+04-A2946  4/14/04  12:22 PM  Page 134
 
 134 / PR AIRIES AND PLAINS
 
@@ -22884,7 +22884,7 @@ vealed a discrete camp site and chipping
 locality with distinctive points. While
 these points have been called Plainview in
 
-04-A2946  4/14/04  12:22 PM  Page 135
+04-A2946  4/14/04  12:22 PM  Page 135
 
 a
 
@@ -22917,7 +22917,7 @@ Smith.
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 136
+04-A2946  4/14/04  12:22 PM  Page 136
 
 136 / PR AIRIES AND PLAINS
 
@@ -23037,7 +23037,7 @@ to the Calf Creek horizon in Oklahoma
 and Arkansas [Wyckoff 1995]). The dates
 established for these horizons parallel the
 
-04-A2946  4/14/04  12:22 PM  Page 137
+04-A2946  4/14/04  12:22 PM  Page 137
 
 PREHISTORY OF SOUTH TEXAS / 137
 
@@ -23145,7 +23145,7 @@ zon (Hester and Whatley 1992); some of
 these are preforms for Bell /Andice, while
 others may have been used as knives
 
-04-A2946  4/14/04  12:22 PM  Page 138
+04-A2946  4/14/04  12:22 PM  Page 138
 
 138 / PR AIRIES AND PLAINS
 
@@ -23262,7 +23262,7 @@ Another regionally speciﬁc type is Carrizo
 in Fig. 4.13c. Utilitarian lithics include
 smaller unifacial distally beveled tools
 
-04-A2946  4/14/04  12:22 PM  Page 139
+04-A2946  4/14/04  12:22 PM  Page 139
 
 PREHISTORY OF SOUTH TEXAS / 139
 
@@ -23375,7 +23375,7 @@ cross-dated with points from central Texas
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 140
+04-A2946  4/14/04  12:22 PM  Page 140
 
 140 / PR AIRIES AND PLAINS
 
@@ -23474,7 +23474,7 @@ suggest exploitation of small animals
 (rodents, rabbits, turtles, ﬁsh, lizards,
 and snakes) and deer. Rabdotus snails
 
-04-A2946  4/14/04  12:22 PM  Page 141
+04-A2946  4/14/04  12:22 PM  Page 141
 
 a
 
@@ -23491,7 +23491,7 @@ face; two Tortugas points; distally beveled tool. Courtesy of Texas Archeologica
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 142
+04-A2946  4/14/04  12:22 PM  Page 142
 
 142 / PR AIRIES AND PLAINS
 
@@ -23585,7 +23585,7 @@ riod. The disturbed burials at the Shrew
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 143
+04-A2946  4/14/04  12:22 PM  Page 143
 
 PREHISTORY OF SOUTH TEXAS / 143
 
@@ -23695,7 +23695,7 @@ radiocarbon dated, other dates for the
 Late Prehistoric at 41LK106 are compar-
 atively early, ca. a.d. 860 –1250.
 
-04-A2946  4/14/04  12:22 PM  Page 144
+04-A2946  4/14/04  12:22 PM  Page 144
 
 a
 
@@ -23722,7 +23722,7 @@ g
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 145
+04-A2946  4/14/04  12:22 PM  Page 145
 
 Fig. 4.21. Selected specimens from the Riley
 Cache, Atascosa County, southern Texas (see
@@ -23744,7 +23744,7 @@ tion, and the Southern Texas Archaeological Association.
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 146
+04-A2946  4/14/04  12:22 PM  Page 146
 
 146 / PR AIRIES AND PLAINS
 
@@ -23837,7 +23837,7 @@ diz points (Fig. 4.24), small end scrapers
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 147
+04-A2946  4/14/04  12:22 PM  Page 147
 
 PREHISTORY OF SOUTH TEXAS / 147
 
@@ -23941,7 +23941,7 @@ ated with bison hunting practices). He
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 148
+04-A2946  4/14/04  12:22 PM  Page 148
 
 a
 
@@ -23977,7 +23977,7 @@ n
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:22 PM  Page 149
+04-A2946  4/14/04  12:22 PM  Page 149
 
 PREHISTORY OF SOUTH TEXAS / 149
 
@@ -24131,7 +24131,7 @@ bead no longer available for study. The
 
 G&S Typesetters PDF proof
 
-04-A2946  4/14/04  12:23 PM  Page 150
+04-A2946  4/14/04  12:23 PM  Page 150
 
 150 / PR AIRIES AND PLAINS
 
@@ -24249,7 +24249,7 @@ trade goods appear, but this concept also
 recognizes that Euro-American explorers
 and settlers had not yet entered the area
 
-04-A2946  4/14/04  12:23 PM  Page 151
+04-A2946  4/14/04  12:23 PM  Page 151
 
 PREHISTORY OF SOUTH TEXAS / 151
 
@@ -24408,7 +24408,7 @@ cal remains.
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 155
+05-A2946  4/13/04  11:59 AM  Page 155
 
 5▲▲▲
 
@@ -24537,7 +24537,7 @@ vestigated than was the central coast. The
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 156
+05-A2946  4/13/04  11:59 AM  Page 156
 
 156 / COASTAL GROUPS
 
@@ -24648,7 +24648,7 @@ locked in massive continental ice sheets
 and extensive montane glaciers. At this
 time, coastal streams downcut deeply
 
-05-A2946  4/13/04  11:59 AM  Page 157
+05-A2946  4/13/04  11:59 AM  Page 157
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 157
 
@@ -24839,7 +24839,7 @@ tained on the charcoal samples (Ricklis
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 158
+05-A2946  4/13/04  11:59 AM  Page 158
 
 Table 5.1. Radiocarbon Data from Discrete Occupational Strata, Central Texas Coast
 
@@ -25331,7 +25331,7 @@ between 2308 –2184)
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 159
+05-A2946  4/13/04  11:59 AM  Page 159
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 159
 
@@ -25713,7 +25713,7 @@ single stratigraphic zone (Weinstein 1994,
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 160
+05-A2946  4/13/04  11:59 AM  Page 160
 
 Table 5.2. Chronological Data from Central Texas Coast Sites:
 Corrected and Calibrated Age Ranges from Discrete Strata
@@ -25948,7 +25948,7 @@ Beaumont clay
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 161
+05-A2946  4/13/04  11:59 AM  Page 161
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 161
 
@@ -26075,7 +26075,7 @@ margins overlooking the north shore of
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 162
+05-A2946  4/13/04  11:59 AM  Page 162
 
 162 / COASTAL GROUPS
 
@@ -26166,7 +26166,7 @@ within the earliest basal shell stratum
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  11:59 AM  Page 163
+05-A2946  4/13/04  11:59 AM  Page 163
 
 G&S Typesetters PDF proof
 
@@ -26188,7 +26188,7 @@ Fig. 5.6. Shell tool forms: a, edge-ﬂaked
 sunray venus clamshell knife or scraper;
 b, perforated oyster shell.
 
-05-A2946  4/13/04  11:59 AM  Page 164
+05-A2946  4/13/04  11:59 AM  Page 164
 
 164 / COASTAL GROUPS
 
@@ -26321,7 +26321,7 @@ are present. At 41NU267, faunal bone
 was preserved within well-drained, collu-
 vial ﬁne sand, and bones of ﬁsh, deer, and
 
-05-A2946  4/13/04  11:59 AM  Page 165
+05-A2946  4/13/04  11:59 AM  Page 165
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 165
 
@@ -26512,7 +26512,7 @@ diocarbon assays on samples from various
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 166
+05-A2946  4/13/04  12:00 PM  Page 166
 
 Fig. 5.8. Excavation proﬁle, Mustang Lake
 Site (41CL3), San Antonio Bay area. Shows
@@ -26532,7 +26532,7 @@ G&S Typesetters PDF proof
 Fig. 5.10. Dart points from terminal Archaic stratum, 41SP120, dated to ca. A.D. 1000: a, b, Catan
 points; c, d, Matamoros points.
 
-05-A2946  4/13/04  12:00 PM  Page 167
+05-A2946  4/13/04  12:00 PM  Page 167
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 167
 
@@ -26639,7 +26639,7 @@ and calibrated radiocarbon age range of
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 168
+05-A2946  4/13/04  12:00 PM  Page 168
 
 168 / COASTAL GROUPS
 
@@ -26716,7 +26716,7 @@ points at Kent-Crane are presumably
 contemporaneous with specimens from
 central Texas, dated between ca. 1750
 
-05-A2946  4/13/04  12:00 PM  Page 169
+05-A2946  4/13/04  12:00 PM  Page 169
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 169
 
@@ -26842,7 +26842,7 @@ ulnas; deer ulnas were also used as pos-
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 170
+05-A2946  4/13/04  12:00 PM  Page 170
 
 Fig. 5.15. Whelk shell tools, central coast:
 a, hammer (arrows point to battered edge);
@@ -26864,7 +26864,7 @@ the Mustang Lake site; all others are from
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 171
+05-A2946  4/13/04  12:00 PM  Page 171
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 171
 
@@ -26970,7 +26970,7 @@ port pottery seem to have increased in
 popularity with time (Ricklis 1990,
 appendix A).
 
-05-A2946  4/13/04  12:00 PM  Page 172
+05-A2946  4/13/04  12:00 PM  Page 172
 
 172 / COASTAL GROUPS
 
@@ -27066,7 +27066,7 @@ Refugio County, also approximately forty
 kilometers from the mainland shoreline,
 both Rockport and Toyah components
 
-05-A2946  4/13/04  12:00 PM  Page 173
+05-A2946  4/13/04  12:00 PM  Page 173
 
 G&S Typesetters PDF proof
 
@@ -27079,7 +27079,7 @@ Fig. 5.21. Examples of Rockport phase
 ceramics: a, b, Rockport Incised; c, Rockport
 Crenelated; d–h, Rockport Black-on-Gray.
 
-05-A2946  4/13/04  12:00 PM  Page 174
+05-A2946  4/13/04  12:00 PM  Page 174
 
 174 / COASTAL GROUPS
 
@@ -27199,7 +27199,7 @@ little from that seen in the contemporane-
 ous inland Toyah phase (Prewitt 1981) or
 horizon (Black 1986). Perdiz is the pre-
 
-05-A2946  4/13/04  12:00 PM  Page 175
+05-A2946  4/13/04  12:00 PM  Page 175
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 175
 
@@ -27342,7 +27342,7 @@ small prairie-riverine camp sites. Addi-
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 176
+05-A2946  4/13/04  12:00 PM  Page 176
 
 176 / COASTAL GROUPS
 
@@ -27428,7 +27428,7 @@ same time, deposition of river-borne sedi-
 ments creates broad, prograding deltas
 that support extensive and nutrient-rich
 
-05-A2946  4/13/04  12:00 PM  Page 177
+05-A2946  4/13/04  12:00 PM  Page 177
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 177
 
@@ -27616,7 +27616,7 @@ tocene ﬂuvial-deltaic sediments and Ho-
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 178
+05-A2946  4/13/04  12:00 PM  Page 178
 
 178 / COASTAL GROUPS
 
@@ -27740,7 +27740,7 @@ gated sites, but it is presumably also due
 to a lack of hearth charcoal and a general
 dearth of other datable organic material
 
-05-A2946  4/13/04  12:00 PM  Page 179
+05-A2946  4/13/04  12:00 PM  Page 179
 
 OCCUPATION OF CENTR AL AND LOWER TEXAS C OAST / 179
 
@@ -27934,7 +27934,7 @@ coast. Eling examined one hundred black
 
 G&S Typesetters PDF proof
 
-05-A2946  4/13/04  12:00 PM  Page 180
+05-A2946  4/13/04  12:00 PM  Page 180
 
 drum otoliths from test excavations at the
 site and found that most ﬁsh died during
@@ -28057,7 +28057,7 @@ trations contained in this chapter.
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 181
+06-A2946  4/13/04  12:02 PM  Page 181
 
 6▲▲▲
 
@@ -28188,7 +28188,7 @@ ing temperatures to near or below freez-
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 182
+06-A2946  4/13/04  12:02 PM  Page 182
 
 182 / COASTAL GROUPS
 
@@ -28315,7 +28315,7 @@ Extensive studies of fossil pollen from
 the eastern United States indicate that in
 terminal Pleistocene times, ca. 18,000 –
 
-06-A2946  4/13/04  12:02 PM  Page 183
+06-A2946  4/13/04  12:02 PM  Page 183
 
 OCCUPATION OF SOUTHEAST TEXAS / 183
 
@@ -28516,7 +28516,7 @@ elevations of two to three meters above
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 184
+06-A2946  4/13/04  12:02 PM  Page 184
 
 184 / COASTAL GROUPS
 
@@ -28659,7 +28659,7 @@ east Texas and more northerly part of east
 Texas, there are enough differences to
 suggest two distinct sequences. She points
 
-06-A2946  4/13/04  12:02 PM  Page 185
+06-A2946  4/13/04  12:02 PM  Page 185
 
 OCCUPATION OF SOUTHEAST TEXAS / 185
 
@@ -28766,7 +28766,7 @@ graves. However, the points were not
 abundant, and the large number of buri-
 als and the fact that some intruded into
 
-06-A2946  4/13/04  12:02 PM  Page 186
+06-A2946  4/13/04  12:02 PM  Page 186
 
 others suggest long-term use of the locale,
 as noted by Story (1990, 240).
@@ -28958,7 +28958,7 @@ stream gravels within the southeast Texas
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 187
+06-A2946  4/13/04  12:02 PM  Page 187
 
 OCCUPATION OF SOUTHEAST TEXAS / 187
 
@@ -29105,7 +29105,7 @@ of the time intervals involved, increases
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 188
+06-A2946  4/13/04  12:02 PM  Page 188
 
 188 / COASTAL GROUPS
 
@@ -29258,7 +29258,7 @@ tected estuaries, like smaller lakes (Stuiver
 et al. 1986), may represent an essentially
 atmospheric carbon reservoir.
 
-06-A2946  4/13/04  12:02 PM  Page 189
+06-A2946  4/13/04  12:02 PM  Page 189
 
 OCCUPATION OF SOUTHEAST TEXAS / 189
 
@@ -29380,7 +29380,7 @@ emerged the ecological conditions that
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 190
+06-A2946  4/13/04  12:02 PM  Page 190
 
 Fig. 6.7. Map of southeast Texas showing esti-
 mated extent of Mossy Grove Culture (after
@@ -29392,7 +29392,7 @@ of basal sherd of ﬂat-bottom Mandeville Plain vessel; d, e, sherds of Tchefunc
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 191
+06-A2946  4/13/04  12:02 PM  Page 191
 
 OCCUPATION OF SOUTHEAST TEXAS / 191
 
@@ -29600,7 +29600,7 @@ after ca. a.d. 1800
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 192
+06-A2946  4/13/04  12:02 PM  Page 192
 
 192 / COASTAL GROUPS
 
@@ -29702,7 +29702,7 @@ perseded by the contracting-stem Gary
 type (see, e.g., Aten 1983; Ensor and
 White 1998). The introduction of Tche-
 
-06-A2946  4/13/04  12:02 PM  Page 193
+06-A2946  4/13/04  12:02 PM  Page 193
 
 OCCUPATION OF SOUTHEAST TEXAS / 193
 
@@ -29797,7 +29797,7 @@ Ridge site, where Tchefuncte and Man-
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:02 PM  Page 194
+06-A2946  4/13/04  12:02 PM  Page 194
 
 194 / COASTAL GROUPS
 
@@ -29898,7 +29898,7 @@ blade-like ﬂakes; h–j, bifacial chert drills/perforators; k, thin bifacial k
 utilized chert prismatic blades. The Scallorn arrow point (a) pertains to Initial Late Prehistoric
 and all others, to the Final Late Prehistoric.
 
-06-A2946  4/13/04  12:03 PM  Page 195
+06-A2946  4/13/04  12:03 PM  Page 195
 
 OCCUPATION OF SOUTHEAST TEXAS / 195
 
@@ -29985,7 +29985,7 @@ various types of the Coles Creek–Plaque-
 mine sequence in coastal Louisiana and
 the Lower Mississippi Valley (Fig. 6.16).
 
-06-A2946  4/13/04  12:03 PM  Page 196
+06-A2946  4/13/04  12:03 PM  Page 196
 
 196 / COASTAL GROUPS
 
@@ -30111,7 +30111,7 @@ the general ethnographic fact that coastal
 hunter-gatherer populations tend toward
 relatively high densities as well as some
 
-06-A2946  4/13/04  12:03 PM  Page 197
+06-A2946  4/13/04  12:03 PM  Page 197
 
 OCCUPATION OF SOUTHEAST TEXAS / 197
 
@@ -30215,7 +30215,7 @@ cemeteries had a dramatically higher inci-
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:03 PM  Page 198
+06-A2946  4/13/04  12:03 PM  Page 198
 
 198 / COASTAL GROUPS
 
@@ -30335,7 +30335,7 @@ and a glass mirror fragment.
 The Mitchell Ridge ﬁndings appear
 to support Aten’s (1983) suggestion of
 
-06-A2946  4/13/04  12:03 PM  Page 199
+06-A2946  4/13/04  12:03 PM  Page 199
 
 G&S Typesetters PDF proof
 
@@ -30354,7 +30354,7 @@ fragment (possible Perdiz); e–h, unstemmed
 arrow points; i–l, small ﬂaked chert drills/
 perforators.
 
-06-A2946  4/13/04  12:03 PM  Page 200
+06-A2946  4/13/04  12:03 PM  Page 200
 
 signiﬁcant native population decline dur-
 ing the eighteenth century due to the in-
@@ -30547,7 +30547,7 @@ quantities and kinds of lithic artifacts
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:03 PM  Page 201
+06-A2946  4/13/04  12:03 PM  Page 201
 
 OCCUPATION OF SOUTHEAST TEXAS / 201
 
@@ -30742,7 +30742,7 @@ the coast is a deﬁnitive understanding of
 
 G&S Typesetters PDF proof
 
-06-A2946  4/13/04  12:03 PM  Page 202
+06-A2946  4/13/04  12:03 PM  Page 202
 
 202 / COASTAL GROUPS
 
@@ -30818,7 +30818,7 @@ this chapter.
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:04 PM  Page 205
+07-A2946  4/13/04  12:04 PM  Page 205
 
 7▲▲▲
 
@@ -30948,7 +30948,7 @@ material culture for this region ( J. C. Kel-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:04 PM  Page 206
+07-A2946  4/13/04  12:04 PM  Page 206
 
 206 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -31098,7 +31098,7 @@ Development Board in advance of several
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 207
+07-A2946  4/13/04  12:05 PM  Page 207
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 207
 
@@ -31236,7 +31236,7 @@ ment and subsistence systems. Our scale
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 208
+07-A2946  4/13/04  12:05 PM  Page 208
 
 208 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -31430,7 +31430,7 @@ records at the Texas Archeological Re-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 209
+07-A2946  4/13/04  12:05 PM  Page 209
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 209
 
@@ -31658,7 +31658,7 @@ and as an alternative we have summed the
 number of radiocarbon dates and radio-
 carbon-dated sites within each county
 
-07-A2946  4/13/04  12:05 PM  Page 210
+07-A2946  4/13/04  12:05 PM  Page 210
 
 210 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -31774,7 +31774,7 @@ rounding regions. Like other culture his-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 211
+07-A2946  4/13/04  12:05 PM  Page 211
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 211
 
@@ -31890,7 +31890,7 @@ and chemically from the limestone rock
 formations comprising the natural setting
 of the cave, and the presence of hair and
 
-07-A2946  4/13/04  12:05 PM  Page 212
+07-A2946  4/13/04  12:05 PM  Page 212
 
 212 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -32077,7 +32077,7 @@ mammals such as mammoth and bison
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 213
+07-A2946  4/13/04  12:05 PM  Page 213
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 213
 
@@ -32324,7 +32324,7 @@ possible that Paleoindian components
 consisting of scatters of lithic debitage but
 otherwise lacking distinctive projectile
 
-07-A2946  4/13/04  12:05 PM  Page 214
+07-A2946  4/13/04  12:05 PM  Page 214
 
 214 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -32450,7 +32450,7 @@ Monger and Buck 1995; Van Devender
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 215
+07-A2946  4/13/04  12:05 PM  Page 215
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 215
 
@@ -32521,7 +32521,7 @@ G&S Typesetters PDF proof
 Fig. 7.6. Projectile points and tools from a cluster of Folsom components in Fort Bliss Maneuver
 Area 5E north of El Paso (adapted from Stuart 1997, 56–57).
 
-07-A2946  4/13/04  12:05 PM  Page 216
+07-A2946  4/13/04  12:05 PM  Page 216
 
 216 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -32658,7 +32658,7 @@ Valley.
 
 Distributions of local and nonlocal
 
-07-A2946  4/13/04  12:05 PM  Page 217
+07-A2946  4/13/04  12:05 PM  Page 217
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 217
 
@@ -32848,7 +32848,7 @@ the low diversity of tool forms and spatial
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 218
+07-A2946  4/13/04  12:05 PM  Page 218
 
 218 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -33045,7 +33045,7 @@ terial, rabbit and deer hides, more than
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 219
+07-A2946  4/13/04  12:05 PM  Page 219
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 219
 
@@ -33119,7 +33119,7 @@ in text.
 Fig. 7.9. Map of Human Systems Research/Eastern New Mexico University excavations at Fres-
 nal Shelter (LA10101), Otero County, New Mexico: a, plan view; b, proﬁle (from Tagg 1996, 313).
 
-07-A2946  4/13/04  12:05 PM  Page 220
+07-A2946  4/13/04  12:05 PM  Page 220
 
 220 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -33309,7 +33309,7 @@ tail. Two dates from Fresnal Shelter indi-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 221
+07-A2946  4/13/04  12:05 PM  Page 221
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 221
 
@@ -33479,7 +33479,7 @@ rent lack of knowledge regarding settle-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 222
+07-A2946  4/13/04  12:05 PM  Page 222
 
 222 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -33507,7 +33507,7 @@ occupational deposits. Most sites consist
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 223
+07-A2946  4/13/04  12:05 PM  Page 223
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 223
 
@@ -33642,7 +33642,7 @@ and distributions.
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 224
+07-A2946  4/13/04  12:05 PM  Page 224
 
 224 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -33792,7 +33792,7 @@ Few distinct technological changes or
 
 trends have been observed in the Early,
 
-07-A2946  4/13/04  12:05 PM  Page 225
+07-A2946  4/13/04  12:05 PM  Page 225
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 225
 
@@ -33897,7 +33897,7 @@ norms (see Tomka and Prewitt 1993) or
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 226
+07-A2946  4/13/04  12:05 PM  Page 226
 
 226 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -34089,7 +34089,7 @@ chronometric studies involving direct age
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 227
+07-A2946  4/13/04  12:05 PM  Page 227
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 227
 
@@ -34233,7 +34233,7 @@ and Roney 1998). Wills (1988) suggests
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 228
+07-A2946  4/13/04  12:05 PM  Page 228
 
 228 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -34424,7 +34424,7 @@ sources. Only one dart point and a few
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 229
+07-A2946  4/13/04  12:05 PM  Page 229
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 229
 
@@ -34616,7 +34616,7 @@ or more thermal features and occasional
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 230
+07-A2946  4/13/04  12:05 PM  Page 230
 
 230 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -34719,7 +34719,7 @@ and economic activities resulting in the
 deposition of datable materials were un-
 common. During the Late Archaic, a pro-
 
-07-A2946  4/13/04  12:05 PM  Page 231
+07-A2946  4/13/04  12:05 PM  Page 231
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 231
 
@@ -34850,7 +34850,7 @@ ceptionally rare (see Thompson 1980,
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:05 PM  Page 232
+07-A2946  4/13/04  12:05 PM  Page 232
 
 232 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -35039,7 +35039,7 @@ mative periods, which in part reﬂects the
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 233
+07-A2946  4/13/04  12:06 PM  Page 233
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 233
 
@@ -35133,7 +35133,7 @@ ciﬁc emphasis on raw material conser-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 234
+07-A2946  4/13/04  12:06 PM  Page 234
 
 234 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -35244,7 +35244,7 @@ that, in turn, reﬂect changes in subsistence
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 235
+07-A2946  4/13/04  12:06 PM  Page 235
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 235
 
@@ -35434,7 +35434,7 @@ in ﬁnished form.
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 236
+07-A2946  4/13/04  12:06 PM  Page 236
 
 236 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -35538,7 +35538,7 @@ culture(s) directly to the south of that
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 237
+07-A2946  4/13/04  12:06 PM  Page 237
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 237
 
@@ -35624,7 +35624,7 @@ produced, and the presence of a wider va-
 riety of nonlocal ceramic wares suggests
 greater levels of interaction with adjoin-
 
-07-A2946  4/13/04  12:06 PM  Page 238
+07-A2946  4/13/04  12:06 PM  Page 238
 
 238 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -35814,7 +35814,7 @@ n.d.; J. C. Kelley 1985, 1986; Lehmer
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 239
+07-A2946  4/13/04  12:06 PM  Page 239
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 239
 
@@ -35928,7 +35928,7 @@ michael 1985; Hard 1983a; O’Laughlin
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 240
+07-A2946  4/13/04  12:06 PM  Page 240
 
 240 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -36041,7 +36041,7 @@ val. Coincident with the decline in the
 use of pithouses and isolated rooms, the
 majority of contiguous pueblo rooms and
 
-07-A2946  4/13/04  12:06 PM  Page 241
+07-A2946  4/13/04  12:06 PM  Page 241
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 241
 
@@ -36169,7 +36169,7 @@ square or subrectangular pithouses, al-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 242
+07-A2946  4/13/04  12:06 PM  Page 242
 
 242 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -36284,7 +36284,7 @@ rooms are distributed among three areas
 that are more than one hundred meters
 apart. A fourth equally distant area is
 
-07-A2946  4/13/04  12:06 PM  Page 243
+07-A2946  4/13/04  12:06 PM  Page 243
 
 G&S Typesetters PDF proof
 
@@ -36297,7 +36297,7 @@ tendency for rock-lined thermal features to
 date later than the majority of pithouses and
 trash deposits (after M. Miller 1995b).
 
-07-A2946  4/13/04  12:06 PM  Page 244
+07-A2946  4/13/04  12:06 PM  Page 244
 
 244 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -36443,7 +36443,7 @@ Batcho 1983; although see Brook 1966b
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 245
+07-A2946  4/13/04  12:06 PM  Page 245
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 245
 
@@ -36555,7 +36555,7 @@ sively during the El Paso phase. Recent
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 246
+07-A2946  4/13/04  12:06 PM  Page 246
 
 246 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -36656,7 +36656,7 @@ to another transition in the architectural
 sequence as indicated by a notable in-
 crease in the use of formally constructed
 
-07-A2946  4/13/04  12:06 PM  Page 247
+07-A2946  4/13/04  12:06 PM  Page 247
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 247
 
@@ -36848,7 +36848,7 @@ west, corn (Zea mays) represents the most
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 248
+07-A2946  4/13/04  12:06 PM  Page 248
 
 248 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -37037,7 +37037,7 @@ pithouse and isolated room components
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 249
+07-A2946  4/13/04  12:06 PM  Page 249
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 249
 
@@ -37174,7 +37174,7 @@ and 1250/1300 to around 40 percent but
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 250
+07-A2946  4/13/04  12:06 PM  Page 250
 
 250 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -37273,7 +37273,7 @@ Pueblo period, as Carmichael (1983,
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:06 PM  Page 251
+07-A2946  4/13/04  12:06 PM  Page 251
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 251
 
@@ -37389,7 +37389,7 @@ mality between a.d. 1150 and 1275 re-
 main more speculative, however, along
 with the reasons for the decline in cacti
 
-07-A2946  4/13/04  12:06 PM  Page 252
+07-A2946  4/13/04  12:06 PM  Page 252
 
 252 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -37500,7 +37500,7 @@ vessels increase gradually between a.d.
 1000 and 1275, until bichrome and early
 polychrome varieties are completely re-
 
-07-A2946  4/13/04  12:06 PM  Page 253
+07-A2946  4/13/04  12:06 PM  Page 253
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 253
 
@@ -37594,7 +37594,7 @@ ticularly at isolated room components.
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 254
+07-A2946  4/13/04  12:07 PM  Page 254
 
 254 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -37682,7 +37682,7 @@ ease of vessel transport may also be likely
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 255
+07-A2946  4/13/04  12:07 PM  Page 255
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 255
 
@@ -37828,7 +37828,7 @@ aging around a.d. 1300, is deﬁned by a
 burned rock midden, at least fourteen tipi
 rings, multiple hearths, mortar holes, and
 
-07-A2946  4/13/04  12:07 PM  Page 256
+07-A2946  4/13/04  12:07 PM  Page 256
 
 256 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -38015,7 +38015,7 @@ as the La Junta phase ( J. C. Kelley et al.
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 257
+07-A2946  4/13/04  12:07 PM  Page 257
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 257
 
@@ -38202,7 +38202,7 @@ of the villages to the small pueblos of
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 258
+07-A2946  4/13/04  12:07 PM  Page 258
 
 258 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -38360,7 +38360,7 @@ carbon dates have been obtained from the
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 259
+07-A2946  4/13/04  12:07 PM  Page 259
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 259
 
@@ -38545,7 +38545,7 @@ carbon age range of a.d. 1420 (1516,
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 260
+07-A2946  4/13/04  12:07 PM  Page 260
 
 260 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -38695,7 +38695,7 @@ of Spanish colonization increased with
 the establishment of missions and settle-
 ments in the La Junta district and the
 
-07-A2946  4/13/04  12:07 PM  Page 261
+07-A2946  4/13/04  12:07 PM  Page 261
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 261
 
@@ -38781,7 +38781,7 @@ established along the Rio Grande Valley,
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 262
+07-A2946  4/13/04  12:07 PM  Page 262
 
 262 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -38969,7 +38969,7 @@ hindered to an extent by sampling and
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 263
+07-A2946  4/13/04  12:07 PM  Page 263
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 263
 
@@ -39024,7 +39024,7 @@ Other wild plant remains include sun-
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 264
+07-A2946  4/13/04  12:07 PM  Page 264
 
 264 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -39134,7 +39134,7 @@ throughout New Mexico, west Texas, and
 
 G&S Typesetters PDF proof
 
-07-A2946  4/13/04  12:07 PM  Page 265
+07-A2946  4/13/04  12:07 PM  Page 265
 
 JORNADA MOGOLLON AND EASTERN TR ANS-PECOS REGIONS / 265
 
@@ -39262,7 +39262,7 @@ Development Board.
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 266
+08-A2946  4/13/04  12:09 PM  Page 266
 
 8▲▲▲
 
@@ -39393,7 +39393,7 @@ that apparently waxed and waned in in-
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 267
+08-A2946  4/13/04  12:09 PM  Page 267
 
 LOWER PECOS RIVER REGION / 267
 
@@ -39505,7 +39505,7 @@ a shared belief system during the Middle
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 268
+08-A2946  4/13/04  12:09 PM  Page 268
 
 268 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -39658,7 +39658,7 @@ Inﬁerno
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 269
+08-A2946  4/13/04  12:09 PM  Page 269
 
 LOWER PECOS RIVER REGION / 269
 
@@ -39795,7 +39795,7 @@ procurement was evidenced at Baker Cave
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 270
+08-A2946  4/13/04  12:09 PM  Page 270
 
 270 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -39989,7 +39989,7 @@ fantastic insects.
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 271
+08-A2946  4/13/04  12:09 PM  Page 271
 
 LOWER PECOS RIVER REGION / 271
 
@@ -40071,7 +40071,7 @@ rather than the actual movement of
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 272
+08-A2946  4/13/04  12:09 PM  Page 272
 
 272 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -40263,7 +40263,7 @@ are processions of head-dressed warriors
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 273
+08-A2946  4/13/04  12:09 PM  Page 273
 
 LOWER PECOS RIVER REGION / 273
 
@@ -40387,7 +40387,7 @@ found in deposits dating from 3,100 to
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 274
+08-A2946  4/13/04  12:09 PM  Page 274
 
 274 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -40532,7 +40532,7 @@ sidered vegetal material processing tools,
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 275
+08-A2946  4/13/04  12:09 PM  Page 275
 
 LOWER PECOS RIVER REGION / 275
 
@@ -40676,7 +40676,7 @@ of Texas at Austin.
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 276
+08-A2946  4/13/04  12:09 PM  Page 276
 
 276 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -40778,7 +40778,7 @@ knives, and plain ceramics (Turpin and
 Robinson 1998). The type site, Inﬁerno
 Camp, contains more than one hundred
 
-08-A2946  4/13/04  12:09 PM  Page 277
+08-A2946  4/13/04  12:09 PM  Page 277
 
 LOWER PECOS RIVER REGION / 277
 
@@ -40921,7 +40921,7 @@ logical unit in the Lower Pecos region
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 278
+08-A2946  4/13/04  12:09 PM  Page 278
 
 278 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -41061,7 +41061,7 @@ its attempt to eradicate the Native Ameri-
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 279
+08-A2946  4/13/04  12:09 PM  Page 279
 
 LOWER PECOS RIVER REGION / 279
 
@@ -41253,7 +41253,7 @@ ries with sweeping views, and residences
 
 G&S Typesetters PDF proof
 
-08-A2946  4/13/04  12:09 PM  Page 280
+08-A2946  4/13/04  12:09 PM  Page 280
 
 280 / DESERT ARCHEOLOGY OF WESTERN TEXAS
 
@@ -41285,7 +41285,7 @@ completed in 1882.
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 283
+09-A2946  4/13/04  12:17 PM  Page 283
 
 9▲▲▲
 
@@ -41414,7 +41414,7 @@ as salinas, are interspersed throughout the
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 284
+09-A2946  4/13/04  12:17 PM  Page 284
 
 284 / HIGH PLAINS AND CANYONLANDS
 
@@ -41518,7 +41518,7 @@ to southeast (Bomar 1983; Carr 1967;
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 285
+09-A2946  4/13/04  12:17 PM  Page 285
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 285
 
@@ -41709,7 +41709,7 @@ from horse, camel, and bison along with
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 286
+09-A2946  4/13/04  12:17 PM  Page 286
 
 286 / HIGH PLAINS AND CANYONLANDS
 
@@ -41878,7 +41878,7 @@ been reworked to extend their usefulness
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 287
+09-A2946  4/13/04  12:17 PM  Page 287
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 287
 
@@ -41983,7 +41983,7 @@ doned stream channel in Running Water
 
 Fig. 9.4. Plainview site in Running Water Draw.
 
-09-A2946  4/13/04  12:17 PM  Page 288
+09-A2946  4/13/04  12:17 PM  Page 288
 
 288 / HIGH PLAINS AND CANYONLANDS
 
@@ -42081,7 +42081,7 @@ Fig. 9.6. Plainview points from the Ryan site cache.
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 289
+09-A2946  4/13/04  12:17 PM  Page 289
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 289
 
@@ -42158,7 +42158,7 @@ c.
 Fig. 9.7. Excavations at the Ryan site, an extinct small playa on the High Plains surface:
 a, excavations; b, c, crew working at the Ryan site.
 
-09-A2946  4/13/04  12:17 PM  Page 290
+09-A2946  4/13/04  12:17 PM  Page 290
 
 290 / HIGH PLAINS AND CANYONLANDS
 
@@ -42260,7 +42260,7 @@ Little is known about the Early Ar-
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 291
+09-A2946  4/13/04  12:17 PM  Page 291
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 291
 
@@ -42333,7 +42333,7 @@ Fig. 9.10. Map of the Southern High Plains with locations of selected post-Paleo
 Fig. 9.11. Large caliche-capped, basin-shaped pit from the Middle Archaic at the Lubbock Lake
 Landmark.
 
-09-A2946  4/13/04  12:17 PM  Page 292
+09-A2946  4/13/04  12:17 PM  Page 292
 
 292 / HIGH PLAINS AND CANYONLANDS
 
@@ -42529,7 +42529,7 @@ lithic tools and ﬂakes, and bone beads
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 293
+09-A2946  4/13/04  12:17 PM  Page 293
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 293
 
@@ -42726,7 +42726,7 @@ At the northern end of the Southern
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 294
+09-A2946  4/13/04  12:17 PM  Page 294
 
 294 / HIGH PLAINS AND CANYONLANDS
 
@@ -42925,7 +42925,7 @@ trum, meat-related subsistence base in
 
 G&S Typesetters PDF proof
 
-09-A2946  4/13/04  12:17 PM  Page 295
+09-A2946  4/13/04  12:17 PM  Page 295
 
 LATE QUATERNARY ENVIRONMENTS OF SOUTHERN HIGH PLAINS / 295
 
@@ -43019,7 +43019,7 @@ tance was provided by Scott Malone.
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 296
+10-A2946  4/13/04  12:20 PM  Page 296
 
 10▲▲▲
 
@@ -43149,7 +43149,7 @@ Palo Duro Complex (Willey and Hughes
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 297
+10-A2946  4/13/04  12:20 PM  Page 297
 
 1978b) appeared to represent a group of
 hunter-gatherers who simply obtained
@@ -43340,7 +43340,7 @@ Triassic sandstones are more resistant to
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 298
+10-A2946  4/13/04  12:20 PM  Page 298
 
 298 / HIGH PLAINS AND CANYONLANDS
 
@@ -43441,7 +43441,7 @@ tional Park of the Plains” that would fo-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 299
+10-A2946  4/13/04  12:20 PM  Page 299
 
 PALO DURO COMPLEX / 299
 
@@ -43566,7 +43566,7 @@ to deﬁning the nature of the interaction
 between Plains Woodland and Palo Duro
 Complex peoples.
 
-10-A2946  4/13/04  12:20 PM  Page 300
+10-A2946  4/13/04  12:20 PM  Page 300
 
 Fig. 10.3. Map of Late Prehistoric I culture
 complexes and phases in and around the
@@ -43579,7 +43579,7 @@ bered key to site locations.
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 301
+10-A2946  4/13/04  12:20 PM  Page 301
 
 PALO DURO COMPLEX / 301
 
@@ -43803,7 +43803,7 @@ vestigations have added a third category,
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 302
+10-A2946  4/13/04  12:20 PM  Page 302
 
 Table 10.2. Summary of Radiocarbon Dates for Sites of the Palo Duro Complex
 
@@ -44100,7 +44100,7 @@ uncalibrated)
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 303
+10-A2946  4/13/04  12:20 PM  Page 303
 
 PALO DURO COMPLEX / 303
 
@@ -44316,7 +44316,7 @@ County, was excavated in 1985 –86 by
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 304
+10-A2946  4/13/04  12:20 PM  Page 304
 
 304 / HIGH PLAINS AND CANYONLANDS
 
@@ -44448,7 +44448,7 @@ front and back walls (possible water traps).
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 305
+10-A2946  4/13/04  12:20 PM  Page 305
 
 the total duration of the occupations may
 have been between one hundred and three
@@ -44556,7 +44556,7 @@ pithouse and storage pit features) were
 Fig. 10.6. Map of the north-central portion of the Sam Wahl site (41GR291) showing locations of
 data recovery mechanical excavations, hand excavations, and cultural features.
 
-10-A2946  4/13/04  12:20 PM  Page 306
+10-A2946  4/13/04  12:20 PM  Page 306
 
 306 / HIGH PLAINS AND CANYONLANDS
 
@@ -44661,7 +44661,7 @@ represented by 1,445 artifacts and a fea-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 307
+10-A2946  4/13/04  12:20 PM  Page 307
 
 PALO DURO COMPLEX / 307
 
@@ -44780,7 +44780,7 @@ open camp sites have produced deﬁnable
 Palo Duro components with artifact as-
 semblages that are useful for comparative
 
-10-A2946  4/13/04  12:20 PM  Page 308
+10-A2946  4/13/04  12:20 PM  Page 308
 
 308 / HIGH PLAINS AND CANYONLANDS
 
@@ -45033,7 +45033,7 @@ number of manos and metates is excep-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 309
+10-A2946  4/13/04  12:20 PM  Page 309
 
 PALO DURO COMPLEX / 309
 
@@ -45247,7 +45247,7 @@ shape (round to oval) and in skeletal
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 310
+10-A2946  4/13/04  12:20 PM  Page 310
 
 310 / HIGH PLAINS AND CANYONLANDS
 
@@ -45351,7 +45351,7 @@ Late Prehistoric I period. Although its
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 311
+10-A2946  4/13/04  12:20 PM  Page 311
 
 PALO DURO COMPLEX / 311
 
@@ -45482,7 +45482,7 @@ sources.
 The immediate availability of lithic
 material is only a partial explanation for
 
-10-A2946  4/13/04  12:20 PM  Page 312
+10-A2946  4/13/04  12:20 PM  Page 312
 
 312 / HIGH PLAINS AND CANYONLANDS
 
@@ -45889,7 +45889,7 @@ stones, than would hunting activities.
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:20 PM  Page 313
+10-A2946  4/13/04  12:20 PM  Page 313
 
 PALO DURO COMPLEX / 313
 
@@ -46151,7 +46151,7 @@ G&S Typesetters PDF proof
 Fig. 10.12. Comparison of artifact density and projectile point/grinding tool indexes for Palo
 Duro components.
 
-10-A2946  4/13/04  12:21 PM  Page 314
+10-A2946  4/13/04  12:21 PM  Page 314
 
 314 / HIGH PLAINS AND CANYONLANDS
 
@@ -46259,7 +46259,7 @@ with that from the other sites. There ap-
 pear to be three sets of grinding tools rep-
 resented at the Sam Wahl site. One set
 
-10-A2946  4/13/04  12:21 PM  Page 315
+10-A2946  4/13/04  12:21 PM  Page 315
 
 PALO DURO COMPLEX / 315
 
@@ -46351,7 +46351,7 @@ the case, then the lower frequency of
 grinding tool recycling could be a func-
 tion of time rather than evidence that
 
-10-A2946  4/13/04  12:21 PM  Page 316
+10-A2946  4/13/04  12:21 PM  Page 316
 
 316 / HIGH PLAINS AND CANYONLANDS
 
@@ -46668,7 +46668,7 @@ due to the processing of different plants.
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 317
+10-A2946  4/13/04  12:21 PM  Page 317
 
 The ceramics from Palo Duro sites are
 interesting for a variety of reasons. Sherds
@@ -46861,7 +46861,7 @@ at Lake Alan Henry). Baking pits were
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 318
+10-A2946  4/13/04  12:21 PM  Page 318
 
 318 / HIGH PLAINS AND CANYONLANDS
 
@@ -47126,7 +47126,7 @@ other sites are either so meager that they
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 319
+10-A2946  4/13/04  12:21 PM  Page 319
 
 PALO DURO COMPLEX / 319
 
@@ -47409,7 +47409,7 @@ of the art (primarily the inability to rec-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 320
+10-A2946  4/13/04  12:21 PM  Page 320
 
 320 / HIGH PLAINS AND CANYONLANDS
 
@@ -47619,7 +47619,7 @@ Basehart 1960; Castetter and Opler 1936,
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 321
+10-A2946  4/13/04  12:21 PM  Page 321
 
 1958), many different plants were cooked
 in pit ovens, but the principal ones were
@@ -47809,7 +47809,7 @@ game animals appear to have been deer
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 322
+10-A2946  4/13/04  12:21 PM  Page 322
 
 322 / HIGH PLAINS AND CANYONLANDS
 
@@ -47996,7 +47996,7 @@ ture from Deadman’s Shelter mimics that
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 323
+10-A2946  4/13/04  12:21 PM  Page 323
 
 from the residential bases and denotes the
 considerable importance of grinding plant
@@ -48184,7 +48184,7 @@ storage was concealment, the predomi-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 324
+10-A2946  4/13/04  12:21 PM  Page 324
 
 324 / HIGH PLAINS AND CANYONLANDS
 
@@ -48368,7 +48368,7 @@ Complex site that has been identiﬁed,
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 325
+10-A2946  4/13/04  12:21 PM  Page 325
 
 many more probably go unrecognized be-
 cause the prehistoric cultural activities did
@@ -48553,7 +48553,7 @@ the end of the Late Prehistoric I period;
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 326
+10-A2946  4/13/04  12:21 PM  Page 326
 
 326 / HIGH PLAINS AND CANYONLANDS
 
@@ -48743,7 +48743,7 @@ male and two infants). The point has
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 327
+10-A2946  4/13/04  12:21 PM  Page 327
 
 proximal and distal breaks that appear to
 be impact related (the proximal break is
@@ -48932,7 +48932,7 @@ Jornada Mogollon culture is circumstan-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 328
+10-A2946  4/13/04  12:21 PM  Page 328
 
 328 / HIGH PLAINS AND CANYONLANDS
 
@@ -49127,7 +49127,7 @@ Mesilla phase (MacNeish 1993b, 183 –
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 329
+10-A2946  4/13/04  12:21 PM  Page 329
 
 84), and they could be the prototype for
 similar arrow points in the Palo Duro
@@ -49320,7 +49320,7 @@ where considerable hunting and process-
 
 G&S Typesetters PDF proof
 
-10-A2946  4/13/04  12:21 PM  Page 330
+10-A2946  4/13/04  12:21 PM  Page 330
 
 330 / HIGH PLAINS AND CANYONLANDS
 
@@ -49430,7 +49430,7 @@ archeologist.
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 331
+11-A2946  4/13/04  12:22 PM  Page 331
 
 11▲▲▲
 
@@ -49559,7 +49559,7 @@ east, erosion of the fans and relic valleys
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 332
+11-A2946  4/13/04  12:22 PM  Page 332
 
 332 / HIGH PLAINS AND CANYONLANDS
 
@@ -49694,7 +49694,7 @@ mule deer, pronghorn, and smaller game.
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 333
+11-A2946  4/13/04  12:22 PM  Page 333
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 333
 
@@ -49882,7 +49882,7 @@ scape, the Panhandle, rather than a cul-
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 334
+11-A2946  4/13/04  12:22 PM  Page 334
 
 334 / HIGH PLAINS AND CANYONLANDS
 
@@ -50072,7 +50072,7 @@ lations. This project followed on his many
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 335
+11-A2946  4/13/04  12:22 PM  Page 335
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 335
 
@@ -50258,7 +50258,7 @@ ber of years (e.g., twenty to thirty years).
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 336
+11-A2946  4/13/04  12:22 PM  Page 336
 
 336 / HIGH PLAINS AND CANYONLANDS
 
@@ -50350,7 +50350,7 @@ Creek phase. During the early portion of
 the phase, there were greater numbers of
 aggregated room units. Around a.d. 1350,
 
-11-A2946  4/13/04  12:22 PM  Page 337
+11-A2946  4/13/04  12:22 PM  Page 337
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 337
 
@@ -50421,7 +50421,7 @@ Fig. 11.3. Multiroom residential patterns of Antelope Creek Ruin 22 (Lintz 1986,
 
 Fig. 11.4. Model Antelope Creek phase residential unit (Lintz 1986, 90).
 
-11-A2946  4/13/04  12:22 PM  Page 338
+11-A2946  4/13/04  12:22 PM  Page 338
 
 338 / HIGH PLAINS AND CANYONLANDS
 
@@ -50609,7 +50609,7 @@ studies have identiﬁed acorns, hackberry,
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 339
+11-A2946  4/13/04  12:22 PM  Page 339
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 339
 
@@ -50796,7 +50796,7 @@ contexts. Artifact assemblages present at
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 340
+11-A2946  4/13/04  12:22 PM  Page 340
 
 340 / HIGH PLAINS AND CANYONLANDS
 
@@ -50985,7 +50985,7 @@ variety of Black on White types, Jeddito
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 341
+11-A2946  4/13/04  12:22 PM  Page 341
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 341
 
@@ -51094,7 +51094,7 @@ such as a modiﬁed bison rib that I suspect
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 342
+11-A2946  4/13/04  12:22 PM  Page 342
 
 342 / HIGH PLAINS AND CANYONLANDS
 
@@ -51287,7 +51287,7 @@ portion of the Antelope Creek phase re-
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 343
+11-A2946  4/13/04  12:22 PM  Page 343
 
 FROM STONE SLAB ARCHITECTURE TO ABANDONMENT / 343
 
@@ -51473,7 +51473,7 @@ turing, Lintz (1986) argues, is a means of
 
 G&S Typesetters PDF proof
 
-11-A2946  4/13/04  12:22 PM  Page 344
+11-A2946  4/13/04  12:22 PM  Page 344
 
 344 / HIGH PLAINS AND CANYONLANDS
 
@@ -51643,7 +51643,7 @@ of some of my arguments.
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:23 PM  Page 347
+12-A2946  4/13/04  12:23 PM  Page 347
 
 12▲▲▲
 
@@ -51770,7 +51770,7 @@ western Blackland Prairie, the Eastern
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:23 PM  Page 348
+12-A2946  4/13/04  12:23 PM  Page 348
 
 348 / EASTERN AND NORTHERN TEXAS
 
@@ -51866,7 +51866,7 @@ of the Caddoan area and only a short dis-
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:23 PM  Page 349
+12-A2946  4/13/04  12:23 PM  Page 349
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 349
 
@@ -51993,7 +51993,7 @@ recently on these “Norteño” sites.
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:24 PM  Page 350
+12-A2946  4/13/04  12:24 PM  Page 350
 
 350 / EASTERN AND NORTHERN TEXAS
 
@@ -52067,7 +52067,7 @@ site (41LN29A), Jewett Mine: a– c, untyped expanding stem; d, e, untyped paral
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:24 PM  Page 351
+12-A2946  4/13/04  12:24 PM  Page 351
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 351
 
@@ -52161,7 +52161,7 @@ its at Spike contained two possible dumps
 of hearth debris, one small pit, one large
 pit, and one possible posthole. The arti-
 
-12-A2946  4/13/04  12:24 PM  Page 352
+12-A2946  4/13/04  12:24 PM  Page 352
 
 352 / EASTERN AND NORTHERN TEXAS
 
@@ -52273,7 +52273,7 @@ year-round use for residential purposes.
 While the delta 13C value of "15.0 ‰
 obtained on the collagen fraction of bone
 
-12-A2946  4/13/04  12:24 PM  Page 353
+12-A2946  4/13/04  12:24 PM  Page 353
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 353
 
@@ -52463,7 +52463,7 @@ that are untempered but have a ﬁne
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:25 PM  Page 354
+12-A2946  4/13/04  12:25 PM  Page 354
 
 354 / EASTERN AND NORTHERN TEXAS
 
@@ -52559,7 +52559,7 @@ yielded burned nutshells. The nutshells
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:25 PM  Page 355
+12-A2946  4/13/04  12:25 PM  Page 355
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 355
 
@@ -52752,7 +52752,7 @@ and various small mammals. None of the
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:25 PM  Page 356
+12-A2946  4/13/04  12:25 PM  Page 356
 
 356 / EASTERN AND NORTHERN TEXAS
 
@@ -52871,7 +52871,7 @@ at Hurricane Hill (Wilson and Steele
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:25 PM  Page 357
+12-A2946  4/13/04  12:25 PM  Page 357
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 357
 
@@ -52962,7 +52962,7 @@ one hearth and four possible posts or
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 358
+12-A2946  4/13/04  12:26 PM  Page 358
 
 358 / EASTERN AND NORTHERN TEXAS
 
@@ -53038,7 +53038,7 @@ ley Engraved; e, untyped red-ﬁlmed rim with crenelated lip; f, red-ﬁlmed Ave
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 359
+12-A2946  4/13/04  12:26 PM  Page 359
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 359
 
@@ -53157,7 +53157,7 @@ component was not isolated.
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 360
+12-A2946  4/13/04  12:26 PM  Page 360
 
 360 / EASTERN AND NORTHERN TEXAS
 
@@ -53257,7 +53257,7 @@ culture at these components.
 Five of the Late Prehistoric compo-
 nents, four along the Navasota River (at
 
-12-A2946  4/13/04  12:26 PM  Page 361
+12-A2946  4/13/04  12:26 PM  Page 361
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 361
 
@@ -53449,7 +53449,7 @@ true through the ﬁrst half of the Late Pre-
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 362
+12-A2946  4/13/04  12:26 PM  Page 362
 
 362 / EASTERN AND NORTHERN TEXAS
 
@@ -53584,7 +53584,7 @@ both areas exhibit time-related trends in
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 363
+12-A2946  4/13/04  12:26 PM  Page 363
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 363
 
@@ -53774,7 +53774,7 @@ Creek is the low stable carbon isotope
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:26 PM  Page 364
+12-A2946  4/13/04  12:26 PM  Page 364
 
 364 / EASTERN AND NORTHERN TEXAS
 
@@ -53962,7 +53962,7 @@ tings. During the early Late Prehistoric
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:27 PM  Page 365
+12-A2946  4/13/04  12:27 PM  Page 365
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 365
 
@@ -54099,7 +54099,7 @@ Mine, it appears that most of the exca-
 vated sites at Lake Fork Reservoir served
 residential functions, at least during the
 
-12-A2946  4/13/04  12:27 PM  Page 366
+12-A2946  4/13/04  12:27 PM  Page 366
 
 366 / EASTERN AND NORTHERN TEXAS
 
@@ -54293,7 +54293,7 @@ all at Cooper Lake, and the pottery dat-
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:27 PM  Page 367
+12-A2946  4/13/04  12:27 PM  Page 367
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 367
 
@@ -54427,7 +54427,7 @@ relate to similar ceramics at the Jewett
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:27 PM  Page 368
+12-A2946  4/13/04  12:27 PM  Page 368
 
 368 / EASTERN AND NORTHERN TEXAS
 
@@ -54616,7 +54616,7 @@ horticultural economy occupied the
 
 G&S Typesetters PDF proof
 
-12-A2946  4/13/04  12:27 PM  Page 369
+12-A2946  4/13/04  12:27 PM  Page 369
 
 POST OAK SAVANNA OF EAST-CENTR AL TEXAS / 369
 
@@ -54775,7 +54775,7 @@ for editing and production.
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 370
+13-A2946  4/13/04  12:29 PM  Page 370
 
 13▲▲▲
 
@@ -54904,7 +54904,7 @@ communities along the Red, Sulphur,
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 371
+13-A2946  4/13/04  12:29 PM  Page 371
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 371
 
@@ -55002,7 +55002,7 @@ ally are related to the changing character
 of the archeological record from north-
 eastern Texas.
 
-13-A2946  4/13/04  12:29 PM  Page 372
+13-A2946  4/13/04  12:29 PM  Page 372
 
 372 / EASTERN AND NORTHERN TEXAS
 
@@ -55101,7 +55101,7 @@ and then extensive late 1930s to early
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 373
+13-A2946  4/13/04  12:29 PM  Page 373
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 373
 
@@ -55292,7 +55292,7 @@ place in the resource-rich valleys of the
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 374
+13-A2946  4/13/04  12:29 PM  Page 374
 
 374 / EASTERN AND NORTHERN TEXAS
 
@@ -55399,7 +55399,7 @@ Archeological data from the Yarbrough
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 375
+13-A2946  4/13/04  12:29 PM  Page 375
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 375
 
@@ -55495,7 +55495,7 @@ camps dominated by hunting tools (in-
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 376
+13-A2946  4/13/04  12:29 PM  Page 376
 
 376 / EASTERN AND NORTHERN TEXAS
 
@@ -55686,7 +55686,7 @@ Changes in the density and placement
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 377
+13-A2946  4/13/04  12:29 PM  Page 377
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 377
 
@@ -55877,7 +55877,7 @@ the Woodland period. The Hurricane
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 378
+13-A2946  4/13/04  12:29 PM  Page 378
 
 378 / EASTERN AND NORTHERN TEXAS
 
@@ -56016,7 +56016,7 @@ organization within local settlements and
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:29 PM  Page 379
+13-A2946  4/13/04  12:29 PM  Page 379
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 379
 
@@ -56163,7 +56163,7 @@ holes, and other features (Cliff and Hunt
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:30 PM  Page 380
+13-A2946  4/13/04  12:30 PM  Page 380
 
 380 / EASTERN AND NORTHERN TEXAS
 
@@ -56197,13 +56197,13 @@ Fig. 13.8. Class II Burials on the east slope of Mound 1 at the Sanders site (fr
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:30 PM  Page 381
+13-A2946  4/13/04  12:30 PM  Page 381
 
 Fig. 13.9. Class I, II, and III Burials on the top and east slope of Mound 1 at Sanders site (from Hamilton 1997, ﬁg. 3).
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:31 PM  Page 382
+13-A2946  4/13/04  12:31 PM  Page 382
 
 382 / EASTERN AND NORTHERN TEXAS
 
@@ -56291,7 +56291,7 @@ Bayou basin (Middlebrook 1994), dating
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:31 PM  Page 383
+13-A2946  4/13/04  12:31 PM  Page 383
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 383
 
@@ -56378,7 +56378,7 @@ ter ca. a.d. 900. The multiple mound
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:31 PM  Page 384
+13-A2946  4/13/04  12:31 PM  Page 384
 
 384 / EASTERN AND NORTHERN TEXAS
 
@@ -56462,7 +56462,7 @@ mound centers, as representing the apex
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:31 PM  Page 385
+13-A2946  4/13/04  12:31 PM  Page 385
 
 Fig. 13.15. Structure 2 at the Oak Hill Village (41RK214); depressions mark posthole stains of the structure walls and extended entranceway.
 Photograph courtesy of PBS & J, Inc.
@@ -56472,7 +56472,7 @@ site (41SY92).
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 386
+13-A2946  4/13/04  12:32 PM  Page 386
 
 386 / EASTERN AND NORTHERN TEXAS
 
@@ -56544,7 +56544,7 @@ Arkansas and northwestern Louisiana (adapted from Perttula 1993c).
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 387
+13-A2946  4/13/04  12:32 PM  Page 387
 
 G&S Typesetters PDF proof
 
@@ -56556,7 +56556,7 @@ Fig. 13.20. Perforating tools and drills from
 Early/Middle Caddoan sites (from Calvin B.
 Jones collection).
 
-13-A2946  4/13/04  12:32 PM  Page 388
+13-A2946  4/13/04  12:32 PM  Page 388
 
 388 / EASTERN AND NORTHERN TEXAS
 
@@ -56742,7 +56742,7 @@ Jars, bowls, bottles
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 389
+13-A2946  4/13/04  12:32 PM  Page 389
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 389
 
@@ -56857,7 +56857,7 @@ of northeastern Texas (particularly the
 upper Sabine and Cypress drainage ba-
 sins), and in the case of Maxey Noded
 
-13-A2946  4/13/04  12:32 PM  Page 390
+13-A2946  4/13/04  12:32 PM  Page 390
 
 390 / EASTERN AND NORTHERN TEXAS
 
@@ -56966,7 +56966,7 @@ decorative attributes between Caddoan
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 391
+13-A2946  4/13/04  12:32 PM  Page 391
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 391
 
@@ -57044,7 +57044,7 @@ the Sabine River (Perttula et al. 1993b),
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 392
+13-A2946  4/13/04  12:32 PM  Page 392
 
 392 / EASTERN AND NORTHERN TEXAS
 
@@ -57154,7 +57154,7 @@ ent on some of the utility vessels.
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:32 PM  Page 393
+13-A2946  4/13/04  12:32 PM  Page 393
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 393
 
@@ -57296,7 +57296,7 @@ well as on the lower Sulphur River ( Jelks
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 394
+13-A2946  4/13/04  12:33 PM  Page 394
 
 394 / EASTERN AND NORTHERN TEXAS
 
@@ -57396,7 +57396,7 @@ been occupied at this time, and Michael
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 395
+13-A2946  4/13/04  12:33 PM  Page 395
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 395
 
@@ -57582,7 +57582,7 @@ doan settlements along this stretch of the
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 396
+13-A2946  4/13/04  12:33 PM  Page 396
 
 396 / EASTERN AND NORTHERN TEXAS
 
@@ -57772,7 +57772,7 @@ Titus phase suggests a simple alternative:
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 397
+13-A2946  4/13/04  12:33 PM  Page 397
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 397
 
@@ -57826,7 +57826,7 @@ Thus, the larger Cypress cluster is “the
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 398
+13-A2946  4/13/04  12:33 PM  Page 398
 
 398 / EASTERN AND NORTHERN TEXAS
 
@@ -58027,7 +58027,7 @@ Analyses of the spatial distribution of
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 399
+13-A2946  4/13/04  12:33 PM  Page 399
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 399
 
@@ -58126,7 +58126,7 @@ Because of the intense professional and
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 400
+13-A2946  4/13/04  12:33 PM  Page 400
 
 400 / EASTERN AND NORTHERN TEXAS
 
@@ -58235,7 +58235,7 @@ and 1500 (Perttula 1989a, 1993c; Thur-
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 401
+13-A2946  4/13/04  12:33 PM  Page 401
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 401
 
@@ -58376,7 +58376,7 @@ Perttula 1992a, table 8; Perttula and Nel-
 son 1998, table 24); these burials are
 along Big Cypress Bayou and its tributar-
 
-13-A2946  4/13/04  12:33 PM  Page 402
+13-A2946  4/13/04  12:33 PM  Page 402
 
 402 / EASTERN AND NORTHERN TEXAS
 
@@ -58434,7 +58434,7 @@ cemeteries, but the high-status burials
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 403
+13-A2946  4/13/04  12:33 PM  Page 403
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 403
 
@@ -58534,7 +58534,7 @@ ca. a.d. 1550 –1600 (see Perttula 1992a;
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 404
+13-A2946  4/13/04  12:33 PM  Page 404
 
 404 / EASTERN AND NORTHERN TEXAS
 
@@ -58652,7 +58652,7 @@ lines with hematite or kaolin. The diver-
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 405
+13-A2946  4/13/04  12:33 PM  Page 405
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 405
 
@@ -58761,7 +58761,7 @@ seeds were gathered, but they appear to
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 406
+13-A2946  4/13/04  12:33 PM  Page 406
 
 406 / EASTERN AND NORTHERN TEXAS
 
@@ -58958,7 +58958,7 @@ litical integration appears to have been re-
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 407
+13-A2946  4/13/04  12:33 PM  Page 407
 
 PREHISTORIC AND CADDOAN ARCHEOLOGY OF THE PINEYWOODS / 407
 
@@ -59098,11 +59098,11 @@ during the preparation of this chapter.
 
 G&S Typesetters PDF proof
 
-13-A2946  4/13/04  12:33 PM  Page 408
+13-A2946  4/13/04  12:33 PM  Page 408
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 409
+14-A2946-BIB  4/13/04  12:36 PM  Page 409
 
 ▲
 References Cited
@@ -59315,7 +59315,7 @@ Austin: Texas Archeological Survey, University of Texas at Austin.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 410
+14-A2946-BIB  4/13/04  12:36 PM  Page 410
 
 410 / REFERENCES CITED
 
@@ -59565,7 +59565,7 @@ Texas at Austin.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 411
+14-A2946-BIB  4/13/04  12:36 PM  Page 411
 
 REFERENCES CITED / 411
 
@@ -59815,7 +59815,7 @@ Data Recovery Excavations at Site 41TT372 in the Tankersley
 Creek Watershed, Monticello B-2 Surface Mine, Titus County, Texas. Docu-
 ment No. 940608. Austin: Espey, Huston & Associates.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 412
+14-A2946-BIB  4/13/04  12:36 PM  Page 412
 
 Bartlema, L. L.
 
@@ -60066,7 +60066,7 @@ World War I. New York: Academic Press.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 413
+14-A2946-BIB  4/13/04  12:36 PM  Page 413
 
 REFERENCES CITED / 413
 
@@ -60316,7 +60316,7 @@ ological Research.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 414
+14-A2946-BIB  4/13/04  12:36 PM  Page 414
 
 414 / REFERENCES CITED
 
@@ -60572,7 +60572,7 @@ Droughts: The Protohistoric Period on the Southern Plains, edited by E. John-
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 415
+14-A2946-BIB  4/13/04  12:36 PM  Page 415
 
 REFERENCES CITED / 415
 
@@ -60823,7 +60823,7 @@ thropological Conference, Iowa City.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 416
+14-A2946-BIB  4/13/04  12:36 PM  Page 416
 
 416 / REFERENCES CITED
 
@@ -61096,7 +61096,7 @@ Texas Water Development Board.
 
 G&S Typesetters PDF proof
 
-REFERENCES CITED / 417
+REFERENCES CITED / 417
 
 Springs of Texas. Vol. 1. Fort Worth: Branch-Smith.
 
@@ -61335,7 +61335,7 @@ Abandonment of Settlements and Regions: Ethnoarchaeological
 
 and Archaeological Approaches. Cambridge: Cambridge University Press.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 418
+14-A2946-BIB  4/13/04  12:36 PM  Page 418
 
 418 / REFERENCES CITED
 
@@ -61614,7 +61614,7 @@ Report on Archeological Salvage in Falcon Reservoir, Season
 
 of 1952. Bulletin of the Texas Archeological Society 23:218 –59.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 419
+14-A2946-BIB  4/13/04  12:36 PM  Page 419
 
 REFERENCES CITED / 419
 
@@ -61876,7 +61876,7 @@ Oak Creek Mitigation Area (WOCMA), Cass County, Texas. White Oak
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 420
+14-A2946-BIB  4/13/04  12:36 PM  Page 420
 
 420 / REFERENCES CITED
 
@@ -62121,7 +62121,7 @@ Cores. La Tierra 19(4): 26 –39.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 421
+14-A2946-BIB  4/13/04  12:36 PM  Page 421
 
 REFERENCES CITED / 421
 
@@ -62382,7 +62382,7 @@ Christi Bay, Texas. Bulletin of the Texas Archeological Society 34:5 –30.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 422
+14-A2946-BIB  4/13/04  12:36 PM  Page 422
 
 422 / REFERENCES CITED
 
@@ -62644,7 +62644,7 @@ Artifacts of the Spanish Colonies of Florida and the Caribbean,
 1500 –1800. Vol. 1, Ceramics, Glassware, and Beads. Washington, D.C.:
 Smithsonian Institution Press.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 423
+14-A2946-BIB  4/13/04  12:36 PM  Page 423
 
 REFERENCES CITED / 423
 
@@ -62899,7 +62899,7 @@ by H. J. Shafer, J. E. Dockall, and R. L. Brewington, pp. 199 –210.
 Reports of Investigations No. 2, College Station: Center for Ecological
 Archaeology, Texas A&M University; Report 13, Austin: Archeology
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 424
+14-A2946-BIB  4/13/04  12:36 PM  Page 424
 
 424 / REFERENCES CITED
 
@@ -63141,7 +63141,7 @@ Technological Style in Early Upper Texas Coastal Ceramics:
 
 A Selected Sample from Site 41CH252. In Eagle’s Ridge: A Stratiﬁed Ar-
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 425
+14-A2946-BIB  4/13/04  12:36 PM  Page 425
 
 REFERENCES CITED / 425
 
@@ -63388,7 +63388,7 @@ oir 21, pt. 2, 31(114): 55 –82.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 426
+14-A2946-BIB  4/13/04  12:36 PM  Page 426
 
 426 / REFERENCES CITED
 
@@ -63645,7 +63645,7 @@ Simpson, pp. 177–88. Stroudsburg, Pa.: Dowden, Hutchinson, and Ross.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 427
+14-A2946-BIB  4/13/04  12:36 PM  Page 427
 
 REFERENCES CITED / 427
 
@@ -63896,7 +63896,7 @@ Press.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 428
+14-A2946-BIB  4/13/04  12:36 PM  Page 428
 
 428 / REFERENCES CITED
 
@@ -64148,7 +64148,7 @@ Annual Report. Natchitoches, La.: Northwestern State University.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 429
+14-A2946-BIB  4/13/04  12:36 PM  Page 429
 
 REFERENCES CITED / 429
 
@@ -64406,7 +64406,7 @@ An Environmental Proﬁle of the Palo Duro Creek Basin. Can-
 
 yon: Killgore Research Institute, West Texas State University.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 430
+14-A2946-BIB  4/13/04  12:36 PM  Page 430
 
 430 / REFERENCES CITED
 
@@ -64670,7 +64670,7 @@ tin: Texas Archeological Research Laboratory, University of Texas at Austin.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 431
+14-A2946-BIB  4/13/04  12:36 PM  Page 431
 
 REFERENCES CITED / 431
 
@@ -64935,7 +64935,7 @@ A Preliminary Report on Archeological Resources in South-
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 432
+14-A2946-BIB  4/13/04  12:36 PM  Page 432
 
 432 / REFERENCES CITED
 
@@ -65222,7 +65222,7 @@ Large Triangular Bifaces as Grave Goods in Southern Texas:
 
 An Example from 41LC4. La Tierra 21(4): 1–3.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 433
+14-A2946-BIB  4/13/04  12:36 PM  Page 433
 
 REFERENCES CITED / 433
 
@@ -65506,7 +65506,7 @@ dina River Valley. La Tierra 22(2): 25 –33.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 434
+14-A2946-BIB  4/13/04  12:36 PM  Page 434
 
 434 / REFERENCES CITED
 
@@ -65784,7 +65784,7 @@ book to the Quaternary History of the Llano Estacado, edited by V. T. Holli-
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 435
+14-A2946-BIB  4/13/04  12:36 PM  Page 435
 
 REFERENCES CITED / 435
 
@@ -66059,7 +66059,7 @@ nal (University of Pennsylvania) 24:61–175.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 436
+14-A2946-BIB  4/13/04  12:36 PM  Page 436
 
 436 / REFERENCES CITED
 
@@ -66335,7 +66335,7 @@ Ing, J. D., S. Smith-Savage, W. A. Cloud, and R. J. Mallouf
 
 Archeological Reconnaissance on Big Bend Ranch State Park,
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 437
+14-A2946-BIB  4/13/04  12:36 PM  Page 437
 
 REFERENCES CITED / 437
 
@@ -66614,7 +66614,7 @@ on the 1992 Test Excavations. In Archaeological Investigations at the City of
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 438
+14-A2946-BIB  4/13/04  12:36 PM  Page 438
 
 438 / REFERENCES CITED
 
@@ -66904,7 +66904,7 @@ guage in Colonial Coahuila and Texas. Plains Anthropologist 37(140):
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 439
+14-A2946-BIB  4/13/04  12:36 PM  Page 439
 
 REFERENCES CITED / 439
 
@@ -67152,7 +67152,7 @@ Kelley, D. B., and M. J. Guccione
 
 Cultural Resources Survey and Evaluation of Portions of the
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 440
+14-A2946-BIB  4/13/04  12:36 PM  Page 440
 
 440 / REFERENCES CITED
 
@@ -67419,7 +67419,7 @@ Organizational Variability in Late Paleo-Indian Assemblages.
 Ph.D. dissertation, Department of Anthropology, Washington State Uni-
 versity, Pullman.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 441
+14-A2946-BIB  4/13/04  12:36 PM  Page 441
 
 REFERENCES CITED / 441
 
@@ -67692,7 +67692,7 @@ Texas A&M University Press.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 442
+14-A2946-BIB  4/13/04  12:36 PM  Page 442
 
 442 / REFERENCES CITED
 
@@ -67954,7 +67954,7 @@ losus Cuvier). In Proceedings of the Colloquium on Biology and Management
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 443
+14-A2946-BIB  4/13/04  12:36 PM  Page 443
 
 REFERENCES CITED / 443
 
@@ -68208,7 +68208,7 @@ Texas Historical Commission.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 444
+14-A2946-BIB  4/13/04  12:36 PM  Page 444
 
 444 / REFERENCES CITED
 
@@ -68454,7 +68454,7 @@ Agricultural Intensiﬁcation in the Mogollon Highlands. In
 Mogollon V, edited by J. H. Kelley and P. H. Beckett, pp. 62 –75. Las
 Cruces, N.Mex.: COAS Publishing and Research.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 445
+14-A2946-BIB  4/13/04  12:36 PM  Page 445
 
 REFERENCES CITED / 445
 
@@ -68694,7 +68694,7 @@ Pisgah Ridge Chert Distributions: Evidence for Changing
 Territorial Size in North Central Texas. Bulletin of the Texas Archeological
 Society 64:247– 67.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 446
+14-A2946-BIB  4/13/04  12:36 PM  Page 446
 
 446 / REFERENCES CITED
 
@@ -68959,7 +68959,7 @@ SWCA Environmental Consultants.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 447
+14-A2946-BIB  4/13/04  12:36 PM  Page 447
 
 REFERENCES CITED / 447
 
@@ -69200,7 +69200,7 @@ The Mariposa Site: A Late Prehistoric Site on the Rio Grande
 Plain of Texas. Special Report 6, pt. 2. San Antonio: Center for Archaeo-
 logical Research, University of Texas at San Antonio.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 448
+14-A2946-BIB  4/13/04  12:36 PM  Page 448
 
 448 / REFERENCES CITED
 
@@ -69462,7 +69462,7 @@ logical Society 64:1– 63.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 449
+14-A2946-BIB  4/13/04  12:36 PM  Page 449
 
 REFERENCES CITED / 449
 
@@ -69715,7 +69715,7 @@ Program, Universidad Francisco de Miranda.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 450
+14-A2946-BIB  4/13/04  12:36 PM  Page 450
 
 450 / REFERENCES CITED
 
@@ -69984,7 +69984,7 @@ Patterns of Prehistoric Lithic Raw Material Utilization in the
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 451
+14-A2946-BIB  4/13/04  12:36 PM  Page 451
 
 REFERENCES CITED / 451
 
@@ -70241,7 +70241,7 @@ and Associates.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 452
+14-A2946-BIB  4/13/04  12:36 PM  Page 452
 
 452 / REFERENCES CITED
 
@@ -70497,7 +70497,7 @@ versity of Texas at Austin.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 453
+14-A2946-BIB  4/13/04  12:36 PM  Page 453
 
 REFERENCES CITED / 453
 
@@ -70755,7 +70755,7 @@ Prehistoric Flaked Points from Colorado and Neighboring
 Districts. Proceedings of the Colorado Museum of Natural History (Denver)
 10(2): 6 –17.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 454
+14-A2946-BIB  4/13/04  12:36 PM  Page 454
 
 454 / REFERENCES CITED
 
@@ -71019,7 +71019,7 @@ Institution.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 455
+14-A2946-BIB  4/13/04  12:36 PM  Page 455
 
 REFERENCES CITED / 455
 
@@ -71266,7 +71266,7 @@ loman Air Force Base, Otero County, New Mexico. Holloman Air Force Base
 Report No. 1996-010 and Report of Investigations No. 122EP. El Paso:
 Geo-Marine.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 456
+14-A2946-BIB  4/13/04  12:36 PM  Page 456
 
 456 / REFERENCES CITED
 
@@ -71530,7 +71530,7 @@ Fayetteville: Arkansas Archeological Survey.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 457
+14-A2946-BIB  4/13/04  12:36 PM  Page 457
 
 REFERENCES CITED / 457
 
@@ -71787,7 +71787,7 @@ Discovery: A Report on Pleistocene Human Remains from Midland, Texas,
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 458
+14-A2946-BIB  4/13/04  12:36 PM  Page 458
 
 458 / REFERENCES CITED
 
@@ -72054,7 +72054,7 @@ Archeological Investigations in the Great Bend Region, Miller
 County, Arkansas, Levee Items 2 and 3. Report 94-5. Lowell, Ark.: Mid-
 Continental Research Associates.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 459
+14-A2946-BIB  4/13/04  12:36 PM  Page 459
 
 REFERENCES CITED / 459
 
@@ -72327,7 +72327,7 @@ gist Memoir 14, 23(82): 113 –27.
 Archeology of the Mackenzie Reservoir area. In Geomorphol-
 ogy and Quaternary Stratigraphy of the Rolling Plains, Texas Panhandle, ed-
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 460
+14-A2946-BIB  4/13/04  12:36 PM  Page 460
 
 460 / REFERENCES CITED
 
@@ -72579,7 +72579,7 @@ Duewall-Newberry Site, Brazos County, Texas. In Bone Modiﬁcation, ed-
 ited by R. Bonnichsen and M. H. Sorg, pp. 413 –30. Orono: Center for
 the Study of Early Man, University of Maine.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 461
+14-A2946-BIB  4/13/04  12:36 PM  Page 461
 
 REFERENCES CITED / 461
 
@@ -72832,7 +72832,7 @@ San Antonio Nogalar: la Sierra de Tamaulipas et la frontière
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 462
+14-A2946-BIB  4/13/04  12:36 PM  Page 462
 
 462 / REFERENCES CITED
 
@@ -73097,7 +73097,7 @@ A Prehistoric Cemetery and Campsite in Live Oak County, Texas. 2 vols.
 Studies in Archeology 20. Austin: Texas Archeological Research Labora-
 tory, University of Texas at Austin.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 463
+14-A2946-BIB  4/13/04  12:36 PM  Page 463
 
 REFERENCES CITED / 463
 
@@ -73350,7 +73350,7 @@ Late Pleistocene and Holocene Faunal Changes at Hall’s Cave,
 
 Kerr County, Texas. Ph.D. dissertation, University of Texas at Austin.
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 464
+14-A2946-BIB  4/13/04  12:36 PM  Page 464
 
 464 / REFERENCES CITED
 
@@ -73629,7 +73629,7 @@ Archaeology, University of California, Los Angeles.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 465
+14-A2946-BIB  4/13/04  12:36 PM  Page 465
 
 REFERENCES CITED / 465
 
@@ -73897,7 +73897,7 @@ Smith County, Texas. Journal of Northeast Texas Archaeology 11:1–38.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 466
+14-A2946-BIB  4/13/04  12:36 PM  Page 466
 
 466 / REFERENCES CITED
 
@@ -74155,7 +74155,7 @@ The Belcher Mound, a Stratiﬁed Caddoan Site in Caddo Parish,
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 467
+14-A2946-BIB  4/13/04  12:36 PM  Page 467
 
 REFERENCES CITED / 467
 
@@ -74428,7 +74428,7 @@ Archeological Synthesis of South-Central and Southwestern New Mexico, ed-
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 468
+14-A2946-BIB  4/13/04  12:36 PM  Page 468
 
 468 / REFERENCES CITED
 
@@ -74690,7 +74690,7 @@ Army Corps of Engineers, Fort Worth District.
 
 G&S Typesetters PDF proof
 
-14-A2946-BIB  4/13/04  12:36 PM  Page 469
+14-A2946-BIB  4/13/04  12:36 PM  Page 469
 
 REFERENCES CITED / 469
 
@@ -74819,7 +74819,7 @@ partment of Anthropology, Texas A&M University, College Station.
 
 G&S Typesetters PDF proof
 
-15-A2946-CTB  4/13/04  12:36 PM  Page 471
+15-A2946-CTB  4/13/04  12:36 PM  Page 471
 
 ▲
 Contributors
